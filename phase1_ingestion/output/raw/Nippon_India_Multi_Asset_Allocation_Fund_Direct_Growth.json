@@ -14,13 +14,17 @@
     ]
   },
   "nav": {
-    "value": 26.5702,
-    "date": "02-Mar-2026"
+    "value": 26.2153,
+    "date": "05-Mar-2026",
+    "high_52w": null,
+    "high_52w_date": null,
+    "low_52w": null,
+    "low_52w_date": null
   },
   "returns": {
-    "one_year": 30.23,
-    "three_year": 23.83,
-    "five_year": 18.2,
+    "one_year": 26.68,
+    "three_year": 22.87,
+    "five_year": 18.06,
     "since_inception": 31.9,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -33,73 +37,97 @@
     "riskometer": "Very High",
     "standard_deviation": 7.2855495129332954,
     "sharpe_ratio": 2.1653083426,
-    "alpha": 0,
-    "beta": 0
+    "beta": 0,
+    "alpha": 0
   },
   "portfolio": {
-    "asset_allocation": {
-      "equity": null,
-      "debt": null,
-      "commodities": null,
-      "cash": null,
-      "other": null
-    },
     "top_holdings": [
       {
         "name": "Nippon India ETF Gold BeES",
-        "weight_pct": 10.55086476
+        "percentage": null,
+        "weight_pct": 10.55086476,
+        "sector": null
       },
       {
         "name": "iShares MSCI World ETF",
-        "weight_pct": 5.73465729
+        "percentage": null,
+        "weight_pct": 5.73465729,
+        "sector": null
       },
       {
         "name": "Nippon India Silver ETF - Growth",
-        "weight_pct": 5.27145222
+        "percentage": null,
+        "weight_pct": 5.27145222,
+        "sector": null
       },
       {
         "name": "ICICI Bank Ltd.",
-        "weight_pct": 3.89210764
+        "percentage": null,
+        "weight_pct": 3.89210764,
+        "sector": null
       },
       {
         "name": "HDFC Bank Ltd.",
-        "weight_pct": 2.72021972
+        "percentage": null,
+        "weight_pct": 2.72021972,
+        "sector": null
       },
       {
         "name": "Reliance Industries Ltd.",
-        "weight_pct": 2.35230515
+        "percentage": null,
+        "weight_pct": 2.35230515,
+        "sector": null
       },
       {
         "name": "State Bank of India",
-        "weight_pct": 1.87854651
+        "percentage": null,
+        "weight_pct": 1.87854651,
+        "sector": null
       },
       {
         "name": "Infosys Ltd.",
-        "weight_pct": 1.63149203
+        "percentage": null,
+        "weight_pct": 1.63149203,
+        "sector": null
       },
       {
         "name": "Axis Bank Ltd.",
-        "weight_pct": 1.51033946
+        "percentage": null,
+        "weight_pct": 1.51033946,
+        "sector": null
       },
       {
         "name": "Bajaj Auto Ltd.",
-        "weight_pct": 1.41422502
+        "percentage": null,
+        "weight_pct": 1.41422502,
+        "sector": null
       }
     ],
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "cash": null,
+      "others": null
+    },
+    "total_stocks": null,
+    "total_bonds": null,
     "sector_allocation": {},
     "turnover_ratio": 139
   },
   "operations": {
-    "expense_ratio": 0.25,
+    "expense_ratio": 0.3,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months.",
     "min_investment": {
       "sip": 100,
       "lumpsum": 5000
     },
+    "fund_size_cr": null,
+    "launch_date": null,
     "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
   },
   "fund_manager": {
     "name": "Vinay Sharma",
+    "tenure": null,
     "tenure_years": null,
     "experience_summary": "Prior to joining Nippon India Mutual Fund he has worked with ICICI Prudential AMC, Kotak Mahindra Mutual Fund, J.P. Morgan India Pvt. Ltd. and UTI Bank.",
     "other_funds_managed": [
@@ -113,13 +141,13 @@
     {
       "headline": "Latest mutual fund & market news",
       "date": null,
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "url": "https://groww.in/blog/category/news"
     }
   ],
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-04T18:57:48.804440Z"
+  "last_scraped_at": "2026-03-06T18:32:28.057073Z"
 }

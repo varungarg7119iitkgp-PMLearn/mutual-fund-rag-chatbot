@@ -15,12 +15,16 @@
     ]
   },
   "nav": {
-    "value": 40.7198,
-    "date": "04-Mar-2026"
+    "value": 39.4837,
+    "date": "06-Mar-2026",
+    "high_52w": null,
+    "high_52w_date": null,
+    "low_52w": null,
+    "low_52w_date": null
   },
   "returns": {
-    "one_year": 197.48,
-    "three_year": 62.28,
+    "one_year": 162.88,
+    "three_year": 56.7,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -34,23 +38,26 @@
     "riskometer": "Very High",
     "standard_deviation": 22.664946645242765,
     "sharpe_ratio": 1.1803752293,
-    "alpha": -0.88703505016957,
-    "beta": 0.96333016886648
+    "beta": 0.96333016886648,
+    "alpha": -0.88703505016957
   },
   "portfolio": {
-    "asset_allocation": {
-      "equity": null,
-      "debt": null,
-      "commodities": null,
-      "cash": null,
-      "other": null
-    },
     "top_holdings": [
       {
         "name": "ICICI Prudential Silver ETF - Growth",
-        "weight_pct": 100.81638332
+        "percentage": null,
+        "weight_pct": 100.81638332,
+        "sector": null
       }
     ],
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "cash": null,
+      "others": null
+    },
+    "total_stocks": null,
+    "total_bonds": null,
     "sector_allocation": {},
     "turnover_ratio": null
   },
@@ -61,10 +68,13 @@
       "sip": 100,
       "lumpsum": 100
     },
+    "fund_size_cr": null,
+    "launch_date": null,
     "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
   },
   "fund_manager": {
     "name": "Manish Banthia",
+    "tenure": null,
     "tenure_years": null,
     "experience_summary": "He is associated with ICICI Prudential Asset Management Company since Oct 2005, ICICI Prudential AMC - Fixed Income Investments - Aug 2007 to Oct 2009, ICICI Prudential AMC - New Product Development - Oct 2005 to Jul 2007, Aditya Birla Nuvo Ltd. - From May 2005 to Oct 2005, Aditya Birla Management Corporation Ltd. - From May 2004 to May 2005.",
     "other_funds_managed": [
@@ -98,13 +108,13 @@
     {
       "headline": "Latest mutual fund & market news",
       "date": null,
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "url": "https://groww.in/blog/category/news"
     }
   ],
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-03-04T18:57:28.969712Z"
+  "last_scraped_at": "2026-03-06T18:31:57.907891Z"
 }
