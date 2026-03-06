@@ -33,7 +33,7 @@ At maturity, the system will consist of the following logical components:
   - Application of formatting rules (citations, timestamps, concise answers).
 
 - **Guardrail & Policy Layer**
-  - Enforcement of “facts-only, no advice” rules.
+  - Enforcement of "facts-only, no advice" rules.
   - Filtering for PII and out-of-scope content.
   - Response-shaping policies for refusals and safe alternatives.
 
@@ -87,7 +87,7 @@ The following sections decompose this into **phases** that will be executed and 
   - Visit the configured Groww (and/or AMC/SEBI) URL.
   - Extract all fields listed in the scraping guide:
     - Identity, Performance, Risk, Portfolio, Operations, People, Market Intelligence/News.
-  - Handle “In the News / Updates” with **headline, date, publisher, summary snippet, URL**.
+  - Handle "In the News / Updates" with **headline, date, publisher, summary snippet, URL**.
 - Output per-fund data in a **nested, self-contained structure** (conceptually aligned with the JSON example in `scraping_reference_guide.md`).
 
 #### 4.2 Data Flow (Conceptual)
@@ -128,7 +128,7 @@ The following sections decompose this into **phases** that will be executed and 
 - Define and implement:
   - **Validation rules** (e.g., numeric ranges, required fields, date formats).
   - **Normalization rules** (e.g., standard currency representation, consistent risk labels).
-  - **Derived fields** where appropriate (e.g., normalized category labels, computed deltas vs category average—still factual).
+  - **Derived fields** where appropriate (e.g., normalized category labels, computed deltas vs category average -- still factual).
 - Convert each structured fund object into:
   - A set of **RAG chunks** (text + metadata) aligned with `Requirements.md` (e.g., overview, performance, risk, fees, news).
   - A compact, queryable structured representation suitable for the backend API.
@@ -186,7 +186,7 @@ The following sections decompose this into **phases** that will be executed and 
     - Enforces concise answers, required citations, and timestamp lines.
 - Define and document **prompt templates**:
   - Base prompt for factual Q&A.
-  - Specialized prompts for news/contextual “why” questions.
+  - Specialized prompts for news/contextual "why" questions.
   - Prompts that combine multiple funds while still avoiding advice.
 
 #### 6.2 Data Flow (Conceptual)
@@ -211,14 +211,14 @@ The following sections decompose this into **phases** that will be executed and 
    - Send prompt to Gemini; receive candidate answer.
    - Enforce formatting:
      - Ensure citations are present and link to known URLs.
-     - Append “Last updated from sources: [Date/Time]” based on chunk metadata.
+     - Append "Last updated from sources: [Date/Time]" based on chunk metadata.
    - Return structured response to the frontend (text, citations, timestamps, structured snippets for UI widgets).
 
 #### 6.3 Outputs & Deliverables
 
 - A working **RAG backend** that:
   - Answers questions about the 20 funds using only grounded data.
-  - Surfaces news snippets when users ask “why” or “what happened” type questions.
+  - Surfaces news snippets when users ask "why" or "what happened" type questions.
 - A documented set of **prompt templates** and their intended behaviors, ready to be refined in later phases.
 
 #### 6.4 Implementation Notes (Current Version)
@@ -228,8 +228,8 @@ The following sections decompose this into **phases** that will be executed and 
   - Retrieval logic implemented in `backend/app/rag/indexer.py` (`retrieve_top_k`) to select relevant chunks for a given query (with optional fund-name filter).
   - The **Google GenAI SDK** (`google-genai`) and the **`gemini-3-flash-preview`** model for answer generation, via a thin wrapper in `backend/app/rag/gemini_client.py`.
 - The main chat API is exposed via FastAPI in `backend/app/rag/router.py`:
-  - `POST /chat` — performs retrieval, applies guardrails, calls Gemini, and returns `{ answer, used_chunks, model }`.
-  - `GET /chat/debug/retrieval` — returns only the top-k retrieved chunks for inspection (no Gemini call).
+  - `POST /chat` -- performs retrieval, applies guardrails, calls Gemini, and returns `{ answer, used_chunks, model }`.
+  - `GET /chat/debug/retrieval` -- returns only the top-k retrieved chunks for inspection (no Gemini call).
 - These choices are implementation details of the current version; the architecture remains compatible with swapping in an external vector database or a different Gemini model in future phases without changing higher-level flows.
 
 ---
@@ -283,19 +283,20 @@ The following sections decompose this into **phases** that will be executed and 
 #### 7.4 Implementation Notes (Current Version)
 
 - The Phase 4 behavior and guardrail policies are defined in:
-  - `phase4/Behavior_Specs.md` — chatbot role, persona, RAG-first operating logic, and prompt orchestration.
-  - `phase4/Guardrails.md` — strict no-advice wall, PII and privacy rules, performance/claims limits, source integrity, and response formatting contract.
-- Backend enforcement in the current codebase includes:
-  - A pre-check in `POST /chat` that detects advice-like queries (e.g., “Should I buy/sell/invest/hold…”, “How much should I allocate…”) and returns a standard refusal answer without invoking retrieval or Gemini.
-  - A separate debug endpoint (`GET /chat/debug/retrieval`) to allow safe inspection of retrieval behavior independently of LLM generation.
-  - Unit tests under `backend/tests/test_chat.py` that:
-    - Verify normal chat behavior with mocked Gemini and retrieval.
-    - Confirm advice-like queries are refused before reaching Gemini or retrieval.
-    - Validate the debug retrieval endpoint wiring.
-- Future work in this phase may extend backend logic to:
-  - Add explicit PII-pattern detection and responses.
-  - Implement out-of-universe fund detection backed by `config/fund_universe.csv`.
-  - Tighten output validation as the prompt templates evolve.
+  - `phase4/Behavior_Specs.md` -- chatbot role, persona, RAG-first operating logic, and prompt orchestration.
+  - `phase4/Guardrails.md` -- strict no-advice wall, PII and privacy rules, performance/claims limits, source integrity, and response formatting contract.
+- Backend enforcement in `POST /chat` (`backend/app/rag/router.py`) applies a three-stage guardrail pipeline before reaching retrieval or Gemini:
+  1. **PII detection** -- regex patterns for phone numbers, emails, PAN, and Aadhaar. If detected, a warning is returned without echoing the PII or calling Gemini.
+  2. **Advice detection** -- phrase matching for buy/sell/hold/allocate/recommend patterns. Returns a standard refusal answer.
+  3. **Out-of-corpus fund detection** -- loads fund names and keywords from `config/fund_universe.csv` and checks if the query references a fund not in the 20-fund universe. Returns the safety phrase from `Behavior_Specs.md`.
+- Rate-limit errors from Gemini (HTTP 429 / `RESOURCE_EXHAUSTED`) are caught and surfaced as a 429 to the frontend with a friendly message.
+- A separate debug endpoint (`GET /chat/debug/retrieval`) allows safe inspection of retrieval behavior independently of LLM generation.
+- Unit tests under `backend/tests/test_chat.py` (9 tests) cover:
+  - Normal chat with mocked Gemini and retrieval.
+  - Advice-like query refusal (multiple phrases).
+  - PII detection for phone, email, PAN, and Aadhaar.
+  - Out-of-corpus fund refusal and in-corpus fund pass-through.
+  - Debug retrieval endpoint wiring.
 
 ---
 
@@ -314,7 +315,7 @@ The following sections decompose this into **phases** that will be executed and 
   - Core interactions:
     - Asking questions, viewing responses with citations and timestamps.
     - Clicking ticker items or trending funds to seed queries and open quick-view cards.
-    - Displaying “Verified” icons and Gemini-branded avatar accents.
+    - Displaying "Verified" icons and Gemini-branded avatar accents.
   - Micro-interactions:
     - Typing indicators.
     - Streaming answers.
@@ -336,7 +337,7 @@ The desktop "Bloomberg-style" three-column layout is preserved at `lg`/`xl` brea
 
 - **Mobile Header** (`AppShell.tsx`): A compact header (visible below `lg`) with a centered "WealthAI" logo, a Menu icon (left) to open the Sidebar Drawer, and a TrendingUp icon (right) to open the Market Pulse Drawer.
 - **Sliding Drawers**: The left sidebar and right Market Pulse panel convert to overlay drawers on mobile, with `bg-black/60` backdrop and `slide-in-left` / `slide-in-right` animations (defined in `tailwind.config.js`).
-- **Mobile Ticker** (`HeaderBar.tsx` — `MobileTicker` component): A condensed, always-visible ticker strip below the mobile header with `text-[10px]` and faster animation.
+- **Mobile Ticker** (`HeaderBar.tsx` -- `MobileTicker` component): A condensed, always-visible ticker strip below the mobile header with `text-[10px]` and faster animation.
 - **Chat Panel** (`ChatPanel.tsx`):
   - Full-width layout on mobile (no `max-w-3xl` constraint).
   - Welcome suggestion chips stack vertically (`flex-col`) for thumb-friendly tapping.
@@ -384,7 +385,7 @@ The desktop "Bloomberg-style" three-column layout is preserved at `lg`/`xl` brea
   |---|---|
   | `NEXT_PUBLIC_BACKEND_URL` | Railway backend URL (e.g., `https://your-app.up.railway.app`) |
 - **Build**: Vercel runs `npm run build` automatically; no custom config needed.
-- **Output**: Server-side rendered (SSR) Next.js app — identical to local dev UI.
+- **Output**: Server-side rendered (SSR) Next.js app -- identical to local dev UI.
 
 #### 9.3 Security
 
@@ -422,7 +423,7 @@ The desktop "Bloomberg-style" three-column layout is preserved at `lg`/`xl` brea
 
 - A **documented refresh schedule** and automation logic ensuring:
   - NAVs, returns, and news are regularly refreshed.
-  - The chatbot’s “Last updated from sources” timestamps reflect recent data.
+  - The chatbot's "Last updated from sources" timestamps reflect recent data.
 
 ---
 
@@ -459,4 +460,3 @@ The desktop "Bloomberg-style" three-column layout is preserved at `lg`/`xl` brea
 - Any structural or scope changes discovered in later phases must:
   - Be reflected first in `Requirements.md` and relevant files under `config/` and `ui-references/`.
   - Then be propagated into the corresponding phase implementation.
-

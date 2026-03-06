@@ -193,9 +193,11 @@ If the retrieved chunks include a generic “news” item, ensure it:
 ## 6. Implementation Notes (Phase 3 & Phase 4)
 
 - **Where guardrails live**:
-  - **Backend**:
-    - Advice pre-check (`_is_advice_like`) and refusal path in `/chat`.
-    - Future: PII detection pre-check before reaching retrieval or Gemini.
+  - **Backend** (`backend/app/rag/router.py`):
+    - PII detection pre-check (`_contains_pii`) -- regex for phone, email, PAN, Aadhaar. Returns warning without calling Gemini.
+    - Advice pre-check (`_is_advice_like`) -- phrase matching for buy/sell/hold/allocate/recommend. Returns refusal.
+    - Out-of-corpus fund detection (`_mentions_out_of_corpus_fund`) -- cross-references `config/fund_universe.csv` names and keywords. Returns safety phrase.
+    - Rate-limit handling (`_is_rate_limit_error`) -- catches Gemini 429s and returns a friendly 429 to the frontend.
   - **Prompt**:
     - Reinforce no-advice / no-PII / no-hallucination rules.
     - Explicit instructions about citations and footer line.

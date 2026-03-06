@@ -124,6 +124,9 @@ export function ChatPanel() {
       });
 
       if (!res.ok) {
+        if (res.status === 429) {
+          throw new Error("RATE_LIMITED");
+        }
         const detail = await res.text();
         throw new Error(detail || `HTTP ${res.status}`);
       }
@@ -138,11 +141,14 @@ export function ChatPanel() {
       };
       setMessages((prev) => [...prev, assistantMessage]);
     } catch (err) {
+      const errorMsg =
+        err instanceof Error && err.message === "RATE_LIMITED"
+          ? "I am fully tired now, can we discuss this tomorrow? Will get some sleep. 😴"
+          : "I ran into a temporary issue. Please try again in a moment.";
       const assistantMessage: ChatMessage = {
         id: crypto.randomUUID(),
         role: "assistant",
-        content:
-          "I am fully tired now, can we discuss this tomorrow? Will get some sleep. 😴",
+        content: errorMsg,
       };
       setMessages((prev) => [...prev, assistantMessage]);
       console.error(err);
