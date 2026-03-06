@@ -18,9 +18,9 @@ function getChangeColor(change: string) {
 
 export function HeaderBar() {
   return (
-    <header className="border-b border-border-subtle bg-bg-subtle/70 backdrop-blur-md">
+    <header className="hidden border-b border-border-subtle bg-bg-subtle/70 backdrop-blur-md lg:block">
       <div className="flex items-center gap-4 px-4 py-3 lg:px-6">
-        <div className="hidden min-w-0 flex-1 overflow-hidden rounded-full border border-border-subtle bg-bg-main lg:block">
+        <div className="min-w-0 flex-1 overflow-hidden rounded-full border border-border-subtle bg-bg-main">
           <div className="flex max-w-full flex-1 animate-[ticker_60s_linear_infinite] whitespace-nowrap overflow-hidden">
             {Array.from({ length: 2 }).map((_, loopIdx) =>
               TICKER_ITEMS.map((item, idx) => (
@@ -47,7 +47,7 @@ export function HeaderBar() {
           </div>
         </div>
 
-        <div className="flex flex-1 items-center justify-end gap-3">
+        <div className="flex flex-shrink-0 items-center gap-3">
           <div className="relative w-full max-w-sm">
             <Search className="pointer-events-none absolute left-3 top-2.5 h-4 w-4 text-text-muted" />
             <input
@@ -73,3 +73,27 @@ export function HeaderBar() {
   );
 }
 
+export function MobileTicker() {
+  return (
+    <div className="overflow-hidden border-b border-border-subtle bg-bg-ticker lg:hidden">
+      <div className="flex animate-[ticker_45s_linear_infinite] whitespace-nowrap">
+        {Array.from({ length: 3 }).map((_, loopIdx) =>
+          TICKER_ITEMS.map((item, idx) => (
+            <div
+              key={`m-${loopIdx}-${idx}`}
+              className="flex min-w-[160px] items-center justify-between border-r border-border-subtle/30 px-3 py-1.5 text-[10px] text-text-secondary"
+            >
+              <span className="font-medium text-text-primary">{item.name}</span>
+              <span className="flex items-center gap-2">
+                <span>{item.nav}</span>
+                <span className={getChangeColor(item.change)}>
+                  {item.change}
+                </span>
+              </span>
+            </div>
+          ))
+        )}
+      </div>
+    </div>
+  );
+}

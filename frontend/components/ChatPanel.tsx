@@ -99,7 +99,7 @@ export function ChatPanel() {
 
   async function sendQuestion(question: string) {
     const trimmed = question.trim();
-    if (!trimmed) return;
+    if (!trimmed || isLoading) return;
 
     const userMessage: ChatMessage = {
       id: crypto.randomUUID(),
@@ -164,10 +164,14 @@ export function ChatPanel() {
     }
   }
 
+  function handleSendClick() {
+    void sendQuestion(input);
+  }
+
   return (
     <div className="flex min-w-0 flex-1 flex-col">
-      <div className="flex-1 overflow-y-auto px-4 py-8 scrollbar-thin lg:px-12">
-        <div className="mx-auto w-full max-w-3xl space-y-6">
+      <div className="flex-1 overflow-y-auto px-3 py-6 scrollbar-thin sm:px-4 sm:py-8 lg:px-12">
+        <div className="mx-auto w-full space-y-6 lg:max-w-3xl">
           {!hasConversation ? (
             <WelcomeState onChipClick={(q) => void sendQuestion(q)} />
           ) : (
@@ -175,7 +179,7 @@ export function ChatPanel() {
           )}
 
           {lastChunks.length > 0 && (
-            <div className="mx-auto max-w-3xl rounded-xl border border-border-subtle bg-bg-main/60 px-4 py-3 text-xs text-text-secondary">
+            <div className="rounded-xl border border-border-subtle bg-bg-main/60 px-3 py-3 text-xs text-text-secondary sm:px-4 lg:mx-auto lg:max-w-3xl">
               <div className="mb-2 font-semibold text-text-primary">
                 Sources referenced
               </div>
@@ -200,9 +204,9 @@ export function ChatPanel() {
 
       <form
         onSubmit={onSubmit}
-        className="bg-transparent px-4 pb-4 pt-0 lg:px-8"
+        className="bg-transparent px-3 pb-3 pt-0 sm:px-4 sm:pb-4 lg:px-8"
       >
-        <div className="mx-auto flex w-full max-w-3xl items-end gap-2 rounded-2xl bg-bg-main/80 px-3 py-2 shadow-card-elevated">
+        <div className="mx-auto flex w-full items-end gap-2 rounded-2xl bg-bg-main/80 px-3 py-2 shadow-card-elevated lg:max-w-3xl">
           <div className="relative flex-1">
             <textarea
               rows={1}
@@ -215,14 +219,15 @@ export function ChatPanel() {
             />
           </div>
           <button
-            type="submit"
+            type="button"
+            onClick={handleSendClick}
             disabled={isLoading || !input.trim()}
-            className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-accent-growth text-bg-main shadow transition hover:scale-105 disabled:opacity-60"
+            className="inline-flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full bg-accent-growth text-bg-main shadow transition hover:scale-105 active:scale-95 disabled:opacity-60"
           >
             <ArrowUp className="h-4 w-4" />
           </button>
         </div>
-        <p className="mx-auto mt-2 w-full max-w-3xl text-center text-[11px] text-text-muted">
+        <p className="mx-auto mt-2 w-full text-center text-[11px] text-text-muted lg:max-w-3xl">
           Facts-only assistant. No investment advice provided.
         </p>
       </form>
@@ -233,22 +238,22 @@ export function ChatPanel() {
 function WelcomeState({ onChipClick }: { onChipClick: (q: string) => void }) {
   return (
     <div className="flex h-full flex-col items-center justify-center text-center">
-      <div className="mb-8 flex flex-col items-center gap-4">
-        <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-accent-growth/40 to-accent-growth/10 shadow-glow-accent">
-          <Sparkles className="h-7 w-7 text-accent-growth" />
+      <div className="mb-6 flex flex-col items-center gap-3 sm:mb-8 sm:gap-4">
+        <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-gradient-to-br from-accent-growth/40 to-accent-growth/10 shadow-glow-accent sm:h-14 sm:w-14">
+          <Sparkles className="h-6 w-6 text-accent-growth sm:h-7 sm:w-7" />
         </div>
         <div>
-          <h1 className="text-xl font-semibold text-balance md:text-2xl">
+          <h1 className="text-lg font-semibold text-balance sm:text-xl md:text-2xl">
             Welcome, Investor.
           </h1>
-          <p className="mt-3 max-w-md text-sm leading-relaxed text-text-secondary">
+          <p className="mt-2 max-w-md text-xs leading-relaxed text-text-secondary sm:mt-3 sm:text-sm">
             I am your factual Wealth Assistant. I provide data-grounded insights
             on 20 curated mutual funds, powered by a Gemini-based RAG backend.
           </p>
         </div>
       </div>
 
-      <div className="mt-2 flex max-w-lg flex-wrap justify-center gap-3">
+      <div className="mt-2 flex w-full max-w-lg flex-col gap-2 px-2 sm:flex-row sm:flex-wrap sm:justify-center sm:gap-3 sm:px-0">
         {WELCOME_CHIPS.map((chip) => {
           const Icon = chip.icon;
           return (
@@ -256,7 +261,7 @@ function WelcomeState({ onChipClick }: { onChipClick: (q: string) => void }) {
               key={chip.query}
               type="button"
               onClick={() => onChipClick(chip.query)}
-              className="inline-flex items-center gap-2 rounded-full border border-border-subtle bg-bg-main/80 px-4 py-2.5 text-xs text-text-secondary transition hover:scale-[1.02] hover:border-accent-growth hover:text-text-primary"
+              className="inline-flex items-center gap-2 rounded-full border border-border-subtle bg-bg-main/80 px-4 py-3 text-xs text-text-secondary transition hover:scale-[1.02] hover:border-accent-growth hover:text-text-primary active:scale-[0.98] sm:py-2.5"
             >
               <Icon className="h-3.5 w-3.5 flex-shrink-0 text-accent-neutral" />
               {chip.label}
@@ -278,17 +283,17 @@ function Conversation({
   loadingStartedAt: number | null;
 }) {
   return (
-    <div className="mx-auto flex max-w-3xl flex-col gap-4">
+    <div className="mx-auto flex flex-col gap-4 lg:max-w-3xl">
       {messages.map((m) =>
         m.role === "user" ? (
           <div key={m.id} className="flex justify-end animate-fade-up">
-            <div className="max-w-[75%] rounded-2xl rounded-tr-sm bg-accent-growth/15 px-4 py-3 text-sm leading-relaxed text-text-primary">
+            <div className="max-w-[85%] rounded-2xl rounded-tr-sm bg-accent-growth/15 px-4 py-3 text-sm leading-relaxed text-text-primary sm:max-w-[75%]">
               {m.content}
             </div>
           </div>
         ) : (
           <div key={m.id} className="flex justify-start animate-fade-up">
-            <div className="max-w-[85%] rounded-2xl rounded-tl-sm border border-border-subtle bg-bg-main/80 px-4 py-3 text-sm">
+            <div className="max-w-[95%] rounded-2xl rounded-tl-sm border border-border-subtle bg-bg-main/80 px-3 py-3 text-sm sm:max-w-[85%] sm:px-4">
               <div className="mb-2 flex items-center gap-2 text-xs text-text-secondary">
                 <span className="font-semibold text-text-primary">
                   WealthAI
