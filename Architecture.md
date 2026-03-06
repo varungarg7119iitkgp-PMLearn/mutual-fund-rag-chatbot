@@ -337,16 +337,49 @@ The following sections decompose this into **phases** that will be executed and 
 
 ---
 
-### 9. Phase 6 — Deployment Architecture (Placeholder for Later)
+### 9. Phase 6 — Deployment
 
-**Objective**: Define and later implement deployment for backend and frontend. (Implementation deferred as per current scope.)
+**Objective**: Deploy the backend on Railway and the frontend on Vercel, connected via environment variables.
 
-- Backend:
-  - Deployed as a managed service (e.g., on Railway).
-  - Environment configuration for secrets (Gemini API keys, DB, etc.).
-- Frontend:
-  - Deployed as a static/SSR app (e.g., on Vercel).
-- This phase will be detailed and executed **after** Phases 1–5 are implemented and validated locally.
+#### 9.1 Backend — Railway
+
+- **Platform**: Railway (https://railway.app)
+- **Configuration**: `railway.toml` at repo root defines the build and start commands.
+  - Nixpacks auto-detects Python from `requirements.txt` (root-level file delegates to `backend/requirements.txt`).
+  - Start command: `cd backend && python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+  - Health check endpoint: `GET /health`
+- **Environment Variables** (set in Railway dashboard):
+  | Variable | Value |
+  |---|---|
+  | `GEMINI_API_KEY` | Your real Gemini API key |
+  | `GEMINI_MODEL_NAME` | `gemini-3-flash-preview` |
+  | `GEMINI_EMBEDDING_MODEL` | `models/embedding-001` |
+  | `CORS_ORIGINS` | Your Vercel frontend URL (e.g., `https://your-app.vercel.app`) |
+- **Runtime**: Python 3.11 (specified in `runtime.txt`)
+- **Port**: Railway injects `PORT` env var automatically; uvicorn binds to it.
+
+#### 9.2 Frontend — Vercel
+
+- **Platform**: Vercel (https://vercel.com)
+- **Framework**: Auto-detected as Next.js.
+- **Root Directory**: Set to `frontend/` in Vercel project settings.
+- **Environment Variables** (set in Vercel dashboard):
+  | Variable | Value |
+  |---|---|
+  | `NEXT_PUBLIC_BACKEND_URL` | Railway backend URL (e.g., `https://your-app.up.railway.app`) |
+- **Build**: Vercel runs `npm run build` automatically; no custom config needed.
+- **Output**: Server-side rendered (SSR) Next.js app — identical to local dev UI.
+
+#### 9.3 Security
+
+- `.gitignore` ensures `.env` files with real API keys are never committed.
+- `.env.example` files in both `backend/` and `frontend/` document required variables with placeholder values.
+- CORS is configurable via `CORS_ORIGINS` env var (defaults to `*` for development; set to the Vercel URL in production).
+
+#### 9.4 Git & CI
+
+- GitHub repository: Private, connected to both Railway and Vercel.
+- On every push to `master`, both platforms auto-deploy.
 
 ---
 

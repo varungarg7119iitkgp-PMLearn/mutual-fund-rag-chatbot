@@ -47,5 +47,9 @@ npm-debug.log*
 *.mov
 *.avi
 
+# Deprecated config duplicates
+frontend/postcss.config.mjs
+frontend/tailwind.config.mjs
+
 # Cursor internals
 .cursor/
