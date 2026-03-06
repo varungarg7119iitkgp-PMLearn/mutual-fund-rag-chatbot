@@ -142,7 +142,7 @@ export function ChatPanel() {
         id: crypto.randomUUID(),
         role: "assistant",
         content:
-          "I ran into an issue while contacting the backend. Please try again in a moment.",
+          "I am fully tired now, can we discuss this tomorrow? Will get some sleep. 😴",
       };
       setMessages((prev) => [...prev, assistantMessage]);
       console.error(err);

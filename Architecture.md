@@ -46,10 +46,11 @@ At maturity, the system will consist of the following logical components:
   - Web client implementing the WealthAI UI (`ui-references/UI_UX_Specs.md`).
   - Chat interface, ticker, Market Pulse panel, fund quick-view cards, and onboarding.
 
-- **Operations & Automation Layer**
-  - Scheduled scraping and re-indexing.
-  - Logging, analytics, and monitoring.
-  - (Future) CI/CD and deployment to Railway (backend) and Vercel (frontend).
+- **Deployment & Operations Layer**
+  - Backend deployed on **Railway** (Python/Nixpacks, auto-deploy on push to `master`).
+  - Frontend deployed on **Vercel** (Next.js, auto-deploy on push to `master`).
+  - Scheduled scraping and re-indexing (Phase 7).
+  - Logging, analytics, and monitoring (Phase 8).
 
 The following sections decompose this into **phases** that will be executed and reviewed sequentially.
 
@@ -329,11 +330,26 @@ The following sections decompose this into **phases** that will be executed and 
 - Trending/analytics API:
   - Drive Market Pulse panel (top queried funds).
 
-#### 8.3 Outputs & Deliverables
+#### 8.3 Mobile-Responsive UI
+
+The desktop "Bloomberg-style" three-column layout is preserved at `lg`/`xl` breakpoints. On smaller screens, the layout transforms into a mobile-optimized experience:
+
+- **Mobile Header** (`AppShell.tsx`): A compact header (visible below `lg`) with a centered "WealthAI" logo, a Menu icon (left) to open the Sidebar Drawer, and a TrendingUp icon (right) to open the Market Pulse Drawer.
+- **Sliding Drawers**: The left sidebar and right Market Pulse panel convert to overlay drawers on mobile, with `bg-black/60` backdrop and `slide-in-left` / `slide-in-right` animations (defined in `tailwind.config.js`).
+- **Mobile Ticker** (`HeaderBar.tsx` — `MobileTicker` component): A condensed, always-visible ticker strip below the mobile header with `text-[10px]` and faster animation.
+- **Chat Panel** (`ChatPanel.tsx`):
+  - Full-width layout on mobile (no `max-w-3xl` constraint).
+  - Welcome suggestion chips stack vertically (`flex-col`) for thumb-friendly tapping.
+  - Message bubbles use wider max-widths on mobile for readability.
+  - `h-[100dvh]` on the main container prevents the mobile browser address bar from obscuring the input field.
+- **Send Button**: Uses `type="button"` with an explicit `onClick` handler (in addition to Enter-to-send) to ensure both tap and keyboard submission work reliably.
+
+#### 8.4 Outputs & Deliverables
 
 - A production-quality web interface:
   - Matching layout, color, and interaction patterns in `UI_UX_Specs.md`.
   - Fully wired to backend endpoints.
+  - Responsive across desktop, tablet, and mobile form factors.
 
 ---
 
@@ -346,7 +362,7 @@ The following sections decompose this into **phases** that will be executed and 
 - **Platform**: Railway (https://railway.app)
 - **Configuration**: `railway.toml` at repo root defines the build and start commands.
   - Nixpacks auto-detects Python from `requirements.txt` (root-level file delegates to `backend/requirements.txt`).
-  - Start command: `cd backend && python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+  - Start command: `cd backend && python start.py` (reads `PORT` from environment, defaults to 8000)
   - Health check endpoint: `GET /health`
 - **Environment Variables** (set in Railway dashboard):
   | Variable | Value |
