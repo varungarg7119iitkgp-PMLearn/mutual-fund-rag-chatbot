@@ -1,7 +1,8 @@
 from __future__ import annotations
 
+import dataclasses
 from pathlib import Path
-from typing import Dict, List
+from typing import Any, Dict, List, Type, TypeVar
 import json
 
 from loguru import logger
@@ -25,25 +26,33 @@ from phase1_ingestion.src.models import (
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 RAW_DIR = PROJECT_ROOT / "phase1_ingestion" / "output" / "raw"
 
+T = TypeVar("T")
+
+
+def _safe_init(cls: Type[T], data: Dict[str, Any]) -> T:
+    """Construct a dataclass instance, silently dropping unknown fields."""
+    known = {f.name for f in dataclasses.fields(cls)}
+    filtered = {k: v for k, v in data.items() if k in known}
+    return cls(**filtered)
+
 
 def load_raw_snapshot(path: Path) -> FundSnapshot:
     """Load a single raw JSON snapshot into a FundSnapshot instance."""
     with path.open(encoding="utf-8") as f:
         data: Dict = json.load(f)
 
-    # Reconstruct nested dataclasses so Phase 2 code can rely on attributes/types.
-    identity = FundIdentity(**data["identity"])
+    identity = _safe_init(FundIdentity, data.get("identity", {}))
 
-    nav = NavInfo(**data.get("nav", {}))
-    returns = ReturnsInfo(**data.get("returns", {}))
-    risk = RiskInfo(**data.get("risk", {}))
+    nav = _safe_init(NavInfo, data.get("nav", {}))
+    returns = _safe_init(ReturnsInfo, data.get("returns", {}))
+    risk = _safe_init(RiskInfo, data.get("risk", {}))
 
     portfolio_data = data.get("portfolio", {}) or {}
-    asset_alloc = AssetAllocation(**portfolio_data.get("asset_allocation", {}) or {})
+    asset_alloc = _safe_init(AssetAllocation, portfolio_data.get("asset_allocation", {}) or {})
     top_holdings: List[Holding] = []
     for h in portfolio_data.get("top_holdings", []) or []:
         if isinstance(h, dict):
-            top_holdings.append(Holding(**h))
+            top_holdings.append(_safe_init(Holding, h))
         else:
             top_holdings.append(h)
     portfolio = PortfolioInfo(
@@ -54,7 +63,7 @@ def load_raw_snapshot(path: Path) -> FundSnapshot:
     )
 
     operations_data = data.get("operations", {}) or {}
-    min_inv = MinInvestment(**operations_data.get("min_investment", {}) or {})
+    min_inv = _safe_init(MinInvestment, operations_data.get("min_investment", {}) or {})
     operations = OperationsInfo(
         expense_ratio=operations_data.get("expense_ratio"),
         exit_load=operations_data.get("exit_load"),
@@ -63,17 +72,12 @@ def load_raw_snapshot(path: Path) -> FundSnapshot:
     )
 
     fm_data = data.get("fund_manager", {}) or {}
-    fund_manager = FundManagerInfo(
-        name=fm_data.get("name"),
-        tenure_years=fm_data.get("tenure_years"),
-        experience_summary=fm_data.get("experience_summary"),
-        other_funds_managed=fm_data.get("other_funds_managed", []) or [],
-    )
+    fund_manager = _safe_init(FundManagerInfo, fm_data)
 
     news_items: List[NewsItem] = []
     for n in data.get("news_context", []) or []:
         if isinstance(n, dict):
-            news_items.append(NewsItem(**n))
+            news_items.append(_safe_init(NewsItem, n))
         else:
             news_items.append(n)
 

@@ -43,6 +43,9 @@ class ReturnsInfo:
     benchmark_one_year: Optional[float] = None
     benchmark_three_year: Optional[float] = None
     benchmark_five_year: Optional[float] = None
+    category_avg_one_year: Optional[float] = None
+    category_avg_three_year: Optional[float] = None
+    category_avg_five_year: Optional[float] = None
 
 
 @dataclass
@@ -58,6 +61,7 @@ class RiskInfo:
 class Holding:
     name: str = ""
     percentage: Optional[float] = None
+    weight_pct: Optional[float] = None
     sector: Optional[str] = None
 
 
@@ -75,6 +79,8 @@ class PortfolioInfo:
     asset_allocation: Optional[AssetAllocation] = None
     total_stocks: Optional[int] = None
     total_bonds: Optional[int] = None
+    sector_allocation: Optional[Dict[str, Any]] = None
+    turnover_ratio: Optional[float] = None
 
 
 @dataclass
@@ -90,12 +96,16 @@ class OperationsInfo:
     min_investment: Optional[MinInvestment] = None
     fund_size_cr: Optional[float] = None
     launch_date: Optional[str] = None
+    taxation: Optional[str] = None
 
 
 @dataclass
 class FundManagerInfo:
     name: Optional[str] = None
     tenure: Optional[str] = None
+    tenure_years: Optional[float] = None
+    experience_summary: Optional[str] = None
+    other_funds_managed: List[str] = field(default_factory=list)
 
 
 @dataclass
