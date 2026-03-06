@@ -1,0 +1,128 @@
+{
+  "identity": {
+    "fund_id": "INF205K01NG5",
+    "name": "Invesco India PSU Equity Fund Direct Growth",
+    "category": "Equity",
+    "amc_name": "Invesco Mutual Fund",
+    "benchmark_name": "BSE PSU Total Return Index",
+    "plan_label": "Growth",
+    "keywords": [
+      "Invesco PSU",
+      "Invesco Public Sector",
+      "PSU equity",
+      "Invesco Equity",
+      "PSU Fund"
+    ]
+  },
+  "nav": {
+    "value": 78.92,
+    "date": "2026-03-04"
+  },
+  "returns": {
+    "one_year": 38.66,
+    "three_year": 33.14,
+    "five_year": 26.26,
+    "since_inception": 11.34,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 5.8055358744523,
+    "category_avg_three_year": 28.28070290393152,
+    "category_avg_five_year": 29.78700324101245
+  },
+  "risk": {
+    "riskometer": "High",
+    "standard_deviation": 21.783803654987423,
+    "sharpe_ratio": 1.1934558398,
+    "alpha": -1.20565104421397,
+    "beta": 0.95385575039766
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "State Bank of India",
+        "weight_pct": 9.35
+      },
+      {
+        "name": "Bharat Electronics Ltd.",
+        "weight_pct": 9.02
+      },
+      {
+        "name": "Indian Bank",
+        "weight_pct": 7.07
+      },
+      {
+        "name": "Bharat Petroleum Corporation Ltd.",
+        "weight_pct": 6.64
+      },
+      {
+        "name": "Hindustan Aeronautics Ltd.",
+        "weight_pct": 5.81
+      },
+      {
+        "name": "NTPC Green Energy Ltd.",
+        "weight_pct": 5.27
+      },
+      {
+        "name": "Dredging Corporation Of India Ltd.",
+        "weight_pct": 4.88
+      },
+      {
+        "name": "Bharat Dynamics Ltd.",
+        "weight_pct": 4.6
+      },
+      {
+        "name": "Bank Of Baroda",
+        "weight_pct": 4.5
+      },
+      {
+        "name": "NTPC Ltd.",
+        "weight_pct": 4.3
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": 23
+  },
+  "operations": {
+    "expense_ratio": 0.89,
+    "exit_load": "Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year.",
+    "min_investment": {
+      "sip": 100,
+      "lumpsum": 1000
+    },
+    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
+  },
+  "fund_manager": {
+    "name": "Hiten Jain",
+    "tenure_years": null,
+    "experience_summary": "Prior to joining Invesco India Mutual Fund, he has worked with CRISIL Limited and Dunia Finance LLC Dubai.",
+    "other_funds_managed": [
+      "Invesco India Largecap Fund Direct Growth",
+      "Invesco India Focused Fund Direct Growth",
+      "Invesco India PSU Equity Fund Direct Growth",
+      "Invesco India Financial Services Fund Direct Growth",
+      "Invesco India Technology Fund Direct Growth",
+      "Invesco India Aggressive Hybrid Fund Direct Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:55.043405Z"
+}

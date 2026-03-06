@@ -1,0 +1,107 @@
+{
+  "identity": {
+    "fund_id": "INF179KA1SC5",
+    "name": "HDFC Income Plus Arbitrage Active FoF Direct Growth",
+    "category": "Debt",
+    "amc_name": "HDFC Mutual Fund",
+    "benchmark_name": "NIFTY 50 Hybrid Composite Debt 65:35 Index",
+    "plan_label": "Growth",
+    "keywords": [
+      "HDFC Income Plus",
+      "HDFC Arbitrage",
+      "HDFC Arbitrage FoF",
+      "HDFC Debt",
+      "Arbitrage active fund"
+    ]
+  },
+  "nav": {
+    "value": 44.4487,
+    "date": "2026-03-04"
+  },
+  "returns": {
+    "one_year": 8.62,
+    "three_year": 13.07,
+    "five_year": 12.48,
+    "since_inception": 10.91,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 7.370267361892,
+    "category_avg_three_year": null,
+    "category_avg_five_year": null
+  },
+  "risk": {
+    "riskometer": "Moderate",
+    "standard_deviation": 5.78814827515348,
+    "sharpe_ratio": 1.1330094959,
+    "alpha": 0,
+    "beta": 0
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "HDFC Corporate Bond Fund Direct Plan-Growth",
+        "weight_pct": 43.14
+      },
+      {
+        "name": "HDFC Arbitrage Fund Wholesale Direct-Growth",
+        "weight_pct": 36.44
+      },
+      {
+        "name": "HDFC Money Market Fund Direct-Growth",
+        "weight_pct": 18.71
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": 39
+  },
+  "operations": {
+    "expense_ratio": 0.07,
+    "exit_load": "Nil",
+    "min_investment": {
+      "sip": 100,
+      "lumpsum": 100
+    },
+    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+  },
+  "fund_manager": {
+    "name": "Anil Bamboli",
+    "tenure_years": null,
+    "experience_summary": "Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years.",
+    "other_funds_managed": [
+      "HDFC Equity Savings Direct Plan Growth",
+      "HDFC Banking and PSU Debt Fund Direct Growth",
+      "HDFC Gilt Fund Direct Growth",
+      "HDFC Dynamic Debt Fund Direct Plan Growth",
+      "HDFC Balanced Advantage Fund Direct Growth",
+      "HDFC Ultra Short Term Fund Direct Growth",
+      "HDFC Arbitrage Direct Plan Growth",
+      "HDFC Children's Fund Direct Plan",
+      "HDFC Income Plus Arbitrage Active FoF Direct Growth",
+      "HDFC Arbitrage Fund Wholesale Direct Growth",
+      "HDFC Multi Asset Active FoF Direct Growth",
+      "HDFC Short Term Debt Fund Direct Plan Growth",
+      "HDFC Multi Asset Allocation Fund Direct Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:36.063973Z"
+}

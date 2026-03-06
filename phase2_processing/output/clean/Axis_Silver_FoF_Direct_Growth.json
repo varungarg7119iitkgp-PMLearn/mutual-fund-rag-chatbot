@@ -1,0 +1,107 @@
+{
+  "identity": {
+    "fund_id": "INF846K015J4",
+    "name": "Axis Silver FoF Direct Growth",
+    "category": "Commodity",
+    "amc_name": "Axis Mutual Fund",
+    "benchmark_name": "Domestic Price of Silver",
+    "plan_label": "Growth",
+    "keywords": [
+      "Axis Silver",
+      "Axis Silver FoF",
+      "Silver fund",
+      "metal investment",
+      "Axis commodity"
+    ]
+  },
+  "nav": {
+    "value": 45.5707,
+    "date": "2026-03-04"
+  },
+  "returns": {
+    "one_year": 197.85,
+    "three_year": 62.41,
+    "five_year": null,
+    "since_inception": null,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 154.77275140244063,
+    "category_avg_three_year": 47.07059763331896,
+    "category_avg_five_year": null
+  },
+  "risk": {
+    "riskometer": "High",
+    "standard_deviation": 22.228153894235735,
+    "sharpe_ratio": 1.1995098495,
+    "alpha": -0.37417079182249,
+    "beta": 0.94231003746603
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "Axis Silver ETF Regular-Growth",
+        "weight_pct": 101.25
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": null
+  },
+  "operations": {
+    "expense_ratio": 0.14,
+    "exit_load": "Exit load of 0.25%, if redeemed within 7 days.",
+    "min_investment": {
+      "sip": 100,
+      "lumpsum": 5000
+    },
+    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+  },
+  "fund_manager": {
+    "name": "Aditya Pagaria",
+    "tenure_years": null,
+    "experience_summary": "Prior to joining Axis AMC he was associated with ICICI Prudential AMC (Nov 2011-Jul 2016) as Fund Manager - Fixed Income Operations.",
+    "other_funds_managed": [
+      "Axis Gold and Silver Passive FoF Direct Growth",
+      "Axis CRISIL IBX SDL May 2027 Index Fund Direct Growth",
+      "Axis Silver FoF Direct Growth",
+      "Axis Nifty SDL September 2026 Debt Index Fund Direct Growth",
+      "Axis Money Market Fund Direct Growth",
+      "Axis Multi Asset Active FoF Direct Growth",
+      "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FoF Direct Growth",
+      "Axis CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index Fund Direct Growth",
+      "Axis CRISIL IBX AAA Bond NBFC Jun 2027 Index Fund Direct Growth",
+      "Axis CRISIL IBX AAA Bond Financial Services Sep 2027 Index Fund Direct Growth",
+      "Axis CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index Fund Direct Growth",
+      "Axis Banking & PSU Debt Direct Plan Growth",
+      "Axis CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth",
+      "Axis Liquid Direct Fund Growth",
+      "Axis Multi Asset Allocation Direct Plan Growth",
+      "Axis Floater Fund Direct Growth",
+      "Axis Income Plus Arbitrage Passive FoF Direct Growth",
+      "Axis Aggressive Hybrid Fund Direct Growth",
+      "Axis Short Duration Fund Direct Growth",
+      "Axis Gold Direct Plan Growth",
+      "Axis Treasury Advantage Fund Direct Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/axis-silver-fof-direct-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:27.394957Z"
+}

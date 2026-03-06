@@ -1,0 +1,51 @@
+# Environment secrets — NEVER commit real keys
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Pytest
+.pytest_cache/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+
+# Cursor internals
+.cursor/

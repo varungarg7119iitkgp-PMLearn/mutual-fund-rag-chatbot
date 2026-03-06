@@ -1,0 +1,96 @@
+{
+  "identity": {
+    "fund_id": "INF204KC1378",
+    "name": "Nippon India Silver ETF FoF Direct Growth",
+    "category": "Commodity",
+    "amc_name": "Nippon India Mutual Fund",
+    "benchmark_name": "Domestic Price of Silver Index",
+    "plan_label": "Growth",
+    "keywords": [
+      "Nippon Silver",
+      "Nippon Silver ETF",
+      "Nippon Silver FoF",
+      "Nippon India Commodity"
+    ]
+  },
+  "nav": {
+    "value": 42.2771,
+    "date": "2026-03-04"
+  },
+  "returns": {
+    "one_year": 198.52,
+    "three_year": 62.24,
+    "five_year": null,
+    "since_inception": null,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 154.77275140244063,
+    "category_avg_three_year": 47.07059763331896,
+    "category_avg_five_year": null
+  },
+  "risk": {
+    "riskometer": "High",
+    "standard_deviation": 22.842597870001633,
+    "sharpe_ratio": 1.1687822314,
+    "alpha": -1.13670673895711,
+    "beta": 0.97011081999911
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "Nippon India Silver ETF - Growth",
+        "weight_pct": 100.56
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": null
+  },
+  "operations": {
+    "expense_ratio": 0.24,
+    "exit_load": "Exit load of 1% if redeemed within 15 days.",
+    "min_investment": {
+      "sip": 100,
+      "lumpsum": 100
+    },
+    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+  },
+  "fund_manager": {
+    "name": "Jitendra Tolani",
+    "tenure_years": null,
+    "experience_summary": "Prior to joining Nippon Mutual Fund, he was working with Motilal Oswal Financial Services Ltd, Asit C Mehta Investment Interrmediaries Ltd.",
+    "other_funds_managed": [
+      "Nippon India Nifty 500 Low Volatility 50 Index Fund Direct Growth",
+      "Nippon India Nifty IT Index Fund Direct Growth",
+      "Nippon India Nifty 50 Value 20 Index Fund Direct Growth",
+      "Nippon India Nifty Alpha Low Volatility 30 Index Fund Direct Growth",
+      "Nippon India Nifty Bank Index Fund Direct Growth",
+      "Nippon India Nifty 500 Quality 50 Index Fund Direct Growth",
+      "Nippon India Nifty Realty Index Fund Direct Growth",
+      "Nippon India Nifty Auto Index Fund Direct Growth",
+      "Nippon India Silver ETF FoF Direct Growth",
+      "Nippon India Nifty 500 Equal Weight Index Fund Direct Growth",
+      "Nippon India Nifty 500 Momentum 50 Index Fund Direct Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:30.598235Z"
+}

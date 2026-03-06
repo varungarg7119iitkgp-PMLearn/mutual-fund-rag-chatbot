@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "fund_id": "INF209KB1O82",
+    "name": "Aditya Birla Sun Life PSU Equity Fund Direct Growth",
+    "category": "Equity",
+    "amc_name": "Aditya Birla Sun Life Mutual Fund",
+    "benchmark_name": "BSE PSU Total Return Index",
+    "plan_label": "Growth",
+    "keywords": [
+      "ABSL PSU",
+      "Aditya Birla PSU",
+      "ABSL Public Sector",
+      "PSU fund",
+      "Aditya Birla Equity"
+    ]
+  },
+  "nav": {
+    "value": 39.94,
+    "date": "04-Mar-2026"
+  },
+  "returns": {
+    "one_year": 38.57,
+    "three_year": 32.83,
+    "five_year": 27.58,
+    "since_inception": 16.04,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 5.8055358744523,
+    "category_avg_three_year": 28.28070290393152,
+    "category_avg_five_year": 29.78700324101245
+  },
+  "risk": {
+    "riskometer": "Very High",
+    "standard_deviation": 21.0947817883185,
+    "sharpe_ratio": 1.2216125727,
+    "alpha": -1.3011055949826,
+    "beta": 0.94919572289431
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "State Bank of India",
+        "weight_pct": 19.27626326
+      },
+      {
+        "name": "NTPC Ltd.",
+        "weight_pct": 8.22042822
+      },
+      {
+        "name": "Bharat Electronics Ltd.",
+        "weight_pct": 5.61357395
+      },
+      {
+        "name": "Power Grid Corporation Of India Ltd.",
+        "weight_pct": 5.53578831
+      },
+      {
+        "name": "GAIL (India) Ltd.",
+        "weight_pct": 5.35573301
+      },
+      {
+        "name": "Oil And Natural Gas Corporation Ltd.",
+        "weight_pct": 4.59648857
+      },
+      {
+        "name": "Bank Of Baroda",
+        "weight_pct": 4.27223325
+      },
+      {
+        "name": "Bharat Petroleum Corporation Ltd.",
+        "weight_pct": 4.19608758
+      },
+      {
+        "name": "Bank of India",
+        "weight_pct": 4.07764926
+      },
+      {
+        "name": "Bank of Maharashtra",
+        "weight_pct": 3.79196384
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": 11
+  },
+  "operations": {
+    "expense_ratio": 0.59,
+    "exit_load": "Exit load of 1% if redeemed within 30 days.",
+    "min_investment": {
+      "sip": 100,
+      "lumpsum": 500
+    },
+    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
+  },
+  "fund_manager": {
+    "name": "Dhaval Gala",
+    "tenure_years": null,
+    "experience_summary": "Prior to joining Aditya Birla Sun Life Mutual Fund, he has worked with B&K Securities( January 2008- February 2011) and J.P.Morgan Chase India Private Ltd ( May 2005-July 2006).",
+    "other_funds_managed": [
+      "Aditya Birla Sun Life Business Cycle Fund Direct Growth",
+      "Aditya Birla Sun Life PSU Equity Fund Direct Growth",
+      "Aditya Birla Sun Life Special Opportunities Fund Direct Growth",
+      "Aditya Birla Sun Life Multi Asset Allocation Fund Direct Growth",
+      "Aditya Birla Sun Life Transportation and Logistics Fund Direct Growth",
+      "Aditya Birla Sun Life Dividend Yield Fund Direct Growth",
+      "Aditya Birla Sun Life Banking & Financial Services Fund Direct Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:56.591881Z"
+}

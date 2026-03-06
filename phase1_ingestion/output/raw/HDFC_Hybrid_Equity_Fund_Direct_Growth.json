@@ -1,0 +1,136 @@
+{
+  "identity": {
+    "fund_id": "INF179K01XZ1",
+    "name": "HDFC Hybrid Equity Fund Direct Plan Growth",
+    "category": "Hybrid",
+    "amc_name": "HDFC Mutual Fund",
+    "benchmark_name": "NIFTY 50 Hybrid Composite Debt 65:35 Index",
+    "plan_label": "Growth",
+    "keywords": [
+      "HDFC Hybrid Equity",
+      "HDFC Balanced fund",
+      "HDFC Hybrid",
+      "HDFC Equity and Debt"
+    ]
+  },
+  "nav": {
+    "value": 125.141,
+    "date": "04-Mar-2026"
+  },
+  "returns": {
+    "one_year": 10.75,
+    "three_year": 12.23,
+    "five_year": 11.84,
+    "since_inception": 11.8,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 4.718690601669351,
+    "category_avg_three_year": 14.31110204180801,
+    "category_avg_five_year": 13.941004134645727
+  },
+  "risk": {
+    "riskometer": "Very High",
+    "standard_deviation": 8.287940894828184,
+    "sharpe_ratio": 0.7577866095,
+    "alpha": 0,
+    "beta": 0
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "HDFC Bank Ltd.",
+        "weight_pct": 7.36
+      },
+      {
+        "name": "ICICI Bank Ltd.",
+        "weight_pct": 7.22
+      },
+      {
+        "name": "State Bank of India",
+        "weight_pct": 5.07
+      },
+      {
+        "name": "Reliance Industries Ltd.",
+        "weight_pct": 4.22
+      },
+      {
+        "name": "Infosys Ltd.",
+        "weight_pct": 3.5
+      },
+      {
+        "name": "Axis Bank Ltd.",
+        "weight_pct": 2.89
+      },
+      {
+        "name": "Larsen & Toubro Ltd.",
+        "weight_pct": 2.81
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "weight_pct": 2.57
+      },
+      {
+        "name": "GOI",
+        "weight_pct": 2.49
+      },
+      {
+        "name": "Bharti Airtel Ltd.",
+        "weight_pct": 2.48
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": 2
+  },
+  "operations": {
+    "expense_ratio": 1.02,
+    "exit_load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.",
+    "min_investment": {
+      "sip": 100,
+      "lumpsum": 100
+    },
+    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
+  },
+  "fund_manager": {
+    "name": "Anupam Joshi",
+    "tenure_years": null,
+    "experience_summary": "Prior to joining HDFC Mutual Fund he has worked with IDFC AMC, Principal Asset Management Company and ICAP India Pvt. Ltd.",
+    "other_funds_managed": [
+      "HDFC Corporate Bond Fund Direct Plan Growth",
+      "HDFC CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth",
+      "HDFC FMP 1861D March 2022 Direct Growth",
+      "HDFC NIFTY G Sec Jun 2036 Index Fund Direct Growth",
+      "HDFC Hybrid Equity Fund Direct Plan Growth",
+      "HDFC Nifty G Sec Sep 2032 Index Direct Growth",
+      "HDFC Nifty G Sec Jun 2027 Index Direct Growth",
+      "HDFC Nifty G Sec July 2031 Index Direct Growth",
+      "HDFC FMP 1406D August 2022 Direct Growth",
+      "HDFC Nifty G sec Dec 2026 Index Direct Growth",
+      "HDFC Low Duration Fund Direct Growth",
+      "HDFC Nifty SDL Oct 2026 Index Fund Direct Growth",
+      "HDFC FMP 1876D March 2022 Direct Growth",
+      "HDFC Nifty G Sec Apr 2029 Index Fund Direct Growth",
+      "HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:50.577030Z"
+}

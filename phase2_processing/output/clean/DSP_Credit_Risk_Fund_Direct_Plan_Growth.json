@@ -1,0 +1,125 @@
+{
+  "identity": {
+    "fund_id": "INF740K01OS4",
+    "name": "DSP Credit Risk Fund Direct Plan Growth",
+    "category": "Debt",
+    "amc_name": "DSP Mutual Fund",
+    "benchmark_name": "CRISIL Credit Risk Debt B-II Index",
+    "plan_label": "Growth",
+    "keywords": [
+      "DSP Credit Risk",
+      "DSP Debt fund",
+      "high yield debt",
+      "Credit Risk Fund",
+      "DSP Mutual Fund"
+    ]
+  },
+  "nav": {
+    "value": 55.3288,
+    "date": "2026-03-04"
+  },
+  "returns": {
+    "one_year": 14.3,
+    "three_year": 15.03,
+    "five_year": 11.72,
+    "since_inception": 7.05,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 10.263558026095565,
+    "category_avg_three_year": 8.660538129768607,
+    "category_avg_five_year": 9.041288232241179
+  },
+  "risk": {
+    "riskometer": "Moderate",
+    "standard_deviation": 6.872004649207946,
+    "sharpe_ratio": 1.1950618016,
+    "alpha": 0,
+    "beta": 0
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "GOI",
+        "weight_pct": 13.91
+      },
+      {
+        "name": "Roadstar Infra Investment Trust",
+        "weight_pct": 8.58
+      },
+      {
+        "name": "Nirma Ltd.",
+        "weight_pct": 7.47
+      },
+      {
+        "name": "Aditya Birla Renewables Ltd.",
+        "weight_pct": 7.16
+      },
+      {
+        "name": "Aadhar Housing Finance Ltd",
+        "weight_pct": 5.04
+      },
+      {
+        "name": "Aditya Birla Real Estate Ltd.",
+        "weight_pct": 4.86
+      },
+      {
+        "name": "Sikka Ports and Terminals Ltd.",
+        "weight_pct": 4.84
+      },
+      {
+        "name": "GMR Airports Ltd.",
+        "weight_pct": 4.82
+      },
+      {
+        "name": "Nuvama Wealth Finance Ltd.",
+        "weight_pct": 4.82
+      },
+      {
+        "name": "Tata Projects Ltd.",
+        "weight_pct": 4.8
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": null
+  },
+  "operations": {
+    "expense_ratio": 0.41,
+    "exit_load": "Exit load of 3%, if redeemed within 12 months.",
+    "min_investment": {
+      "sip": 100,
+      "lumpsum": 100
+    },
+    "taxation": "Returns are taxed as per your Income Tax slab."
+  },
+  "fund_manager": {
+    "name": "Kunal Khudania",
+    "tenure_years": null,
+    "experience_summary": "Prior to joing the DSP MF, he was associated with Mirae Asset Investment Managers India Private Ltd, Futures First Info Services Private Ltd,",
+    "other_funds_managed": [
+      "DSP Liquidity Direct Growth",
+      "DSP Credit Risk Fund Direct Plan Growth",
+      "DSP Strategic Bond Direct Plan Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:34.545408Z"
+}

@@ -1,0 +1,151 @@
+{
+  "identity": {
+    "fund_id": "INF966L01580",
+    "name": "Quant Multi Asset Allocation Fund Direct Growth",
+    "category": "Hybrid",
+    "amc_name": "Quant Mutual Fund",
+    "benchmark_name": "Groww Debt Benchmark",
+    "plan_label": "Growth",
+    "keywords": [
+      "Quant Multi Asset",
+      "Quant Allocation",
+      "Quant Hybrid",
+      "Multi asset fund",
+      "Quant Mutual Fund"
+    ]
+  },
+  "nav": {
+    "value": 173.3637,
+    "date": "04-Mar-2026"
+  },
+  "returns": {
+    "one_year": 32.8,
+    "three_year": 26.05,
+    "five_year": 26.76,
+    "since_inception": 9.86,
+    "benchmark_one_year": null,
+    "benchmark_three_year": null,
+    "benchmark_five_year": null,
+    "category_avg_one_year": 15.094648397077961,
+    "category_avg_three_year": 17.808079513027074,
+    "category_avg_five_year": 16.11038377499498
+  },
+  "risk": {
+    "riskometer": "High",
+    "standard_deviation": 10.764147855629771,
+    "sharpe_ratio": 1.6723932032,
+    "alpha": 0,
+    "beta": 0
+  },
+  "portfolio": {
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "commodities": null,
+      "cash": null,
+      "other": null
+    },
+    "top_holdings": [
+      {
+        "name": "Nippon India ETF Gold BeES",
+        "weight_pct": 9.507784
+      },
+      {
+        "name": "HDFC Bank Ltd.",
+        "weight_pct": 9.305626
+      },
+      {
+        "name": "ICICI Bank Ltd.",
+        "weight_pct": 9.26423
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd.",
+        "weight_pct": 7.354324
+      },
+      {
+        "name": "Nifty Bank",
+        "weight_pct": 5.889861
+      },
+      {
+        "name": "HDFC Life Insurance Co Ltd.",
+        "weight_pct": 5.029332
+      },
+      {
+        "name": "Bajaj Finance Ltd.",
+        "weight_pct": 4.362969
+      },
+      {
+        "name": "Wipro Ltd.",
+        "weight_pct": 4.315831
+      },
+      {
+        "name": "Premier Energies Ltd.",
+        "weight_pct": 3.362745
+      },
+      {
+        "name": "Aurobindo Pharma Ltd.",
+        "weight_pct": 2.966447
+      }
+    ],
+    "sector_allocation": {},
+    "turnover_ratio": 0
+  },
+  "operations": {
+    "expense_ratio": 0.58,
+    "exit_load": "Exit load of 1%, if redeemed within 15 days.",
+    "min_investment": {
+      "sip": 1000,
+      "lumpsum": 5000
+    },
+    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+  },
+  "fund_manager": {
+    "name": "Sanjeev Sharma",
+    "tenure_years": null,
+    "experience_summary": "He has total work experience of 17 years including 13 years of experience in the financial market. He specializes in identifying crucial inflexion points in securities.",
+    "other_funds_managed": [
+      "Quant Value Fund Direct Growth",
+      "Quant Consumption Fund Direct Growth",
+      "Quant Arbitrage Fund Direct Growth",
+      "Quant Equity Savings Fund Direct Growth",
+      "Quant Quantamental Fund Direct Growth",
+      "Quant Large Cap Fund Direct Growth",
+      "Quant Momentum Fund Direct Growth",
+      "Quant Teck Fund Direct Growth",
+      "Quant Mid Cap Fund Direct Growth",
+      "Quant ELSS Tax Saver Fund Direct Growth",
+      "Quant Flexi Cap Fund Direct Growth",
+      "Quant Dynamic Asset Allocation Fund Direct Growth",
+      "Quant Liquid Direct Fund Growth",
+      "Quant Infrastructure Fund Direct Growth",
+      "Quant BFSI Fund Direct Growth",
+      "Quant Focused Fund Direct Growth",
+      "Quant ESG Integration Strategy Fund Direct Growth",
+      "Quant PSU Fund Direct Growth",
+      "Quant Large and Mid Cap Fund Direct Growth",
+      "Quant Small Cap Fund Direct Plan Growth",
+      "Quant Commodities Fund Direct Growth",
+      "Quant Multi Asset Allocation Fund Direct Growth",
+      "Quant Multi Cap Fund Direct Growth",
+      "Quant Aggressive Hybrid Fund Direct Growth",
+      "Quant Healthcare Fund Direct Growth",
+      "Quant Overnight Fund Direct Growth",
+      "Quant Gilt Fund Direct Growth",
+      "Quant Manufacturing Fund Direct Growth",
+      "Quant Business Cycle Fund Direct Growth"
+    ]
+  },
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "publisher": "Groww News",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
+  "source_urls": [
+    "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
+  ],
+  "last_scraped_at": "2026-03-04T18:57:44.553487Z"
+}
