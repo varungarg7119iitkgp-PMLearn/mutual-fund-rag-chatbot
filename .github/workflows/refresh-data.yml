@@ -1,0 +1,71 @@
+name: Refresh Fund Data
+
+on:
+  schedule:
+    # Run daily at 01:30 UTC (07:00 IST)
+    - cron: "30 1 * * *"
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      skip_scrape:
+        description: "Skip scraping (reprocess existing raw data only)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r backend/requirements.txt
+
+      - name: Install Playwright browsers
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run refresh pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_NAME: gemini-3-flash-preview
+          GEMINI_EMBEDDING_MODEL: models/embedding-001
+        run: |
+          SKIP_FLAG=""
+          if [ "${{ github.event.inputs.skip_scrape }}" = "true" ]; then
+            SKIP_FLAG="--skip-scrape"
+          fi
+          python scripts/refresh_pipeline.py $SKIP_FLAG
+
+      - name: Check for data changes
+        id: changes
+        run: |
+          git diff --quiet -- phase1_ingestion/output/ phase2_processing/output/ backend/rag_index/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated data
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add phase1_ingestion/output/ phase2_processing/output/ backend/rag_index/
+          git commit -m "chore: refresh fund data ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git push

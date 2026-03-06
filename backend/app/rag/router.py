@@ -3,6 +3,7 @@ from __future__ import annotations
 import csv
 import os
 import re
+import time
 from datetime import datetime
 from functools import lru_cache
 from typing import Any, Dict, List, Optional, Set, Tuple
@@ -12,6 +13,7 @@ from pydantic import BaseModel, Field
 from loguru import logger
 
 from app.core.config import get_settings
+from app.analytics.tracker import tracker, detect_funds_in_query
 from .gemini_client import generate_answer
 from .indexer import retrieve_top_k
 
@@ -208,10 +210,13 @@ async def chat(req: ChatRequest) -> ChatResponse:
     4. Retrieval + Gemini generation with rate-limit handling.
     """
     settings = get_settings()
+    start_ms = time.monotonic() * 1000
+    detected_funds = detect_funds_in_query(req.question)
 
     # Guardrail 1: PII detection.
     if _contains_pii(req.question):
         logger.info("chat_request.pii_detected", extra={"question_length": len(req.question)})
+        tracker.record_query(req.question, detected_funds, "pii_refused", 0.0)
         return ChatResponse(
             answer=_make_pii_warning(), used_chunks=[], model=settings.gemini_model_name
         )
@@ -219,6 +224,7 @@ async def chat(req: ChatRequest) -> ChatResponse:
     # Guardrail 2: Advice detection.
     if _is_advice_like(req.question):
         logger.info("chat_request.advice_refusal", extra={"question": req.question})
+        tracker.record_query(req.question, detected_funds, "advice_refused", 0.0)
         return ChatResponse(
             answer=_make_refusal_answer(), used_chunks=[], model=settings.gemini_model_name
         )
@@ -226,6 +232,7 @@ async def chat(req: ChatRequest) -> ChatResponse:
     # Guardrail 3: Out-of-corpus fund detection.
     if _mentions_out_of_corpus_fund(req.question):
         logger.info("chat_request.out_of_corpus", extra={"question": req.question})
+        tracker.record_query(req.question, detected_funds, "out_of_corpus", 0.0)
         return ChatResponse(
             answer=_make_out_of_corpus_answer(), used_chunks=[], model=settings.gemini_model_name
         )
@@ -282,6 +289,8 @@ async def chat(req: ChatRequest) -> ChatResponse:
             now_timestamp=now_ts,
         )
     except Exception as exc:
+        latency = time.monotonic() * 1000 - start_ms
+        tracker.record_query(req.question, detected_funds, "error", latency)
         if _is_rate_limit_error(exc):
             logger.warning("chat_request.rate_limited", extra={"error": str(exc)})
             raise HTTPException(
@@ -292,6 +301,9 @@ async def chat(req: ChatRequest) -> ChatResponse:
             status_code=500,
             detail=f"Failed to generate answer with Gemini: {exc}",
         ) from exc
+
+    latency = time.monotonic() * 1000 - start_ms
+    tracker.record_query(req.question, detected_funds, "answered", latency)
 
     used_chunks = [
         ChatChunk(

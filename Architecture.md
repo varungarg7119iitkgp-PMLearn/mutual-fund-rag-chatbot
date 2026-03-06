@@ -425,6 +425,26 @@ The desktop "Bloomberg-style" three-column layout is preserved at `lg`/`xl` brea
   - NAVs, returns, and news are regularly refreshed.
   - The chatbot's "Last updated from sources" timestamps reflect recent data.
 
+#### 10.3 Implementation Notes (Current Version)
+
+- **Unified refresh script** (`scripts/refresh_pipeline.py`):
+  - Orchestrates the full pipeline in three sequential steps:
+    1. **Scrape** -- calls `phase1_ingestion.src.playwright_scraper.run_scraping_session()` to re-scrape all 20 funds.
+    2. **Process** -- calls `phase2_processing.src.run_phase2.main()` to clean, normalize, and generate RAG chunks.
+    3. **Rebuild index** -- calls `backend/app/rag/indexer.build_index()` to regenerate the TF-IDF matrix and metadata.
+  - Steps are chained: if scraping fails, processing is skipped; if processing fails, index rebuild is skipped.
+  - Supports `--skip-scrape` flag to reprocess existing raw data without re-scraping.
+  - Exits with code 0 on success, 1 on failure.
+  - Prints a pipeline summary with per-step status and total elapsed time.
+
+- **GitHub Actions workflow** (`.github/workflows/refresh-data.yml`):
+  - **Schedule**: Runs daily at 01:30 UTC (07:00 IST) via cron.
+  - **Manual trigger**: Supports `workflow_dispatch` with an optional `skip_scrape` input.
+  - **Steps**: Checks out code, sets up Python 3.11, installs backend dependencies, installs Playwright Chromium, runs the refresh pipeline.
+  - **Auto-commit**: If data files changed (`phase1_ingestion/output/`, `phase2_processing/output/`, `backend/rag_index/`), commits and pushes with a timestamped message.
+  - **Auto-deploy**: The push triggers Railway auto-deploy, so the backend picks up the fresh index within minutes.
+  - **Secret required**: `GEMINI_API_KEY` must be set in GitHub repository secrets (Settings > Secrets and variables > Actions).
+
 ---
 
 ### 11. Phase 8 — Observability, Analytics, and Iteration
@@ -448,6 +468,29 @@ The desktop "Bloomberg-style" three-column layout is preserved at `lg`/`xl` brea
 - A feedback loop to:
   - Identify gaps in scraped fields or UI affordances.
   - Prioritize future enhancements (e.g., more funds, new metrics, UX refinements).
+
+#### 11.3 Implementation Notes (Current Version)
+
+- **Analytics tracker** (`backend/app/analytics/tracker.py`):
+  - Lightweight, in-memory (no external DB), anonymized query logger.
+  - Stores up to 5,000 recent `QueryRecord` entries (timestamp, question length, detected funds, outcome, latency).
+  - No user identifiers are stored -- fully anonymized per `Requirements.md`.
+  - Outcome categories: `answered`, `advice_refused`, `pii_refused`, `out_of_corpus`, `error`.
+  - Fund detection uses `config/fund_universe.csv` keywords to tag queries with mentioned funds.
+  - Provides `get_trending_funds(top_n)` using a 24-hour rolling window of query counts per fund.
+
+- **Analytics API** (`backend/app/analytics/router.py`):
+  - `GET /analytics/trending?top_n=5` -- returns top-N most queried funds in the last 24 hours.
+  - `GET /analytics/summary` -- returns overall stats: total queries, 24h counts, avg latency, outcome breakdown, trending funds.
+  - `GET /analytics/data-freshness` -- reads `backend/rag_index/metadata.json` and reports per-fund `last_scraped_at` timestamps, oldest/newest scrape dates, and total funds indexed.
+
+- **Integration with chat endpoint** (`backend/app/rag/router.py`):
+  - Every `/chat` request is tracked via `tracker.record_query(...)` with the detected funds, outcome, and latency.
+  - Tracking happens for all outcomes (successful answers, guardrail refusals, and errors).
+
+- **Limitations (this version)**:
+  - Analytics are in-memory only; data resets on each backend restart/deploy.
+  - For persistence, a future version could write to a lightweight database (SQLite, Redis, or Railway-managed Postgres).
 
 ---
 

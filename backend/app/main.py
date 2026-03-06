@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
 from app.rag.router import router as chat_router
+from app.analytics.router import router as analytics_router
 
 
 app = FastAPI(title="Mutual Fund Chatbot Backend")
@@ -21,6 +22,7 @@ app.add_middleware(
 )
 
 app.include_router(chat_router)
+app.include_router(analytics_router)
 
 
 @app.get("/health")
