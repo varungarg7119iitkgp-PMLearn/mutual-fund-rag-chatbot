@@ -15,12 +15,16 @@
     ]
   },
   "nav": {
-    "value": 29.2282,
-    "date": "2026-03-04"
+    "value": 28.1848,
+    "date": "2026-03-09",
+    "high_52w": null,
+    "high_52w_date": null,
+    "low_52w": null,
+    "low_52w_date": null
   },
   "returns": {
-    "one_year": 42.69,
-    "three_year": 37.09,
+    "one_year": 25.87,
+    "three_year": 32.52,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -31,64 +35,85 @@
     "category_avg_five_year": 18.837934652497328
   },
   "risk": {
-    "riskometer": "High",
+    "riskometer": "Very High",
     "standard_deviation": 19.645697224201793,
     "sharpe_ratio": 1.3791324197,
-    "alpha": 15.11348501164454,
-    "beta": 1.23701081932507
+    "beta": 1.23701081932507,
+    "alpha": 15.11348501164454
   },
   "portfolio": {
-    "asset_allocation": {
-      "equity": null,
-      "debt": null,
-      "commodities": null,
-      "cash": null,
-      "other": null
-    },
     "top_holdings": [
       {
         "name": "State Bank of India",
-        "weight_pct": 9.32632232
-      },
-      {
-        "name": "Hindalco Industries Ltd.",
-        "weight_pct": 9.16976159
-      },
-      {
-        "name": "Oil And Natural Gas Corporation Ltd.",
-        "weight_pct": 8.22112667
+        "percentage": null,
+        "weight_pct": 9.85995895,
+        "sector": null
       },
       {
         "name": "Indian Oil Corporation Ltd.",
-        "weight_pct": 8.18387258
+        "percentage": null,
+        "weight_pct": 8.9190702,
+        "sector": null
+      },
+      {
+        "name": "Hindalco Industries Ltd.",
+        "percentage": null,
+        "weight_pct": 8.36404385,
+        "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd.",
-        "weight_pct": 8.10827091
+        "percentage": null,
+        "weight_pct": 8.14280525,
+        "sector": null
+      },
+      {
+        "name": "Oil And Natural Gas Corporation Ltd.",
+        "percentage": null,
+        "weight_pct": 8.10886839,
+        "sector": null
       },
       {
         "name": "Hindustan Petroleum Corporation Ltd.",
-        "weight_pct": 5.61675802
+        "percentage": null,
+        "weight_pct": 5.47603128,
+        "sector": null
       },
       {
         "name": "GAIL (India) Ltd.",
-        "weight_pct": 5.54957411
+        "percentage": null,
+        "weight_pct": 5.34133025,
+        "sector": null
       },
       {
         "name": "Bank Of Baroda",
-        "weight_pct": 3.93696076
+        "percentage": null,
+        "weight_pct": 4.00729998,
+        "sector": null
       },
       {
         "name": "Canara Bank",
-        "weight_pct": 3.70010807
+        "percentage": null,
+        "weight_pct": 3.74591467,
+        "sector": null
       },
       {
-        "name": "National Aluminium Company Ltd.",
-        "weight_pct": 3.64700878
+        "name": "Tata Motors Passenger Vehicles Ltd.",
+        "percentage": null,
+        "weight_pct": 3.6238449,
+        "sector": null
       }
     ],
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "cash": null,
+      "others": null
+    },
+    "total_stocks": null,
+    "total_bonds": null,
     "sector_allocation": {},
-    "turnover_ratio": 56
+    "turnover_ratio": 51
   },
   "operations": {
     "expense_ratio": 0.36,
@@ -97,10 +122,13 @@
       "sip": 500,
       "lumpsum": 500
     },
+    "fund_size_cr": null,
+    "launch_date": null,
     "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
   },
   "fund_manager": {
     "name": "Swapnil P Mayekar",
+    "tenure": null,
     "tenure_years": null,
     "experience_summary": "Prior to joining Motilal Oswal AMC  he worked with Business Standard Limited from Aug 2005 to Feb 2010.",
     "other_funds_managed": [
@@ -155,13 +183,13 @@
     {
       "headline": "Latest mutual fund & market news",
       "date": null,
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "url": "https://groww.in/blog/category/news"
     }
   ],
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-04T18:57:52.141146Z"
+  "last_scraped_at": "2026-03-10T05:16:43.089483Z"
 }

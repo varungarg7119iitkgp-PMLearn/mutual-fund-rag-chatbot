@@ -14,13 +14,17 @@
     ]
   },
   "nav": {
-    "value": 26.8263,
-    "date": "04-Mar-2026"
+    "value": 26.8246,
+    "date": "09-Mar-2026",
+    "high_52w": null,
+    "high_52w_date": null,
+    "low_52w": null,
+    "low_52w_date": null
   },
   "returns": {
-    "one_year": 14.33,
-    "three_year": 13.03,
-    "five_year": 10.84,
+    "one_year": 14.07,
+    "three_year": 12.93,
+    "five_year": 10.74,
     "since_inception": 8.39,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -33,61 +37,82 @@
     "riskometer": "Moderately High",
     "standard_deviation": 2.890634949920321,
     "sharpe_ratio": 2.1668781288,
-    "alpha": 0,
-    "beta": 0
+    "beta": 0,
+    "alpha": 0
   },
   "portfolio": {
-    "asset_allocation": {
-      "equity": null,
-      "debt": null,
-      "commodities": null,
-      "cash": null,
-      "other": null
-    },
     "top_holdings": [
       {
+        "name": "GMR Airports Ltd.",
+        "percentage": null,
+        "weight_pct": 4.58158034,
+        "sector": null
+      },
+      {
         "name": "GOI",
-        "weight_pct": 4.40889927
+        "percentage": null,
+        "weight_pct": 4.28855823,
+        "sector": null
       },
       {
         "name": "Aditya Birla Real Estate Ltd.",
-        "weight_pct": 3.94900956
+        "percentage": null,
+        "weight_pct": 3.82536593,
+        "sector": null
       },
       {
         "name": "Jubilant Bevco Ltd.",
-        "weight_pct": 3.77995782
+        "percentage": null,
+        "weight_pct": 3.69741117,
+        "sector": null
       },
       {
         "name": "National Bank For Agriculture & Rural Development",
-        "weight_pct": 3.53709798
-      },
-      {
-        "name": "GMR Airports Ltd.",
-        "weight_pct": 3.32459897
+        "percentage": null,
+        "weight_pct": 3.43344334,
+        "sector": null
       },
       {
         "name": "GOI",
-        "weight_pct": 3.1446295
+        "percentage": null,
+        "weight_pct": 3.05914632,
+        "sector": null
       },
       {
         "name": "IKF Finance Ltd.",
-        "weight_pct": 3.06363712
+        "percentage": null,
+        "weight_pct": 2.96999579,
+        "sector": null
       },
       {
         "name": "National Bank For Agriculture & Rural Development",
-        "weight_pct": 3.03239654
+        "percentage": null,
+        "weight_pct": 2.94876309,
+        "sector": null
       },
       {
         "name": "Hinduja Leyland Finance Ltd.",
-        "weight_pct": 3.01899674
+        "percentage": null,
+        "weight_pct": 2.93548149,
+        "sector": null
       },
       {
         "name": "Kogta Financial India Ltd.",
-        "weight_pct": 2.8234703
+        "percentage": null,
+        "weight_pct": 2.74409069,
+        "sector": null
       }
     ],
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "cash": null,
+      "others": null
+    },
+    "total_stocks": null,
+    "total_bonds": null,
     "sector_allocation": {},
-    "turnover_ratio": 57
+    "turnover_ratio": 59
   },
   "operations": {
     "expense_ratio": 0.79,
@@ -96,10 +121,13 @@
       "sip": 100,
       "lumpsum": 100
     },
+    "fund_size_cr": null,
+    "launch_date": null,
     "taxation": "Returns are taxed as per your Income Tax slab."
   },
   "fund_manager": {
     "name": "Sunaina da Cunha",
+    "tenure": null,
     "tenure_years": null,
     "experience_summary": "Prior to joining Aditya Birla Sun Life Asset Management Company, she has worked with Aditya Birla Management Corporation Ltd.",
     "other_funds_managed": [
@@ -115,13 +143,13 @@
     {
       "headline": "Latest mutual fund & market news",
       "date": null,
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "url": "https://groww.in/blog/category/news"
     }
   ],
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-04T18:57:37.773138Z"
+  "last_scraped_at": "2026-03-10T05:16:17.445765Z"
 }

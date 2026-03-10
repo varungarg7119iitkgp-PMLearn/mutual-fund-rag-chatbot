@@ -15,13 +15,17 @@
     ]
   },
   "nav": {
-    "value": 55.3288,
-    "date": "2026-03-04"
+    "value": 55.6496,
+    "date": "2026-03-09",
+    "high_52w": null,
+    "high_52w_date": null,
+    "low_52w": null,
+    "low_52w_date": null
   },
   "returns": {
-    "one_year": 14.3,
-    "three_year": 15.03,
-    "five_year": 11.72,
+    "one_year": 6.69,
+    "three_year": 15.21,
+    "five_year": 11.83,
     "since_inception": 7.05,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -31,62 +35,83 @@
     "category_avg_five_year": 9.041288232241179
   },
   "risk": {
-    "riskometer": "Moderate",
+    "riskometer": "Moderately High",
     "standard_deviation": 6.872004649207946,
     "sharpe_ratio": 1.1950618016,
-    "alpha": 0,
-    "beta": 0
+    "beta": 0,
+    "alpha": 0
   },
   "portfolio": {
-    "asset_allocation": {
-      "equity": null,
-      "debt": null,
-      "commodities": null,
-      "cash": null,
-      "other": null
-    },
     "top_holdings": [
       {
         "name": "GOI",
-        "weight_pct": 13.91
-      },
-      {
-        "name": "Roadstar Infra Investment Trust",
-        "weight_pct": 8.58
-      },
-      {
-        "name": "Nirma Ltd.",
-        "weight_pct": 7.47
+        "percentage": null,
+        "weight_pct": 8.99,
+        "sector": null
       },
       {
         "name": "Aditya Birla Renewables Ltd.",
-        "weight_pct": 7.16
+        "percentage": null,
+        "weight_pct": 6.95,
+        "sector": null
       },
       {
-        "name": "Aadhar Housing Finance Ltd",
-        "weight_pct": 5.04
+        "name": "Roadstar Infra Investment Trust",
+        "percentage": null,
+        "weight_pct": 6.83,
+        "sector": null
       },
       {
-        "name": "Aditya Birla Real Estate Ltd.",
-        "weight_pct": 4.86
+        "name": "National Bank For Agriculture & Rural Development",
+        "percentage": null,
+        "weight_pct": 6.71,
+        "sector": null
       },
       {
-        "name": "Sikka Ports and Terminals Ltd.",
-        "weight_pct": 4.84
-      },
-      {
-        "name": "GMR Airports Ltd.",
-        "weight_pct": 4.82
-      },
-      {
-        "name": "Nuvama Wealth Finance Ltd.",
-        "weight_pct": 4.82
+        "name": "Nirma Ltd.",
+        "percentage": null,
+        "weight_pct": 6.67,
+        "sector": null
       },
       {
         "name": "Tata Projects Ltd.",
-        "weight_pct": 4.8
+        "percentage": null,
+        "weight_pct": 4.74,
+        "sector": null
+      },
+      {
+        "name": "GMR Airports Ltd.",
+        "percentage": null,
+        "weight_pct": 4.72,
+        "sector": null
+      },
+      {
+        "name": "Aditya Birla Real Estate Ltd.",
+        "percentage": null,
+        "weight_pct": 4.7,
+        "sector": null
+      },
+      {
+        "name": "Nuvama Wealth Finance Ltd.",
+        "percentage": null,
+        "weight_pct": 4.68,
+        "sector": null
+      },
+      {
+        "name": "JTPM Metal Traders Ltd.",
+        "percentage": null,
+        "weight_pct": 4.62,
+        "sector": null
       }
     ],
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "cash": null,
+      "others": null
+    },
+    "total_stocks": null,
+    "total_bonds": null,
     "sector_allocation": {},
     "turnover_ratio": null
   },
@@ -97,10 +122,13 @@
       "sip": 100,
       "lumpsum": 100
     },
+    "fund_size_cr": null,
+    "launch_date": null,
     "taxation": "Returns are taxed as per your Income Tax slab."
   },
   "fund_manager": {
     "name": "Kunal Khudania",
+    "tenure": null,
     "tenure_years": null,
     "experience_summary": "Prior to joing the DSP MF, he was associated with Mirae Asset Investment Managers India Private Ltd, Futures First Info Services Private Ltd,",
     "other_funds_managed": [
@@ -113,13 +141,13 @@
     {
       "headline": "Latest mutual fund & market news",
       "date": null,
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "url": "https://groww.in/blog/category/news"
     }
   ],
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-03-04T18:57:34.545408Z"
+  "last_scraped_at": "2026-03-10T05:16:11.971826Z"
 }

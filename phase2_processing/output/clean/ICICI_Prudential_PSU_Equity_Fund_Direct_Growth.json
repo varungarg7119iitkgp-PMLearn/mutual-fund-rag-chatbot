@@ -14,12 +14,16 @@
     ]
   },
   "nav": {
-    "value": 23.16,
-    "date": "2026-03-04"
+    "value": 22.76,
+    "date": "2026-03-09",
+    "high_52w": null,
+    "high_52w_date": null,
+    "low_52w": null,
+    "low_52w_date": null
   },
   "returns": {
-    "one_year": 30.51,
-    "three_year": 31.17,
+    "one_year": 19.36,
+    "three_year": 28.5,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -30,76 +34,100 @@
     "category_avg_five_year": 29.78700324101245
   },
   "risk": {
-    "riskometer": "High",
+    "riskometer": "Very High",
     "standard_deviation": 18.34735538765265,
     "sharpe_ratio": 1.1712438272,
-    "alpha": 1.03485929211162,
-    "beta": 0.80543586192981
+    "beta": 0.80543586192981,
+    "alpha": 1.03485929211162
   },
   "portfolio": {
-    "asset_allocation": {
-      "equity": null,
-      "debt": null,
-      "commodities": null,
-      "cash": null,
-      "other": null
-    },
     "top_holdings": [
       {
         "name": "State Bank of India",
-        "weight_pct": 11.30693092
+        "percentage": null,
+        "weight_pct": 11.30693092,
+        "sector": null
       },
       {
         "name": "NTPC Ltd.",
-        "weight_pct": 9.27201724
+        "percentage": null,
+        "weight_pct": 9.27201724,
+        "sector": null
       },
       {
         "name": "Power Grid Corporation Of India Ltd.",
-        "weight_pct": 6.76011609
+        "percentage": null,
+        "weight_pct": 6.76011609,
+        "sector": null
       },
       {
         "name": "Oil And Natural Gas Corporation Ltd.",
-        "weight_pct": 5.30377444
+        "percentage": null,
+        "weight_pct": 5.30377444,
+        "sector": null
       },
       {
         "name": "Bank Of Baroda",
-        "weight_pct": 4.14542457
+        "percentage": null,
+        "weight_pct": 4.14542457,
+        "sector": null
       },
       {
         "name": "Hindustan Aeronautics Ltd.",
-        "weight_pct": 4.07935432
+        "percentage": null,
+        "weight_pct": 4.07935432,
+        "sector": null
       },
       {
         "name": "Indian Oil Corporation Ltd.",
-        "weight_pct": 3.93433969
+        "percentage": null,
+        "weight_pct": 3.93433969,
+        "sector": null
       },
       {
         "name": "Life Insurance Corporation of India",
-        "weight_pct": 3.78057253
+        "percentage": null,
+        "weight_pct": 3.78057253,
+        "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd.",
-        "weight_pct": 3.57709155
+        "percentage": null,
+        "weight_pct": 3.57709155,
+        "sector": null
       },
       {
         "name": "REC Ltd.",
-        "weight_pct": 3.36166159
+        "percentage": null,
+        "weight_pct": 3.36166159,
+        "sector": null
       }
     ],
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "cash": null,
+      "others": null
+    },
+    "total_stocks": null,
+    "total_bonds": null,
     "sector_allocation": {},
     "turnover_ratio": 48
   },
   "operations": {
-    "expense_ratio": 0.85,
+    "expense_ratio": 0.86,
     "exit_load": "Exit Load 1% if redeem before 1 month from the date of allotment.",
     "min_investment": {
       "sip": 100,
       "lumpsum": 5000
     },
+    "fund_size_cr": null,
+    "launch_date": null,
     "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
   },
   "fund_manager": {
     "name": "Antariksha Banerjee",
+    "tenure": null,
     "tenure_years": null,
     "experience_summary": "He joined ICICI Prudential AMC, he has been part of the Research team of the AMC.",
     "other_funds_managed": [
@@ -111,13 +139,13 @@
     {
       "headline": "Latest mutual fund & market news",
       "date": null,
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
       "url": "https://groww.in/blog/category/news"
     }
   ],
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-04T18:57:58.307552Z"
+  "last_scraped_at": "2026-03-10T05:16:53.533469Z"
 }
