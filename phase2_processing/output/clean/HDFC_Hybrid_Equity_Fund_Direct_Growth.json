@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 124.825,
-    "date": "2026-03-06",
+    "value": 122.833,
+    "date": "2026-03-09",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 7.02,
-    "three_year": 11,
-    "five_year": 11.59,
+    "one_year": 5.28,
+    "three_year": 10.47,
+    "five_year": 11.15,
     "since_inception": 11.8,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -135,17 +135,23 @@
       "HDFC CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth",
       "HDFC FMP 1861D March 2022 Direct Growth",
       "HDFC NIFTY G Sec Jun 2036 Index Fund Direct Growth",
-      "HDFC Hybrid Equity Fund Direct Plan Growth",
+      "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+      "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
       "HDFC Nifty G Sec Sep 2032 Index Direct Growth",
       "HDFC Nifty G Sec Jun 2027 Index Direct Growth",
       "HDFC Nifty G Sec July 2031 Index Direct Growth",
-      "HDFC FMP 1406D August 2022 Direct Growth",
       "HDFC Nifty G sec Dec 2026 Index Direct Growth",
       "HDFC Low Duration Fund Direct Growth",
+      "HDFC Hybrid Debt Fund Direct Growth",
       "HDFC Nifty SDL Oct 2026 Index Fund Direct Growth",
       "HDFC FMP 1876D March 2022 Direct Growth",
       "HDFC Nifty G Sec Apr 2029 Index Fund Direct Growth",
-      "HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth"
+      "HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth",
+      "HDFC Income Fund Direct Growth",
+      "HDFC Hybrid Equity Fund Direct Plan Growth",
+      "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+      "HDFC FMP 1406D August 2022 Direct Growth",
+      "HDFC Long Duration Debt Fund Direct Growth"
     ]
   },
   "news_context": [
@@ -160,5 +166,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-09T05:43:22.552273Z"
+  "last_scraped_at": "2026-03-10T05:16:33.673078Z"
 }

@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 29.3177,
-    "date": "2026-03-06",
+    "value": 28.1848,
+    "date": "2026-03-09",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 30.76,
-    "three_year": 34.44,
+    "one_year": 25.87,
+    "three_year": 32.52,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 9.32632232,
-        "sector": null
-      },
-      {
-        "name": "Hindalco Industries Ltd.",
-        "percentage": null,
-        "weight_pct": 9.16976159,
-        "sector": null
-      },
-      {
-        "name": "Oil And Natural Gas Corporation Ltd.",
-        "percentage": null,
-        "weight_pct": 8.22112667,
+        "weight_pct": 9.85995895,
         "sector": null
       },
       {
         "name": "Indian Oil Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 8.18387258,
+        "weight_pct": 8.9190702,
+        "sector": null
+      },
+      {
+        "name": "Hindalco Industries Ltd.",
+        "percentage": null,
+        "weight_pct": 8.36404385,
         "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 8.10827091,
+        "weight_pct": 8.14280525,
+        "sector": null
+      },
+      {
+        "name": "Oil And Natural Gas Corporation Ltd.",
+        "percentage": null,
+        "weight_pct": 8.10886839,
         "sector": null
       },
       {
         "name": "Hindustan Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 5.61675802,
+        "weight_pct": 5.47603128,
         "sector": null
       },
       {
         "name": "GAIL (India) Ltd.",
         "percentage": null,
-        "weight_pct": 5.54957411,
+        "weight_pct": 5.34133025,
         "sector": null
       },
       {
         "name": "Bank Of Baroda",
         "percentage": null,
-        "weight_pct": 3.93696076,
+        "weight_pct": 4.00729998,
         "sector": null
       },
       {
         "name": "Canara Bank",
         "percentage": null,
-        "weight_pct": 3.70010807,
+        "weight_pct": 3.74591467,
         "sector": null
       },
       {
-        "name": "National Aluminium Company Ltd.",
+        "name": "Tata Motors Passenger Vehicles Ltd.",
         "percentage": null,
-        "weight_pct": 3.64700878,
+        "weight_pct": 3.6238449,
         "sector": null
       }
     ],
@@ -113,7 +113,7 @@
     "total_stocks": null,
     "total_bonds": null,
     "sector_allocation": {},
-    "turnover_ratio": 56
+    "turnover_ratio": 51
   },
   "operations": {
     "expense_ratio": 0.36,
@@ -191,5 +191,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-09T05:43:26.223148Z"
+  "last_scraped_at": "2026-03-10T05:16:43.089483Z"
 }

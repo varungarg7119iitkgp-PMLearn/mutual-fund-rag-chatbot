@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 55.6783,
-    "date": "06-Mar-2026",
+    "value": 55.6496,
+    "date": "09-Mar-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 14.95,
-    "three_year": 15.23,
-    "five_year": 11.85,
+    "one_year": 6.69,
+    "three_year": 15.21,
+    "five_year": 11.83,
     "since_inception": 7.05,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "GOI",
         "percentage": null,
-        "weight_pct": 13.91,
-        "sector": null
-      },
-      {
-        "name": "Roadstar Infra Investment Trust",
-        "percentage": null,
-        "weight_pct": 8.58,
-        "sector": null
-      },
-      {
-        "name": "Nirma Ltd.",
-        "percentage": null,
-        "weight_pct": 7.47,
+        "weight_pct": 8.99,
         "sector": null
       },
       {
         "name": "Aditya Birla Renewables Ltd.",
         "percentage": null,
-        "weight_pct": 7.16,
+        "weight_pct": 6.95,
         "sector": null
       },
       {
-        "name": "Aadhar Housing Finance Ltd",
+        "name": "Roadstar Infra Investment Trust",
         "percentage": null,
-        "weight_pct": 5.04,
+        "weight_pct": 6.83,
         "sector": null
       },
       {
-        "name": "Aditya Birla Real Estate Ltd.",
+        "name": "National Bank For Agriculture & Rural Development",
         "percentage": null,
-        "weight_pct": 4.86,
+        "weight_pct": 6.71,
         "sector": null
       },
       {
-        "name": "Sikka Ports and Terminals Ltd.",
+        "name": "Nirma Ltd.",
         "percentage": null,
-        "weight_pct": 4.84,
-        "sector": null
-      },
-      {
-        "name": "GMR Airports Ltd.",
-        "percentage": null,
-        "weight_pct": 4.82,
-        "sector": null
-      },
-      {
-        "name": "Nuvama Wealth Finance Ltd.",
-        "percentage": null,
-        "weight_pct": 4.82,
+        "weight_pct": 6.67,
         "sector": null
       },
       {
         "name": "Tata Projects Ltd.",
         "percentage": null,
-        "weight_pct": 4.8,
+        "weight_pct": 4.74,
+        "sector": null
+      },
+      {
+        "name": "GMR Airports Ltd.",
+        "percentage": null,
+        "weight_pct": 4.72,
+        "sector": null
+      },
+      {
+        "name": "Aditya Birla Real Estate Ltd.",
+        "percentage": null,
+        "weight_pct": 4.7,
+        "sector": null
+      },
+      {
+        "name": "Nuvama Wealth Finance Ltd.",
+        "percentage": null,
+        "weight_pct": 4.68,
+        "sector": null
+      },
+      {
+        "name": "JTPM Metal Traders Ltd.",
+        "percentage": null,
+        "weight_pct": 4.62,
         "sector": null
       }
     ],
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-03-09T05:42:52.639287Z"
+  "last_scraped_at": "2026-03-10T05:16:11.971826Z"
 }

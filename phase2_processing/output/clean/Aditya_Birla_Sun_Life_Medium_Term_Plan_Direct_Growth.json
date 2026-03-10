@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 46.2912,
-    "date": "2026-03-06",
+    "value": 46.2279,
+    "date": "2026-03-09",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.03,
-    "three_year": 10.81,
-    "five_year": 12.78,
+    "one_year": 10.82,
+    "three_year": 10.76,
+    "five_year": 12.73,
     "since_inception": 4.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -45,61 +45,61 @@
       {
         "name": "GOI",
         "percentage": null,
-        "weight_pct": 9.42344482,
+        "weight_pct": 8.04545377,
         "sector": null
       },
       {
         "name": "GOI",
         "percentage": null,
-        "weight_pct": 7.61169434,
-        "sector": null
-      },
-      {
-        "name": "GOI",
-        "percentage": null,
-        "weight_pct": 6.36844252,
+        "weight_pct": 7.09322297,
         "sector": null
       },
       {
         "name": "National Bank For Agriculture & Rural Development",
         "percentage": null,
-        "weight_pct": 3.8028332,
+        "weight_pct": 4.09088105,
+        "sector": null
+      },
+      {
+        "name": "National Bank For Agriculture & Rural Development",
+        "percentage": null,
+        "weight_pct": 3.70947827,
         "sector": null
       },
       {
         "name": "Hinduja Leyland Finance Ltd.",
         "percentage": null,
-        "weight_pct": 3.62141897,
+        "weight_pct": 3.53221508,
         "sector": null
       },
       {
         "name": "Nuvama Wealth Finance Ltd.",
         "percentage": null,
-        "weight_pct": 3.22331515,
+        "weight_pct": 3.13261384,
+        "sector": null
+      },
+      {
+        "name": "GOI",
+        "percentage": null,
+        "weight_pct": 3.05441463,
         "sector": null
       },
       {
         "name": "GMR Airports Ltd.",
         "percentage": null,
-        "weight_pct": 2.74358877,
+        "weight_pct": 2.69864093,
         "sector": null
       },
       {
         "name": "Jubilant Bevco Ltd.",
         "percentage": null,
-        "weight_pct": 2.6690098,
+        "weight_pct": 2.61886209,
         "sector": null
       },
       {
         "name": "JTPM Metal Traders Ltd.",
         "percentage": null,
-        "weight_pct": 2.65428566,
-        "sector": null
-      },
-      {
-        "name": "Kogta Financial India Ltd.",
-        "percentage": null,
-        "weight_pct": 2.40397173,
+        "weight_pct": 2.60502575,
         "sector": null
       }
     ],
@@ -151,5 +151,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-03-09T05:43:03.143679Z"
+  "last_scraped_at": "2026-03-10T05:16:22.425606Z"
 }

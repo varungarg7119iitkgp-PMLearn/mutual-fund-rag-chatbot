@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 44.4767,
-    "date": "2026-03-06",
+    "value": 44.437,
+    "date": "2026-03-09",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 7.18,
-    "three_year": 12.72,
-    "five_year": 12.51,
+    "one_year": 7.09,
+    "three_year": 12.69,
+    "five_year": 12.49,
     "since_inception": 10.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -91,6 +91,7 @@
     "experience_summary": "Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years.",
     "other_funds_managed": [
       "HDFC Equity Savings Direct Plan Growth",
+      "HDFC Medium Term Debt Fund Direct Growth",
       "HDFC Banking and PSU Debt Fund Direct Growth",
       "HDFC Gilt Fund Direct Growth",
       "HDFC Dynamic Debt Fund Direct Plan Growth",
@@ -101,6 +102,7 @@
       "HDFC Income Plus Arbitrage Active FoF Direct Growth",
       "HDFC Arbitrage Fund Wholesale Direct Growth",
       "HDFC Multi Asset Active FoF Direct Growth",
+      "HDFC Floating Rate Debt Fund Direct Plan Growth",
       "HDFC Short Term Debt Fund Direct Plan Growth",
       "HDFC Multi Asset Allocation Fund Direct Growth"
     ]
@@ -117,5 +119,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-03-09T05:42:55.632695Z"
+  "last_scraped_at": "2026-03-10T05:16:14.755307Z"
 }
