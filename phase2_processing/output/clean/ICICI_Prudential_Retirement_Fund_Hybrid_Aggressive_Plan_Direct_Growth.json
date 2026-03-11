@@ -1,11 +1,11 @@
 {
   "identity": {
-    "fund_id": "INF109KC1TW4",
+    "fund_id": null,
     "name": "ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth",
     "category": "Hybrid",
-    "amc_name": "ICICI Prudential Mutual Fund",
-    "benchmark_name": "CRISIL Hybrid 35+65 Aggressive Index",
-    "plan_label": "Growth",
+    "amc_name": null,
+    "benchmark_name": null,
+    "plan_label": null,
     "keywords": [
       "ICICI Retirement",
       "ICICI Hybrid Aggressive",
@@ -14,95 +14,34 @@
     ]
   },
   "nav": {
-    "value": 28.93,
-    "date": "2026-03-09",
+    "value": null,
+    "date": null,
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 16.32,
-    "three_year": 22.73,
-    "five_year": 16.61,
-    "since_inception": 13.83,
+    "one_year": null,
+    "three_year": null,
+    "five_year": null,
+    "since_inception": null,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
     "benchmark_five_year": null,
-    "category_avg_one_year": 4.718690601669351,
-    "category_avg_three_year": 14.31110204180801,
-    "category_avg_five_year": 13.941004134645727
+    "category_avg_one_year": null,
+    "category_avg_three_year": null,
+    "category_avg_five_year": null
   },
   "risk": {
-    "riskometer": "Moderately High",
-    "standard_deviation": 11.970805278425031,
-    "sharpe_ratio": 1.427003894,
-    "beta": 0,
-    "alpha": 0
+    "riskometer": null,
+    "standard_deviation": null,
+    "sharpe_ratio": null,
+    "beta": null,
+    "alpha": null
   },
   "portfolio": {
-    "top_holdings": [
-      {
-        "name": "Multi Commodity Exchange Of India Ltd.",
-        "percentage": null,
-        "weight_pct": 3.37595463,
-        "sector": null
-      },
-      {
-        "name": "Mphasis Ltd.",
-        "percentage": null,
-        "weight_pct": 2.84704321,
-        "sector": null
-      },
-      {
-        "name": "Tata Motors Ltd.",
-        "percentage": null,
-        "weight_pct": 2.78834336,
-        "sector": null
-      },
-      {
-        "name": "Vedanta Ltd.",
-        "percentage": null,
-        "weight_pct": 2.75373442,
-        "sector": null
-      },
-      {
-        "name": "Vedanta Ltd.",
-        "percentage": null,
-        "weight_pct": 2.4873443,
-        "sector": null
-      },
-      {
-        "name": "Tech Mahindra Ltd.",
-        "percentage": null,
-        "weight_pct": 2.13994693,
-        "sector": null
-      },
-      {
-        "name": "UPL Ltd.",
-        "percentage": null,
-        "weight_pct": 2.08765852,
-        "sector": null
-      },
-      {
-        "name": "Titan Company Ltd.",
-        "percentage": null,
-        "weight_pct": 1.94537221,
-        "sector": null
-      },
-      {
-        "name": "Ultratech Cement Ltd.",
-        "percentage": null,
-        "weight_pct": 1.83067977,
-        "sector": null
-      },
-      {
-        "name": "Interglobe Aviation Ltd.",
-        "percentage": null,
-        "weight_pct": 1.79288797,
-        "sector": null
-      }
-    ],
+    "top_holdings": [],
     "asset_allocation": {
       "equity": null,
       "debt": null,
@@ -112,85 +51,29 @@
     "total_stocks": null,
     "total_bonds": null,
     "sector_allocation": {},
-    "turnover_ratio": 63
+    "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.79,
-    "exit_load": "Nil",
+    "expense_ratio": null,
+    "exit_load": null,
     "min_investment": {
-      "sip": 100,
-      "lumpsum": 5000
+      "sip": null,
+      "lumpsum": null
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
+    "taxation": null
   },
   "fund_manager": {
-    "name": "Sharmila D'Silva",
+    "name": null,
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "She joined ICICI Prudential AMC Limited in September 2016.",
-    "other_funds_managed": [
-      "ICICI Prudential ESG Exclusionary Strategy Fund Direct Growth",
-      "ICICI Prudential Infrastructure Direct Growth",
-      "ICICI Prudential US Bluechip Equity Direct Plan Growth",
-      "ICICI Prudential Dividend Yield Equity Fund Direct Growth",
-      "ICICI Prudential Retirement Fund Pure Equity Plan Direct Growth",
-      "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund Direct Growth",
-      "ICICI Prudential Regular Savings Fund Direct Growth",
-      "ICICI Prudential Equity Savings Fund Direct Growth",
-      "ICICI Prudential Focused Equity Fund Direct Growth",
-      "ICICI Prudential Active Momentum Fund Direct Growth",
-      "ICICI Prudential Global Advantage Fund (FOF) Direct Growth",
-      "ICICI Prudential Innovation Fund Direct Growth",
-      "ICICI Prudential Commodities Fund Direct Growth",
-      "ICICI Prudential Flexicap Fund Direct Growth",
-      "ICICI Prudential Liquid Fund Direct Plan Growth",
-      "ICICI Prudential Strategic Metal and Energy Equity FoF Direct Growth",
-      "ICICI Prudential ELSS Tax Saver Direct Plan Growth",
-      "ICICI Prudential Large Cap Fund Direct Growth",
-      "ICICI Prudential Long Term Wealth Enhancement Fund Direct Growth",
-      "ICICI Prudential Housing Opportunities Fund Direct Growth",
-      "ICICI Prudential NASDAQ 100 Index Fund Direct Growth",
-      "ICICI Prudential Multi Asset Fund Direct Growth",
-      "ICICI Prudential India Opportunities Fund Direct Growth",
-      "ICICI Prudential Transportation and Logistics Fund Direct Growth",
-      "ICICI Prudential Children's Fund Direct Growth",
-      "ICICI Prudential Diversified Equity All Cap Active FoF Direct Growth",
-      "ICICI Prudential Value Direct Growth",
-      "ICICI Prudential Exports and Services Fund Direct Growth",
-      "ICICI Prudential Diversified Equity All Cap Omni FoF Direct Growth",
-      "ICICI Prudential Dynamic Asset Allocation Active FoF Direct Growth",
-      "ICICI Prudential Global Stable Equity Fund (FOF) Direct Growth",
-      "ICICI Prudential MNC Fund Direct Growth",
-      "ICICI Prudential Midcap Direct Plan Growth",
-      "ICICI Prudential Balanced Advantage Direct Growth",
-      "ICICI Prudential Equity & Debt Fund Direct Growth",
-      "ICICI Prudential Manufacturing Fund Direct Growth",
-      "ICICI Prudential Multi Sector Passive FoF Direct Growth",
-      "ICICI Prudential Equity Arbitrage Direct Growth",
-      "ICICI Prudential Banking and Financial Services Direct Plan Growth",
-      "ICICI Prudential Retirement Fund Hybrid Conservative Plan Direct Growth",
-      "ICICI Prudential Passive Multi Asset FoF Direct Growth",
-      "ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth",
-      "ICICI Prudential Energy Opportunities Fund Direct Growth",
-      "ICICI Prudential Multicap Fund Direct Plan Growth",
-      "ICICI Prudential Technology Direct Plan Growth",
-      "ICICI Prudential Large & Mid Cap Fund Direct Plan Growth",
-      "ICICI Prudential Retirement Fund Pure Debt Plan Direct Growth"
-    ]
+    "experience_summary": null,
+    "other_funds_managed": []
   },
-  "news_context": [
-    {
-      "headline": "Latest mutual fund & market news",
-      "date": null,
-      "publisher": "Groww News",
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
-      "url": "https://groww.in/blog/category/news"
-    }
-  ],
+  "news_context": [],
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-03-10T05:16:29.306147Z"
+  "last_scraped_at": "2026-03-11T05:18:12.995993Z"
 }

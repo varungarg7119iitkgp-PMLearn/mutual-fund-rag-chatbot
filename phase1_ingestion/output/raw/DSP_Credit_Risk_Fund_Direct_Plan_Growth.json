@@ -1,11 +1,11 @@
 {
   "identity": {
-    "fund_id": "INF740K01OS4",
+    "fund_id": null,
     "name": "DSP Credit Risk Fund Direct Plan Growth",
     "category": "Debt",
-    "amc_name": "DSP Mutual Fund",
-    "benchmark_name": "CRISIL Credit Risk Debt B-II Index",
-    "plan_label": "Growth",
+    "amc_name": null,
+    "benchmark_name": null,
+    "plan_label": null,
     "keywords": [
       "DSP Credit Risk",
       "DSP Debt fund",
@@ -15,139 +15,58 @@
     ]
   },
   "nav": {
-    "value": 55.6496,
-    "date": "09-Mar-2026",
+    "value": null,
+    "date": null,
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 6.69,
-    "three_year": 15.21,
-    "five_year": 11.83,
-    "since_inception": 7.05,
+    "one_year": null,
+    "three_year": null,
+    "five_year": null,
+    "since_inception": null,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
     "benchmark_five_year": null,
-    "category_avg_one_year": 10.263558026095565,
-    "category_avg_three_year": 8.660538129768607,
-    "category_avg_five_year": 9.041288232241179
+    "category_avg_one_year": null,
+    "category_avg_three_year": null,
+    "category_avg_five_year": null
   },
   "risk": {
-    "riskometer": "Moderately High",
-    "standard_deviation": 6.872004649207946,
-    "sharpe_ratio": 1.1950618016,
-    "beta": 0,
-    "alpha": 0
+    "riskometer": null,
+    "standard_deviation": null,
+    "sharpe_ratio": null,
+    "beta": null,
+    "alpha": null
   },
   "portfolio": {
-    "top_holdings": [
-      {
-        "name": "GOI",
-        "percentage": null,
-        "weight_pct": 8.99,
-        "sector": null
-      },
-      {
-        "name": "Aditya Birla Renewables Ltd.",
-        "percentage": null,
-        "weight_pct": 6.95,
-        "sector": null
-      },
-      {
-        "name": "Roadstar Infra Investment Trust",
-        "percentage": null,
-        "weight_pct": 6.83,
-        "sector": null
-      },
-      {
-        "name": "National Bank For Agriculture & Rural Development",
-        "percentage": null,
-        "weight_pct": 6.71,
-        "sector": null
-      },
-      {
-        "name": "Nirma Ltd.",
-        "percentage": null,
-        "weight_pct": 6.67,
-        "sector": null
-      },
-      {
-        "name": "Tata Projects Ltd.",
-        "percentage": null,
-        "weight_pct": 4.74,
-        "sector": null
-      },
-      {
-        "name": "GMR Airports Ltd.",
-        "percentage": null,
-        "weight_pct": 4.72,
-        "sector": null
-      },
-      {
-        "name": "Aditya Birla Real Estate Ltd.",
-        "percentage": null,
-        "weight_pct": 4.7,
-        "sector": null
-      },
-      {
-        "name": "Nuvama Wealth Finance Ltd.",
-        "percentage": null,
-        "weight_pct": 4.68,
-        "sector": null
-      },
-      {
-        "name": "JTPM Metal Traders Ltd.",
-        "percentage": null,
-        "weight_pct": 4.62,
-        "sector": null
-      }
-    ],
-    "asset_allocation": {
-      "equity": null,
-      "debt": null,
-      "cash": null,
-      "others": null
-    },
+    "top_holdings": [],
+    "asset_allocation": null,
     "total_stocks": null,
     "total_bonds": null,
-    "sector_allocation": {},
+    "sector_allocation": null,
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.41,
-    "exit_load": "Exit load of 3%, if redeemed within 12 months.",
-    "min_investment": {
-      "sip": 100,
-      "lumpsum": 100
-    },
+    "expense_ratio": null,
+    "exit_load": null,
+    "min_investment": null,
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "Returns are taxed as per your Income Tax slab."
+    "taxation": null
   },
   "fund_manager": {
-    "name": "Kunal Khudania",
+    "name": null,
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "Prior to joing the DSP MF, he was associated with Mirae Asset Investment Managers India Private Ltd, Futures First Info Services Private Ltd,",
-    "other_funds_managed": [
-      "DSP Liquidity Direct Growth",
-      "DSP Credit Risk Fund Direct Plan Growth",
-      "DSP Strategic Bond Direct Plan Growth"
-    ]
+    "experience_summary": null,
+    "other_funds_managed": []
   },
-  "news_context": [
-    {
-      "headline": "Latest mutual fund & market news",
-      "date": null,
-      "publisher": "Groww News",
-      "summary": "Generic news stream from Groww; not specific to this single fund.",
-      "url": "https://groww.in/blog/category/news"
-    }
-  ],
+  "news_context": [],
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-03-10T05:16:11.971826Z"
+  "last_scraped_at": "2026-03-11T05:17:55.986759Z"
 }
