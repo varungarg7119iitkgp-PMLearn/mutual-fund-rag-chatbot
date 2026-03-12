@@ -1,11 +1,11 @@
 {
   "identity": {
-    "fund_id": null,
+    "fund_id": "INF200K01UY4",
     "name": "SBI PSU Direct Plan Growth",
     "category": "Equity",
-    "amc_name": null,
-    "benchmark_name": null,
-    "plan_label": null,
+    "amc_name": "SBI Mutual Fund",
+    "benchmark_name": "BSE PSU Total Return Index",
+    "plan_label": "Growth",
     "keywords": [
       "SBI PSU",
       "SBI Public Sector",
@@ -15,34 +15,95 @@
     ]
   },
   "nav": {
-    "value": null,
-    "date": null,
+    "value": 38.9487,
+    "date": "2026-03-11",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": null,
-    "three_year": null,
-    "five_year": null,
-    "since_inception": null,
+    "one_year": 27.76,
+    "three_year": 32.84,
+    "five_year": 27.53,
+    "since_inception": 3.93,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
     "benchmark_five_year": null,
-    "category_avg_one_year": null,
-    "category_avg_three_year": null,
-    "category_avg_five_year": null
+    "category_avg_one_year": 5.8055358744523,
+    "category_avg_three_year": 28.28070290393152,
+    "category_avg_five_year": 29.78700324101245
   },
   "risk": {
-    "riskometer": null,
-    "standard_deviation": null,
-    "sharpe_ratio": null,
-    "beta": null,
-    "alpha": null
+    "riskometer": "Very High",
+    "standard_deviation": 20.96389770835457,
+    "sharpe_ratio": 1.3505159962,
+    "beta": 0.92903464713831,
+    "alpha": 1.81631033759684
   },
   "portfolio": {
-    "top_holdings": [],
+    "top_holdings": [
+      {
+        "name": "State Bank of India",
+        "percentage": null,
+        "weight_pct": 17.88,
+        "sector": null
+      },
+      {
+        "name": "Bharat Electronics Ltd.",
+        "percentage": null,
+        "weight_pct": 9.74,
+        "sector": null
+      },
+      {
+        "name": "NTPC Ltd.",
+        "percentage": null,
+        "weight_pct": 9.19,
+        "sector": null
+      },
+      {
+        "name": "Power Grid Corporation Of India Ltd.",
+        "percentage": null,
+        "weight_pct": 8.55,
+        "sector": null
+      },
+      {
+        "name": "GAIL (India) Ltd.",
+        "percentage": null,
+        "weight_pct": 8.15,
+        "sector": null
+      },
+      {
+        "name": "Bharat Petroleum Corporation Ltd.",
+        "percentage": null,
+        "weight_pct": 5.91,
+        "sector": null
+      },
+      {
+        "name": "Bank Of Baroda",
+        "percentage": null,
+        "weight_pct": 5.51,
+        "sector": null
+      },
+      {
+        "name": "NMDC Ltd.",
+        "percentage": null,
+        "weight_pct": 3.79,
+        "sector": null
+      },
+      {
+        "name": "Indian Bank",
+        "percentage": null,
+        "weight_pct": 3.7,
+        "sector": null
+      },
+      {
+        "name": "Oil India Ltd.",
+        "percentage": null,
+        "weight_pct": 3.28,
+        "sector": null
+      }
+    ],
     "asset_allocation": {
       "equity": null,
       "debt": null,
@@ -52,29 +113,45 @@
     "total_stocks": null,
     "total_bonds": null,
     "sector_allocation": {},
-    "turnover_ratio": null
+    "turnover_ratio": 47
   },
   "operations": {
-    "expense_ratio": null,
-    "exit_load": null,
+    "expense_ratio": 0.82,
+    "exit_load": "Exit load of 0.50% if redeemed within 30 days.",
     "min_investment": {
-      "sip": null,
-      "lumpsum": null
+      "sip": 500,
+      "lumpsum": 5000
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": null
+    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
   },
   "fund_manager": {
-    "name": null,
+    "name": "Rohit Shimpi",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": null,
-    "other_funds_managed": []
+    "experience_summary": "Prior to joining SBI Mutual Fund, he has worked with CNBC TV18, JP Morgans offshore research centre and HDFC Standard Life Insurance.",
+    "other_funds_managed": [
+      "SBI Retirement Benefit Fund Aggressive Plan Direct Growth",
+      "SBI US Specific Equity Active FoF Direct Growth",
+      "SBI Retirement Benefit Fund Aggressive Hybrid Plan Direct Growth",
+      "SBI Retirement Benefit Fund Conservative Hybrid Plan Direct Growth",
+      "SBI ESG Exclusionary Strategy Fund Direct Plan Growth",
+      "SBI Retirement Benefit Fund Conservative Plan Direct Growth",
+      "SBI PSU Direct Plan Growth"
+    ]
   },
-  "news_context": [],
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-11T05:18:21.662734Z"
+  "last_scraped_at": "2026-03-12T05:33:54.596787Z"
 }
