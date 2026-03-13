@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 122.831,
-    "date": "2026-03-11",
+    "value": 121.97,
+    "date": "2026-03-12",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 5.78,
-    "three_year": 10.74,
-    "five_year": 11.08,
+    "one_year": 5.11,
+    "three_year": 10.47,
+    "five_year": 11.03,
     "since_inception": 11.8,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -166,5 +166,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-12T05:33:49.871100Z"
+  "last_scraped_at": "2026-03-13T05:20:29.109446Z"
 }
