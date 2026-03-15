@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 9.35,
-        "sector": null
-      },
-      {
-        "name": "Bharat Electronics Ltd.",
-        "percentage": null,
-        "weight_pct": 9.02,
+        "weight_pct": 9.32,
         "sector": null
       },
       {
         "name": "Indian Bank",
         "percentage": null,
-        "weight_pct": 7.07,
+        "weight_pct": 7.59,
         "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 6.64,
+        "weight_pct": 6.93,
+        "sector": null
+      },
+      {
+        "name": "Bharat Electronics Ltd.",
+        "percentage": null,
+        "weight_pct": 6.82,
         "sector": null
       },
       {
         "name": "Hindustan Aeronautics Ltd.",
         "percentage": null,
-        "weight_pct": 5.81,
+        "weight_pct": 6.76,
         "sector": null
       },
       {
         "name": "NTPC Green Energy Ltd.",
         "percentage": null,
-        "weight_pct": 5.27,
-        "sector": null
-      },
-      {
-        "name": "Dredging Corporation Of India Ltd.",
-        "percentage": null,
-        "weight_pct": 4.88,
-        "sector": null
-      },
-      {
-        "name": "Bharat Dynamics Ltd.",
-        "percentage": null,
-        "weight_pct": 4.6,
+        "weight_pct": 5.45,
         "sector": null
       },
       {
         "name": "Bank Of Baroda",
         "percentage": null,
-        "weight_pct": 4.5,
+        "weight_pct": 5.28,
         "sector": null
       },
       {
         "name": "NTPC Ltd.",
         "percentage": null,
-        "weight_pct": 4.3,
+        "weight_pct": 4.55,
+        "sector": null
+      },
+      {
+        "name": "Dredging Corporation Of India Ltd.",
+        "percentage": null,
+        "weight_pct": 4.07,
+        "sector": null
+      },
+      {
+        "name": "REC Ltd.",
+        "percentage": null,
+        "weight_pct": 3.94,
         "sector": null
       }
     ],
@@ -152,5 +152,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-14T05:17:41.137330Z"
+  "last_scraped_at": "2026-03-15T05:55:51.809134Z"
 }

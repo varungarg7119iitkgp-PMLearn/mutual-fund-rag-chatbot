@@ -45,61 +45,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 11.30693092,
+        "weight_pct": 8.3941912,
         "sector": null
       },
       {
         "name": "NTPC Ltd.",
         "percentage": null,
-        "weight_pct": 9.27201724,
+        "weight_pct": 7.48199287,
         "sector": null
       },
       {
         "name": "Power Grid Corporation Of India Ltd.",
         "percentage": null,
-        "weight_pct": 6.76011609,
-        "sector": null
-      },
-      {
-        "name": "Oil And Natural Gas Corporation Ltd.",
-        "percentage": null,
-        "weight_pct": 5.30377444,
-        "sector": null
-      },
-      {
-        "name": "Bank Of Baroda",
-        "percentage": null,
-        "weight_pct": 4.14542457,
-        "sector": null
-      },
-      {
-        "name": "Hindustan Aeronautics Ltd.",
-        "percentage": null,
-        "weight_pct": 4.07935432,
-        "sector": null
-      },
-      {
-        "name": "Indian Oil Corporation Ltd.",
-        "percentage": null,
-        "weight_pct": 3.93433969,
+        "weight_pct": 5.66590545,
         "sector": null
       },
       {
         "name": "Life Insurance Corporation of India",
         "percentage": null,
-        "weight_pct": 3.78057253,
+        "weight_pct": 4.46977777,
+        "sector": null
+      },
+      {
+        "name": "Oil And Natural Gas Corporation Ltd.",
+        "percentage": null,
+        "weight_pct": 4.31489418,
+        "sector": null
+      },
+      {
+        "name": "Bank Of Baroda",
+        "percentage": null,
+        "weight_pct": 4.31137264,
         "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 3.57709155,
+        "weight_pct": 3.98043168,
         "sector": null
       },
       {
-        "name": "REC Ltd.",
+        "name": "Indian Oil Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 3.36166159,
+        "weight_pct": 3.78972924,
+        "sector": null
+      },
+      {
+        "name": "Hindustan Aeronautics Ltd.",
+        "percentage": null,
+        "weight_pct": 3.77237377,
+        "sector": null
+      },
+      {
+        "name": "Bharat Electronics Ltd.",
+        "percentage": null,
+        "weight_pct": 3.20547954,
         "sector": null
       }
     ],
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-14T05:17:46.819608Z"
+  "last_scraped_at": "2026-03-15T05:55:58.177049Z"
 }

@@ -46,19 +46,19 @@
       {
         "name": "HDFC Corporate Bond Fund Direct Plan-Growth",
         "percentage": null,
-        "weight_pct": 43.14,
+        "weight_pct": 44.12,
         "sector": null
       },
       {
         "name": "HDFC Arbitrage Fund Wholesale Direct-Growth",
         "percentage": null,
-        "weight_pct": 36.44,
+        "weight_pct": 35.34,
         "sector": null
       },
       {
         "name": "HDFC Money Market Fund Direct-Growth",
         "percentage": null,
-        "weight_pct": 18.71,
+        "weight_pct": 18.17,
         "sector": null
       }
     ],
@@ -119,5 +119,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-03-14T05:17:13.936470Z"
+  "last_scraped_at": "2026-03-15T05:55:22.982142Z"
 }

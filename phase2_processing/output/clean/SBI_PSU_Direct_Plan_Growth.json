@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 17.88,
+        "weight_pct": 18.22725233,
         "sector": null
       },
       {
         "name": "Bharat Electronics Ltd.",
         "percentage": null,
-        "weight_pct": 9.74,
-        "sector": null
-      },
-      {
-        "name": "NTPC Ltd.",
-        "percentage": null,
-        "weight_pct": 9.19,
+        "weight_pct": 9.32534177,
         "sector": null
       },
       {
         "name": "Power Grid Corporation Of India Ltd.",
         "percentage": null,
-        "weight_pct": 8.55,
+        "weight_pct": 9.09653622,
         "sector": null
       },
       {
         "name": "GAIL (India) Ltd.",
         "percentage": null,
-        "weight_pct": 8.15,
+        "weight_pct": 9.05271855,
+        "sector": null
+      },
+      {
+        "name": "NTPC Ltd.",
+        "percentage": null,
+        "weight_pct": 9.01100934,
         "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 5.91,
+        "weight_pct": 5.71174334,
         "sector": null
       },
       {
         "name": "Bank Of Baroda",
         "percentage": null,
-        "weight_pct": 5.51,
-        "sector": null
-      },
-      {
-        "name": "NMDC Ltd.",
-        "percentage": null,
-        "weight_pct": 3.79,
+        "weight_pct": 5.41086071,
         "sector": null
       },
       {
         "name": "Indian Bank",
         "percentage": null,
-        "weight_pct": 3.7,
+        "weight_pct": 3.67325854,
+        "sector": null
+      },
+      {
+        "name": "NMDC Ltd.",
+        "percentage": null,
+        "weight_pct": 3.48436848,
         "sector": null
       },
       {
         "name": "Oil India Ltd.",
         "percentage": null,
-        "weight_pct": 3.28,
+        "weight_pct": 2.8464371,
         "sector": null
       }
     ],
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-14T05:17:38.826838Z"
+  "last_scraped_at": "2026-03-15T05:55:49.325538Z"
 }

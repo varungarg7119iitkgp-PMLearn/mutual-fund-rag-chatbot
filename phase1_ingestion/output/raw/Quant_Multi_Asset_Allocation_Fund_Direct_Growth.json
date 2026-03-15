@@ -46,61 +46,61 @@
       {
         "name": "Nippon India ETF Gold BeES",
         "percentage": null,
-        "weight_pct": 9.507784,
+        "weight_pct": 10.24104044,
         "sector": null
       },
       {
         "name": "HDFC Bank Ltd.",
         "percentage": null,
-        "weight_pct": 9.305626,
+        "weight_pct": 9.16447584,
         "sector": null
       },
       {
         "name": "ICICI Bank Ltd.",
         "percentage": null,
-        "weight_pct": 9.26423,
+        "weight_pct": 7.85677945,
         "sector": null
       },
       {
         "name": "Kotak Mahindra Bank Ltd.",
         "percentage": null,
-        "weight_pct": 7.354324,
-        "sector": null
-      },
-      {
-        "name": "Nifty Bank",
-        "percentage": null,
-        "weight_pct": 5.889861,
+        "weight_pct": 7.23708041,
         "sector": null
       },
       {
         "name": "HDFC Life Insurance Co Ltd.",
         "percentage": null,
-        "weight_pct": 5.029332,
+        "weight_pct": 6.56270293,
         "sector": null
       },
       {
         "name": "Bajaj Finance Ltd.",
         "percentage": null,
-        "weight_pct": 4.362969,
+        "weight_pct": 4.51864841,
         "sector": null
       },
       {
         "name": "Wipro Ltd.",
         "percentage": null,
-        "weight_pct": 4.315831,
+        "weight_pct": 3.54023863,
         "sector": null
       },
       {
         "name": "Premier Energies Ltd.",
         "percentage": null,
-        "weight_pct": 3.362745,
+        "weight_pct": 3.30188988,
         "sector": null
       },
       {
         "name": "Aurobindo Pharma Ltd.",
         "percentage": null,
-        "weight_pct": 2.966447,
+        "weight_pct": 2.89869989,
+        "sector": null
+      },
+      {
+        "name": "Adani Green Energy Ltd.",
+        "percentage": null,
+        "weight_pct": 2.39810823,
         "sector": null
       }
     ],
@@ -175,5 +175,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-14T05:17:26.854541Z"
+  "last_scraped_at": "2026-03-15T05:55:37.105696Z"
 }

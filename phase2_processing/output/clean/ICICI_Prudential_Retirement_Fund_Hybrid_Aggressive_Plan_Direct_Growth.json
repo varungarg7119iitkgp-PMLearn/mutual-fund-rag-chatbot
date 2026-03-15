@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Multi Commodity Exchange Of India Ltd.",
+        "name": "Vedanta Ltd.",
         "percentage": null,
-        "weight_pct": 3.37595463,
-        "sector": null
-      },
-      {
-        "name": "Mphasis Ltd.",
-        "percentage": null,
-        "weight_pct": 2.84704321,
+        "weight_pct": 2.67240092,
         "sector": null
       },
       {
         "name": "Tata Motors Ltd.",
         "percentage": null,
-        "weight_pct": 2.78834336,
+        "weight_pct": 2.57439273,
         "sector": null
       },
       {
-        "name": "Vedanta Ltd.",
+        "name": "Multi Commodity Exchange Of India Ltd.",
         "percentage": null,
-        "weight_pct": 2.75373442,
-        "sector": null
-      },
-      {
-        "name": "Vedanta Ltd.",
-        "percentage": null,
-        "weight_pct": 2.4873443,
+        "weight_pct": 2.27603581,
         "sector": null
       },
       {
         "name": "Tech Mahindra Ltd.",
         "percentage": null,
-        "weight_pct": 2.13994693,
-        "sector": null
-      },
-      {
-        "name": "UPL Ltd.",
-        "percentage": null,
-        "weight_pct": 2.08765852,
+        "weight_pct": 2.06903826,
         "sector": null
       },
       {
         "name": "Titan Company Ltd.",
         "percentage": null,
-        "weight_pct": 1.94537221,
+        "weight_pct": 2.04612106,
+        "sector": null
+      },
+      {
+        "name": "Mphasis Ltd.",
+        "percentage": null,
+        "weight_pct": 1.97380631,
         "sector": null
       },
       {
         "name": "Ultratech Cement Ltd.",
         "percentage": null,
-        "weight_pct": 1.83067977,
+        "weight_pct": 1.96348826,
         "sector": null
       },
       {
-        "name": "Interglobe Aviation Ltd.",
+        "name": "Mahindra & Mahindra Ltd.",
         "percentage": null,
-        "weight_pct": 1.79288797,
+        "weight_pct": 1.96125136,
+        "sector": null
+      },
+      {
+        "name": "HDFC Bank Ltd.",
+        "percentage": null,
+        "weight_pct": 1.94628267,
+        "sector": null
+      },
+      {
+        "name": "Larsen & Toubro Ltd.",
+        "percentage": null,
+        "weight_pct": 1.87831795,
         "sector": null
       }
     ],
@@ -192,5 +192,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-03-14T05:17:29.198498Z"
+  "last_scraped_at": "2026-03-15T05:55:39.577638Z"
 }
