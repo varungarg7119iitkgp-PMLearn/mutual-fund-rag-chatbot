@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 36.8818,
-    "date": "2026-03-24",
+    "value": 37.3568,
+    "date": "2026-03-25",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.3,
-    "three_year": 32.79,
-    "five_year": 27.34,
+    "one_year": 14.05,
+    "three_year": 33.32,
+    "five_year": 28.14,
     "since_inception": 3.93,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 47
   },
   "operations": {
-    "expense_ratio": 0.85,
+    "expense_ratio": 0.84,
     "exit_load": "Exit load of 0.50% if redeemed within 30 days.",
     "min_investment": {
       "sip": 500,
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-25T04:00:09.641590Z"
+  "last_scraped_at": "2026-03-26T04:13:15.350837Z"
 }

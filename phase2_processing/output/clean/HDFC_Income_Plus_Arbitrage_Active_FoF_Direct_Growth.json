@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 44.3926,
-    "date": "2026-03-24",
+    "value": 44.4017,
+    "date": "2026-03-25",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 6.2,
+    "one_year": 6.18,
     "three_year": 13.22,
-    "five_year": 12.78,
+    "five_year": 12.93,
     "since_inception": 10.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -119,5 +119,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-03-25T03:59:45.710300Z"
+  "last_scraped_at": "2026-03-26T04:12:37.097986Z"
 }
