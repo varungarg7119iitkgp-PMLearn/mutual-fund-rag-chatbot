@@ -14,8 +14,8 @@
     ]
   },
   "nav": {
-    "value": 35.0431,
-    "date": "2026-03-30",
+    "value": 35.0429,
+    "date": "2026-03-31",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -23,7 +23,7 @@
   },
   "returns": {
     "one_year": 118.68,
-    "three_year": 44.44,
+    "three_year": 44.39,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -69,7 +69,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+    "taxation": null
   },
   "fund_manager": {
     "name": "Priya Sridhar",
@@ -102,5 +102,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-03-31T04:15:48.243641Z"
+  "last_scraped_at": "2026-04-01T04:28:47.995001Z"
 }

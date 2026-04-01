@@ -15,8 +15,8 @@
     ]
   },
   "nav": {
-    "value": 25.6412,
-    "date": "30-Mar-2026",
+    "value": 25.641,
+    "date": "31-Mar-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -24,7 +24,7 @@
   },
   "returns": {
     "one_year": 11.3,
-    "three_year": 29.83,
+    "three_year": 29.8,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -124,7 +124,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
+    "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
   },
   "fund_manager": {
     "name": "Swapnil P Mayekar",
@@ -191,5 +191,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-31T04:16:16.333754Z"
+  "last_scraped_at": "2026-04-01T04:29:16.713722Z"
 }

@@ -16,7 +16,7 @@
   },
   "nav": {
     "value": 36.33,
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -24,8 +24,8 @@
   },
   "returns": {
     "one_year": 7.96,
-    "three_year": 27.59,
-    "five_year": 25.96,
+    "three_year": 27.56,
+    "five_year": 25.94,
     "since_inception": 16.04,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 11
   },
   "operations": {
-    "expense_ratio": 0.61,
+    "expense_ratio": 0.62,
     "exit_load": "Exit load of 1% if redeemed within 30 days.",
     "min_investment": {
       "sip": 100,
@@ -124,7 +124,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
+    "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
   },
   "fund_manager": {
     "name": "Dhaval Gala",
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-31T04:16:23.577192Z"
+  "last_scraped_at": "2026-04-01T04:29:24.025094Z"
 }

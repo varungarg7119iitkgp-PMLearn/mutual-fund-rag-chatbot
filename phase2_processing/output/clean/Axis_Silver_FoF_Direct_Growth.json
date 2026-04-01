@@ -15,8 +15,8 @@
     ]
   },
   "nav": {
-    "value": 38.5458,
-    "date": "2026-03-30",
+    "value": 38.5457,
+    "date": "2026-03-31",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -24,7 +24,7 @@
   },
   "returns": {
     "one_year": 117.64,
-    "three_year": 44.88,
+    "three_year": 44.83,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -70,7 +70,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+    "taxation": null
   },
   "fund_manager": {
     "name": "Aditya Pagaria",
@@ -113,5 +113,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/axis-silver-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-03-31T04:15:40.241675Z"
+  "last_scraped_at": "2026-04-01T04:28:40.072173Z"
 }

@@ -15,8 +15,8 @@
     ]
   },
   "nav": {
-    "value": 164.3007,
-    "date": "30-Mar-2026",
+    "value": 164.3036,
+    "date": "31-Mar-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -24,8 +24,8 @@
   },
   "returns": {
     "one_year": 17.53,
-    "three_year": 23.04,
-    "five_year": 24.83,
+    "three_year": 23.02,
+    "five_year": 24.81,
     "since_inception": 9.86,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -124,7 +124,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+    "taxation": null
   },
   "fund_manager": {
     "name": "Sanjeev Sharma",
@@ -175,5 +175,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-03-31T04:16:06.464812Z"
+  "last_scraped_at": "2026-04-01T04:29:06.578324Z"
 }
