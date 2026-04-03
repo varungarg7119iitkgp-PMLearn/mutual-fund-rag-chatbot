@@ -1,11 +1,11 @@
 {
   "identity": {
-    "fund_id": null,
-    "name": "SBI Magnum Children's Benefit Fund Investment Plan Direct Growth",
+    "fund_id": "INF200KA1R07",
+    "name": "SBI Children's Fund Investment Plan Direct Growth",
     "category": "Hybrid",
-    "amc_name": null,
-    "benchmark_name": null,
-    "plan_label": null,
+    "amc_name": "SBI Mutual Fund",
+    "benchmark_name": "CRISIL Hybrid 35+65 Aggressive Index",
+    "plan_label": "Growth",
     "keywords": [
       "SBI Children Benefit",
       "SBI Childrens fund",
@@ -15,58 +15,142 @@
     ]
   },
   "nav": {
-    "value": null,
-    "date": null,
+    "value": 44.1334,
+    "date": "01-Apr-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": null,
-    "three_year": null,
-    "five_year": null,
-    "since_inception": null,
+    "one_year": 8.29,
+    "three_year": 21.53,
+    "five_year": 24.69,
+    "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
     "benchmark_five_year": null,
-    "category_avg_one_year": null,
-    "category_avg_three_year": null,
-    "category_avg_five_year": null
+    "category_avg_one_year": 4.718690601669351,
+    "category_avg_three_year": 14.31110204180801,
+    "category_avg_five_year": 13.941004134645727
   },
   "risk": {
-    "riskometer": null,
-    "standard_deviation": null,
-    "sharpe_ratio": null,
-    "beta": null,
-    "alpha": null
+    "riskometer": "Very High",
+    "standard_deviation": 14.13987686716223,
+    "sharpe_ratio": 0.9778796531,
+    "beta": 0,
+    "alpha": 0
   },
   "portfolio": {
-    "top_holdings": [],
-    "asset_allocation": null,
+    "top_holdings": [
+      {
+        "name": "Alphabet Inc Class A",
+        "percentage": null,
+        "weight_pct": 6.89,
+        "sector": null
+      },
+      {
+        "name": "Thangamayil Jewellery Ltd.",
+        "percentage": null,
+        "weight_pct": 5.49,
+        "sector": null
+      },
+      {
+        "name": "State Bank of India",
+        "percentage": null,
+        "weight_pct": 4.71,
+        "sector": null
+      },
+      {
+        "name": "Muthoot Finance Ltd.",
+        "percentage": null,
+        "weight_pct": 4.38,
+        "sector": null
+      },
+      {
+        "name": "Hatsun Agro Product Ltd.",
+        "percentage": null,
+        "weight_pct": 4.15,
+        "sector": null
+      },
+      {
+        "name": "Privi Speciality Chemicals Ltd.",
+        "percentage": null,
+        "weight_pct": 3.47,
+        "sector": null
+      },
+      {
+        "name": "Aether Industries Ltd.",
+        "percentage": null,
+        "weight_pct": 3.4,
+        "sector": null
+      },
+      {
+        "name": "Sona BLW Precision Forgings Ltd.",
+        "percentage": null,
+        "weight_pct": 3.29,
+        "sector": null
+      },
+      {
+        "name": "ReNew Energy Global plc Class A (RNW)",
+        "percentage": null,
+        "weight_pct": 3.09,
+        "sector": null
+      },
+      {
+        "name": "Adani Power Ltd.",
+        "percentage": null,
+        "weight_pct": 2.96,
+        "sector": null
+      }
+    ],
+    "asset_allocation": {
+      "equity": null,
+      "debt": null,
+      "cash": null,
+      "others": null
+    },
     "total_stocks": null,
     "total_bonds": null,
-    "sector_allocation": null,
-    "turnover_ratio": null
+    "sector_allocation": {},
+    "turnover_ratio": 162
   },
   "operations": {
-    "expense_ratio": null,
-    "exit_load": null,
-    "min_investment": null,
+    "expense_ratio": 0.84,
+    "exit_load": "With respect to units not subject to lock-in period and the holding period is less than\r\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year.",
+    "min_investment": {
+      "sip": 500,
+      "lumpsum": 5000
+    },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": null
+    "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
   },
   "fund_manager": {
-    "name": null,
+    "name": "Rama Iyer Srinivasan",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": null,
-    "other_funds_managed": []
+    "experience_summary": "Prior to joining SBI Mutual Fund he has worked with Principal AMC, Oppenheimer & Co, Indosuez WI Carr and Motilal Oswal.",
+    "other_funds_managed": [
+      "SBI Children's Fund Investment Plan Direct Growth",
+      "SBI Small Cap Fund Direct Growth",
+      "SBI Multicap Fund Direct Growth",
+      "SBI Focused Fund Direct Plan Growth",
+      "SBI Equity Hybrid Fund Direct Plan Growth",
+      "SBI Children's Fund Savings Plan Direct Growth"
+    ]
   },
-  "news_context": [],
+  "news_context": [
+    {
+      "headline": "Latest mutual fund & market news",
+      "date": null,
+      "publisher": "Groww News",
+      "summary": "Generic news stream from Groww; not specific to this single fund.",
+      "url": "https://groww.in/blog/category/news"
+    }
+  ],
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-04-02T04:07:54.918151Z"
+  "last_scraped_at": "2026-04-03T04:08:53.694461Z"
 }
