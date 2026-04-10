@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 38.4882,
-    "date": "2026-04-08",
+    "value": 38.5754,
+    "date": "2026-04-09",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 20.66,
-    "three_year": 33.14,
-    "five_year": 27.96,
+    "one_year": 22.32,
+    "three_year": 33.2,
+    "five_year": 28.18,
     "since_inception": 3.93,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 18.22725233,
-        "sector": null
-      },
-      {
-        "name": "Bharat Electronics Ltd.",
-        "percentage": null,
-        "weight_pct": 9.32534177,
+        "weight_pct": 16.5,
         "sector": null
       },
       {
         "name": "Power Grid Corporation Of India Ltd.",
         "percentage": null,
-        "weight_pct": 9.09653622,
-        "sector": null
-      },
-      {
-        "name": "GAIL (India) Ltd.",
-        "percentage": null,
-        "weight_pct": 9.05271855,
+        "weight_pct": 10.02,
         "sector": null
       },
       {
         "name": "NTPC Ltd.",
         "percentage": null,
-        "weight_pct": 9.01100934,
+        "weight_pct": 9.72,
         "sector": null
       },
       {
-        "name": "Bharat Petroleum Corporation Ltd.",
+        "name": "Bharat Electronics Ltd.",
         "percentage": null,
-        "weight_pct": 5.71174334,
+        "weight_pct": 9.1,
+        "sector": null
+      },
+      {
+        "name": "GAIL (India) Ltd.",
+        "percentage": null,
+        "weight_pct": 8.92,
+        "sector": null
+      },
+      {
+        "name": "Oil And Natural Gas Corporation Ltd.",
+        "percentage": null,
+        "weight_pct": 6.55,
         "sector": null
       },
       {
         "name": "Bank Of Baroda",
         "percentage": null,
-        "weight_pct": 5.41086071,
+        "weight_pct": 5.51,
         "sector": null
       },
       {
-        "name": "Indian Bank",
+        "name": "Bharat Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 3.67325854,
+        "weight_pct": 4.63,
         "sector": null
       },
       {
         "name": "NMDC Ltd.",
         "percentage": null,
-        "weight_pct": 3.48436848,
+        "weight_pct": 3.61,
         "sector": null
       },
       {
-        "name": "Oil India Ltd.",
+        "name": "Indian Bank",
         "percentage": null,
-        "weight_pct": 2.8464371,
+        "weight_pct": 3.48,
         "sector": null
       }
     ],
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-09T04:11:04.539424Z"
+  "last_scraped_at": "2026-04-10T04:30:25.058249Z"
 }

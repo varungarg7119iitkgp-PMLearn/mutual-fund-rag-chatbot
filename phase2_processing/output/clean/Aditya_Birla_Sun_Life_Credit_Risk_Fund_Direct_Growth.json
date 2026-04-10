@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 27.0772,
-    "date": "2026-04-08",
+    "value": 27.1016,
+    "date": "2026-04-09",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 13.42,
-    "three_year": 12.9,
-    "five_year": 10.76,
+    "one_year": 13.48,
+    "three_year": 12.92,
+    "five_year": 10.77,
     "since_inception": 8.39,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -45,61 +45,61 @@
       {
         "name": "GMR Airports Ltd.",
         "percentage": null,
-        "weight_pct": 4.58158034,
-        "sector": null
-      },
-      {
-        "name": "GOI",
-        "percentage": null,
-        "weight_pct": 4.28855823,
+        "weight_pct": 4.56766901,
         "sector": null
       },
       {
         "name": "Aditya Birla Real Estate Ltd.",
         "percentage": null,
-        "weight_pct": 3.82536593,
+        "weight_pct": 3.81654414,
         "sector": null
       },
       {
         "name": "Jubilant Bevco Ltd.",
         "percentage": null,
-        "weight_pct": 3.69741117,
-        "sector": null
-      },
-      {
-        "name": "National Bank For Agriculture & Rural Development",
-        "percentage": null,
-        "weight_pct": 3.43344334,
+        "weight_pct": 3.68274263,
         "sector": null
       },
       {
         "name": "GOI",
         "percentage": null,
-        "weight_pct": 3.05914632,
+        "weight_pct": 3.36403155,
         "sector": null
       },
       {
         "name": "IKF Finance Ltd.",
         "percentage": null,
-        "weight_pct": 2.96999579,
-        "sector": null
-      },
-      {
-        "name": "National Bank For Agriculture & Rural Development",
-        "percentage": null,
-        "weight_pct": 2.94876309,
+        "weight_pct": 2.95420267,
         "sector": null
       },
       {
         "name": "Hinduja Leyland Finance Ltd.",
         "percentage": null,
-        "weight_pct": 2.93548149,
+        "weight_pct": 2.9134155,
+        "sector": null
+      },
+      {
+        "name": "National Bank For Agriculture & Rural Development",
+        "percentage": null,
+        "weight_pct": 2.90863274,
         "sector": null
       },
       {
         "name": "Kogta Financial India Ltd.",
         "percentage": null,
-        "weight_pct": 2.74409069,
+        "weight_pct": 2.71875366,
+        "sector": null
+      },
+      {
+        "name": "Gaursons India Pvt. Ltd.",
+        "percentage": null,
+        "weight_pct": 2.68706563,
+        "sector": null
+      },
+      {
+        "name": "Vedanta Ltd.",
+        "percentage": null,
+        "weight_pct": 2.55114095,
         "sector": null
       }
     ],
@@ -151,5 +151,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-09T04:10:43.096384Z"
+  "last_scraped_at": "2026-04-10T04:30:03.427572Z"
 }

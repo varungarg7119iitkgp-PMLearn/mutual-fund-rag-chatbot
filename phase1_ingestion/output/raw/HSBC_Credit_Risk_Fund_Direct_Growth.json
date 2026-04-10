@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 36.6105,
-    "date": "08-Apr-2026",
+    "value": 36.6273,
+    "date": "09-Apr-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 18.25,
-    "three_year": 11.74,
-    "five_year": 9.34,
+    "one_year": 18.19,
+    "three_year": 11.75,
+    "five_year": 9.33,
     "since_inception": null,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Power Grid Corporation Of India Ltd.",
+        "name": "Aditya Birla Renewables Ltd.",
         "percentage": null,
-        "weight_pct": 5.43,
+        "weight_pct": 5.5,
         "sector": null
       },
       {
-        "name": "Aditya Birla Renewables Ltd.",
+        "name": "Power Grid Corporation Of India Ltd.",
         "percentage": null,
-        "weight_pct": 5.42,
+        "weight_pct": 5.49,
+        "sector": null
+      },
+      {
+        "name": "National Bank For Agriculture & Rural Development",
+        "percentage": null,
+        "weight_pct": 5.47,
         "sector": null
       },
       {
         "name": "JTPM Metal Traders Ltd.",
         "percentage": null,
-        "weight_pct": 5.41,
-        "sector": null
-      },
-      {
-        "name": "REC Ltd.",
-        "percentage": null,
-        "weight_pct": 5.23,
+        "weight_pct": 5.46,
         "sector": null
       },
       {
         "name": "Nirma Ltd.",
         "percentage": null,
-        "weight_pct": 5.23,
+        "weight_pct": 5.31,
         "sector": null
       },
       {
-        "name": "Axis Bank Ltd.",
+        "name": "REC Ltd.",
         "percentage": null,
-        "weight_pct": 5.08,
+        "weight_pct": 5.3,
         "sector": null
       },
       {
         "name": "Bank Of Baroda",
         "percentage": null,
-        "weight_pct": 5,
+        "weight_pct": 5.09,
+        "sector": null
+      },
+      {
+        "name": "JSW Kalinga Steel Ltd.",
+        "percentage": null,
+        "weight_pct": 4.22,
         "sector": null
       },
       {
         "name": "GOI",
         "percentage": null,
-        "weight_pct": 4.21,
-        "sector": null
-      },
-      {
-        "name": "GOI",
-        "percentage": null,
-        "weight_pct": 4.15,
+        "weight_pct": 4.14,
         "sector": null
       },
       {
         "name": "Piramal Finance Ltd.",
         "percentage": null,
-        "weight_pct": 3.6,
+        "weight_pct": 3.66,
         "sector": null
       }
     ],
@@ -146,5 +146,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-09T04:10:45.279774Z"
+  "last_scraped_at": "2026-04-10T04:30:05.787875Z"
 }

@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 44.6061,
-    "date": "07-Apr-2026",
+    "value": 45.7546,
+    "date": "09-Apr-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 12.3,
-    "three_year": 21.54,
-    "five_year": 24.72,
+    "one_year": 13.13,
+    "three_year": 22.64,
+    "five_year": 25.26,
     "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "Alphabet Inc Class A",
         "percentage": null,
-        "weight_pct": 6.89,
-        "sector": null
-      },
-      {
-        "name": "Thangamayil Jewellery Ltd.",
-        "percentage": null,
-        "weight_pct": 5.49,
+        "weight_pct": 6.86,
         "sector": null
       },
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 4.71,
+        "weight_pct": 6.84,
         "sector": null
       },
       {
-        "name": "Muthoot Finance Ltd.",
+        "name": "Thangamayil Jewellery Ltd.",
         "percentage": null,
-        "weight_pct": 4.38,
+        "weight_pct": 4.93,
         "sector": null
       },
       {
         "name": "Hatsun Agro Product Ltd.",
         "percentage": null,
-        "weight_pct": 4.15,
+        "weight_pct": 4.48,
         "sector": null
       },
       {
-        "name": "Privi Speciality Chemicals Ltd.",
+        "name": "Muthoot Finance Ltd.",
         "percentage": null,
-        "weight_pct": 3.47,
+        "weight_pct": 4.29,
         "sector": null
       },
       {
         "name": "Aether Industries Ltd.",
         "percentage": null,
-        "weight_pct": 3.4,
+        "weight_pct": 4.03,
         "sector": null
       },
       {
-        "name": "Sona BLW Precision Forgings Ltd.",
+        "name": "Privi Speciality Chemicals Ltd.",
         "percentage": null,
-        "weight_pct": 3.29,
-        "sector": null
-      },
-      {
-        "name": "ReNew Energy Global plc Class A (RNW)",
-        "percentage": null,
-        "weight_pct": 3.09,
+        "weight_pct": 3.43,
         "sector": null
       },
       {
         "name": "Adani Power Ltd.",
         "percentage": null,
-        "weight_pct": 2.96,
+        "weight_pct": 3.29,
+        "sector": null
+      },
+      {
+        "name": "Ather Energy Ltd.",
+        "percentage": null,
+        "weight_pct": 3.19,
+        "sector": null
+      },
+      {
+        "name": "Sona BLW Precision Forgings Ltd.",
+        "percentage": null,
+        "weight_pct": 3.08,
         "sector": null
       }
     ],
@@ -152,5 +152,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-04-09T04:10:50.683365Z"
+  "last_scraped_at": "2026-04-10T04:30:11.471754Z"
 }
