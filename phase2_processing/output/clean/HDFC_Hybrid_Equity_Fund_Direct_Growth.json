@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "HDFC Bank Ltd.",
-        "percentage": null,
-        "weight_pct": 7.04,
-        "sector": null
-      },
-      {
         "name": "ICICI Bank Ltd.",
         "percentage": null,
-        "weight_pct": 6.78,
+        "weight_pct": 6.63,
         "sector": null
       },
       {
-        "name": "State Bank of India",
+        "name": "HDFC Bank Ltd.",
         "percentage": null,
-        "weight_pct": 4.64,
+        "weight_pct": 6.49,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd.",
         "percentage": null,
-        "weight_pct": 4.21,
+        "weight_pct": 4.55,
         "sector": null
       },
       {
-        "name": "Axis Bank Ltd.",
+        "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 2.92,
-        "sector": null
-      },
-      {
-        "name": "Larsen & Toubro Ltd.",
-        "percentage": null,
-        "weight_pct": 2.87,
+        "weight_pct": 3.86,
         "sector": null
       },
       {
         "name": "Infosys Ltd.",
         "percentage": null,
-        "weight_pct": 2.77,
+        "weight_pct": 2.98,
+        "sector": null
+      },
+      {
+        "name": "Axis Bank Ltd.",
+        "percentage": null,
+        "weight_pct": 2.81,
         "sector": null
       },
       {
         "name": "Kotak Mahindra Bank Ltd.",
         "percentage": null,
-        "weight_pct": 2.62,
+        "weight_pct": 2.66,
+        "sector": null
+      },
+      {
+        "name": "Larsen & Toubro Ltd.",
+        "percentage": null,
+        "weight_pct": 2.63,
         "sector": null
       },
       {
         "name": "GOI",
         "percentage": null,
-        "weight_pct": 2.45,
+        "weight_pct": 2.63,
         "sector": null
       },
       {
         "name": "ITC Ltd.",
         "percentage": null,
-        "weight_pct": 2.17,
+        "weight_pct": 2.16,
         "sector": null
       }
     ],
@@ -167,5 +167,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-14T04:26:04.763426Z"
+  "last_scraped_at": "2026-04-15T04:25:35.527288Z"
 }

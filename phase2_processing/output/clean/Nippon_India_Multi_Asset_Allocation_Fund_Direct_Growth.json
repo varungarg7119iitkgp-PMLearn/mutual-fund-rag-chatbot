@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 25.829,
-    "date": "2026-04-10",
+    "value": 25.784,
+    "date": "2026-04-13",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 25.11,
-    "three_year": 21.75,
-    "five_year": 17.21,
+    "one_year": 22.74,
+    "three_year": 21.35,
+    "five_year": 17.43,
     "since_inception": 31.9,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -45,61 +45,61 @@
       {
         "name": "Nippon India ETF Gold BeES",
         "percentage": null,
-        "weight_pct": 9.52579071,
+        "weight_pct": 8.97236816,
         "sector": null
       },
       {
         "name": "iShares MSCI World ETF",
         "percentage": null,
-        "weight_pct": 5.31881089,
+        "weight_pct": 5.34045926,
         "sector": null
       },
       {
         "name": "ICICI Bank Ltd.",
         "percentage": null,
-        "weight_pct": 4.30380265,
+        "weight_pct": 3.84969229,
         "sector": null
       },
       {
         "name": "Nippon India Silver ETF - Growth",
         "percentage": null,
-        "weight_pct": 3.93194114,
-        "sector": null
-      },
-      {
-        "name": "HDFC Bank Ltd.",
-        "percentage": null,
-        "weight_pct": 3.01441953,
+        "weight_pct": 3.55432277,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd.",
         "percentage": null,
-        "weight_pct": 2.65856009,
+        "weight_pct": 2.62166342,
+        "sector": null
+      },
+      {
+        "name": "HDFC Bank Ltd.",
+        "percentage": null,
+        "weight_pct": 2.54069259,
         "sector": null
       },
       {
         "name": "Infosys Ltd.",
         "percentage": null,
-        "weight_pct": 2.36455541,
+        "weight_pct": 2.32641034,
+        "sector": null
+      },
+      {
+        "name": "Nippon India Liquid Fund Direct-Growth",
+        "percentage": null,
+        "weight_pct": 2.28495679,
         "sector": null
       },
       {
         "name": "NTPC Ltd.",
         "percentage": null,
-        "weight_pct": 1.77333731,
+        "weight_pct": 1.76035741,
         "sector": null
       },
       {
-        "name": "Axis Bank Ltd.",
+        "name": "Eternal Ltd.",
         "percentage": null,
-        "weight_pct": 1.729185,
-        "sector": null
-      },
-      {
-        "name": "State Bank of India",
-        "percentage": null,
-        "weight_pct": 1.68324079,
+        "weight_pct": 1.7392455,
         "sector": null
       }
     ],
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-14T04:26:02.398338Z"
+  "last_scraped_at": "2026-04-15T04:25:33.417678Z"
 }

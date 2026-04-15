@@ -46,61 +46,61 @@
       {
         "name": "Nippon India ETF Gold BeES",
         "percentage": null,
-        "weight_pct": 10.24104044,
+        "weight_pct": 9.770773,
         "sector": null
       },
       {
         "name": "HDFC Bank Ltd.",
         "percentage": null,
-        "weight_pct": 9.16447584,
+        "weight_pct": 8.539186,
         "sector": null
       },
       {
         "name": "ICICI Bank Ltd.",
         "percentage": null,
-        "weight_pct": 7.85677945,
+        "weight_pct": 7.118641,
         "sector": null
       },
       {
         "name": "Kotak Mahindra Bank Ltd.",
         "percentage": null,
-        "weight_pct": 7.23708041,
+        "weight_pct": 6.38185,
         "sector": null
       },
       {
         "name": "HDFC Life Insurance Co Ltd.",
         "percentage": null,
-        "weight_pct": 6.56270293,
-        "sector": null
-      },
-      {
-        "name": "Bajaj Finance Ltd.",
-        "percentage": null,
-        "weight_pct": 4.51864841,
-        "sector": null
-      },
-      {
-        "name": "Wipro Ltd.",
-        "percentage": null,
-        "weight_pct": 3.54023863,
-        "sector": null
-      },
-      {
-        "name": "Premier Energies Ltd.",
-        "percentage": null,
-        "weight_pct": 3.30188988,
+        "weight_pct": 5.613865,
         "sector": null
       },
       {
         "name": "Aurobindo Pharma Ltd.",
         "percentage": null,
-        "weight_pct": 2.89869989,
+        "weight_pct": 4.973908,
+        "sector": null
+      },
+      {
+        "name": "Premier Energies Ltd.",
+        "percentage": null,
+        "weight_pct": 4.482039,
+        "sector": null
+      },
+      {
+        "name": "Bajaj Finance Ltd.",
+        "percentage": null,
+        "weight_pct": 3.767882,
+        "sector": null
+      },
+      {
+        "name": "ICICI Prudential Asset Management Company Ltd.",
+        "percentage": null,
+        "weight_pct": 3.704458,
         "sector": null
       },
       {
         "name": "Adani Green Energy Ltd.",
         "percentage": null,
-        "weight_pct": 2.39810823,
+        "weight_pct": 2.6423,
         "sector": null
       }
     ],
@@ -175,5 +175,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-14T04:25:57.819910Z"
+  "last_scraped_at": "2026-04-15T04:25:29.022555Z"
 }

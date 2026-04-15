@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 20.1901393,
+        "weight_pct": 18.77399941,
         "sector": null
       },
       {
         "name": "NTPC Ltd.",
         "percentage": null,
-        "weight_pct": 8.27924447,
+        "weight_pct": 9.16766099,
         "sector": null
       },
       {
         "name": "Power Grid Corporation Of India Ltd.",
         "percentage": null,
-        "weight_pct": 6.05133565,
+        "weight_pct": 6.84511213,
         "sector": null
       },
       {
         "name": "Bharat Electronics Ltd.",
         "percentage": null,
-        "weight_pct": 5.21983547,
-        "sector": null
-      },
-      {
-        "name": "Oil And Natural Gas Corporation Ltd.",
-        "percentage": null,
-        "weight_pct": 4.87553019,
-        "sector": null
-      },
-      {
-        "name": "GAIL (India) Ltd.",
-        "percentage": null,
-        "weight_pct": 4.70411087,
-        "sector": null
-      },
-      {
-        "name": "Bank Of Baroda",
-        "percentage": null,
-        "weight_pct": 4.31308752,
+        "weight_pct": 5.36547687,
         "sector": null
       },
       {
         "name": "Bharat Heavy Electricals Ltd.",
         "percentage": null,
-        "weight_pct": 4.26499694,
+        "weight_pct": 4.50878752,
         "sector": null
       },
       {
-        "name": "Bharat Petroleum Corporation Ltd.",
+        "name": "GAIL (India) Ltd.",
         "percentage": null,
-        "weight_pct": 4.16538622,
+        "weight_pct": 4.35963333,
+        "sector": null
+      },
+      {
+        "name": "Oil And Natural Gas Corporation Ltd.",
+        "percentage": null,
+        "weight_pct": 4.20158527,
+        "sector": null
+      },
+      {
+        "name": "Bank of Maharashtra",
+        "percentage": null,
+        "weight_pct": 3.81657291,
+        "sector": null
+      },
+      {
+        "name": "Bank Of Baroda",
+        "percentage": null,
+        "weight_pct": 3.78446011,
         "sector": null
       },
       {
         "name": "Bank of India",
         "percentage": null,
-        "weight_pct": 4.10708743,
+        "weight_pct": 3.64619829,
         "sector": null
       }
     ],
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-14T04:26:16.058780Z"
+  "last_scraped_at": "2026-04-15T04:25:44.984489Z"
 }
