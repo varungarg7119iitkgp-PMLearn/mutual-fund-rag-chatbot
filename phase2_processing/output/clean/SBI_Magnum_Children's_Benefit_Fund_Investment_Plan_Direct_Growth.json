@@ -23,9 +23,9 @@
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 14.75,
-    "three_year": 23.42,
-    "five_year": 26.37,
+    "one_year": 15.05,
+    "three_year": 24.03,
+    "five_year": 26.71,
     "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -152,5 +152,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-04-16T04:31:35.641254Z"
+  "last_scraped_at": "2026-04-17T04:29:03.744130Z"
 }
