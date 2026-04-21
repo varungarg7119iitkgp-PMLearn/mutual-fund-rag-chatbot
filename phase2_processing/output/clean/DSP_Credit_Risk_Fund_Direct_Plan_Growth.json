@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 59.2089,
-    "date": "2026-04-17",
+    "value": 59.2374,
+    "date": "2026-04-20",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.69,
-    "three_year": 16.88,
-    "five_year": 13.09,
+    "one_year": 11.64,
+    "three_year": 16.85,
+    "five_year": 13.1,
     "since_inception": 7.05,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-04-20T04:39:39.024002Z"
+  "last_scraped_at": "2026-04-21T04:28:05.062867Z"
 }
