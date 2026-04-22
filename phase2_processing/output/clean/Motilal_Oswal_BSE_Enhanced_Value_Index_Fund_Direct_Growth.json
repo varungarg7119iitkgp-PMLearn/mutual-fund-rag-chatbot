@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 28.702,
-    "date": "2026-04-20",
+    "value": 28.8869,
+    "date": "2026-04-21",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 21.42,
-    "three_year": 33.09,
+    "one_year": 19.19,
+    "three_year": 33.58,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 50
   },
   "operations": {
-    "expense_ratio": 0.36,
+    "expense_ratio": 0.97,
     "exit_load": "Exit Load: 1%- If redeemed on or before 15 days from the date of allotment.",
     "min_investment": {
       "sip": 500,
@@ -191,5 +191,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-21T04:28:38.418419Z"
+  "last_scraped_at": "2026-04-22T04:26:50.618260Z"
 }

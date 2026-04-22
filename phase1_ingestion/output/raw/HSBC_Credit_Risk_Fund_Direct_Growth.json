@@ -14,8 +14,8 @@
     ]
   },
   "nav": {
-    "value": 36.7455,
-    "date": "20-Apr-2026",
+    "value": 36.752,
+    "date": "21-Apr-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -23,7 +23,7 @@
   },
   "returns": {
     "one_year": 17.98,
-    "three_year": 11.78,
+    "three_year": 11.77,
     "five_year": 9.4,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -115,7 +115,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.96,
+    "expense_ratio": 0.95,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year.",
     "min_investment": {
       "sip": 1000,
@@ -146,5 +146,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-21T04:28:15.449433Z"
+  "last_scraped_at": "2026-04-22T04:26:34.183003Z"
 }
