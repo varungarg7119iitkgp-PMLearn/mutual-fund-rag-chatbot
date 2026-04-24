@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 82.79,
-    "date": "22-Apr-2026",
+    "value": 82.29,
+    "date": "23-Apr-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 16.62,
-    "three_year": 32.53,
-    "five_year": 28.67,
+    "one_year": 15.85,
+    "three_year": 32.23,
+    "five_year": 28.22,
     "since_inception": 11.34,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -152,5 +152,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-23T04:30:39.494791Z"
+  "last_scraped_at": "2026-04-24T04:37:08.329038Z"
 }
