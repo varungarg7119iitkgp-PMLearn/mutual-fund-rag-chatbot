@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 27.1802,
-    "date": "2026-04-23",
+    "value": 27.1711,
+    "date": "2026-04-24",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 13.11,
-    "three_year": 12.91,
-    "five_year": 10.75,
+    "one_year": 13.03,
+    "three_year": 12.87,
+    "five_year": 10.74,
     "since_inception": 8.39,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -137,7 +137,6 @@
       "Aditya Birla Sun Life Arbitrage Fund Direct Growth",
       "Aditya Birla Sun Life Medium Term Plan Direct Growth",
       "Aditya Birla Sun Life Regular Savings Fund Direct Growth",
-      "Aditya Birla Sun Life Regular Savings Fund Direct Growth",
       "Aditya Birla Sun Life Short Term Direct Fund Direct Growth",
       "Aditya Birla Sun Life Low Duration Fund Direct Growth",
       "Apex Hybrid Long Short Fund Direct Growth",
@@ -163,5 +162,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-24T04:36:45.705815Z"
+  "last_scraped_at": "2026-04-25T04:16:37.520065Z"
 }
