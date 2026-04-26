@@ -116,7 +116,7 @@
     "turnover_ratio": 0
   },
   "operations": {
-    "expense_ratio": 2.85,
+    "expense_ratio": 0.6,
     "exit_load": "Exit load of 1%, if redeemed within 15 days.",
     "min_investment": {
       "sip": 1000,
@@ -175,5 +175,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-25T04:16:47.666618Z"
+  "last_scraped_at": "2026-04-26T04:41:37.076046Z"
 }
