@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 175.6631,
-    "date": "2026-04-27",
+    "value": 175.8904,
+    "date": "2026-04-28",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 23.65,
-    "three_year": 24.48,
-    "five_year": 22.93,
+    "one_year": 22.79,
+    "three_year": 24.15,
+    "five_year": 23.08,
     "since_inception": 9.86,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 0
   },
   "operations": {
-    "expense_ratio": 2.18,
+    "expense_ratio": 0.89,
     "exit_load": "Exit load of 1%, if redeemed within 15 days.",
     "min_investment": {
       "sip": 1000,
@@ -127,40 +127,36 @@
     "taxation": null
   },
   "fund_manager": {
-    "name": "Sanjeev Sharma",
+    "name": "Varun Pattani",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "He has total work experience of 17 years including 13 years of experience in the financial market. He specializes in identifying crucial inflexion points in securities.",
+    "experience_summary": "Prior to joining Quant Mutual Fund, he has worked with boutique PMS firm.",
     "other_funds_managed": [
-      "Quant Value Fund Direct Growth",
-      "Quant Consumption Fund Direct Growth",
-      "Quant Arbitrage Fund Direct Growth",
-      "Quant Equity Savings Fund Direct Growth",
-      "Quant Quantamental Fund Direct Growth",
-      "Quant Large Cap Fund Direct Growth",
-      "Quant Momentum Fund Direct Growth",
-      "Quant Teck Fund Direct Growth",
-      "Quant Mid Cap Fund Direct Growth",
-      "Quant ELSS Tax Saver Fund Direct Growth",
-      "Quant Flexi Cap Fund Direct Growth",
-      "Quant Dynamic Asset Allocation Fund Direct Growth",
-      "Quant Liquid Direct Fund Growth",
-      "Quant Infrastructure Fund Direct Growth",
-      "Quant BFSI Fund Direct Growth",
-      "Quant Focused Fund Direct Growth",
-      "Quant ESG Integration Strategy Fund Direct Growth",
-      "Quant PSU Fund Direct Growth",
-      "Quant Large and Mid Cap Fund Direct Growth",
-      "Quant Small Cap Fund Direct Plan Growth",
-      "Quant Commodities Fund Direct Growth",
+      "Quant Aggressive Hybrid Fund Direct Growth",
       "Quant Multi Asset Allocation Fund Direct Growth",
       "Quant Multi Cap Fund Direct Growth",
-      "Quant Aggressive Hybrid Fund Direct Growth",
+      "Quant Large and Mid Cap Fund Direct Growth",
+      "Quant Small Cap Fund Direct Plan Growth",
+      "Quant Infrastructure Fund Direct Growth",
+      "Quant Focused Fund Direct Growth",
+      "Quant Mid Cap Fund Direct Growth",
+      "Quant Flexi Cap Fund Direct Growth",
+      "Quant ELSS Tax Saver Fund Direct Growth",
+      "Quant ESG Integration Strategy Fund Direct Growth",
+      "Quant Quantamental Fund Direct Growth",
+      "Quant Value Fund Direct Growth",
+      "Quant Large Cap Fund Direct Growth",
+      "Quant Dynamic Asset Allocation Fund Direct Growth",
+      "Quant Business Cycle Fund Direct Growth",
+      "Quant BFSI Fund Direct Growth",
       "Quant Healthcare Fund Direct Growth",
-      "Quant Overnight Fund Direct Growth",
-      "Quant Gilt Fund Direct Growth",
       "Quant Manufacturing Fund Direct Growth",
-      "Quant Business Cycle Fund Direct Growth"
+      "Quant Teck Fund Direct Growth",
+      "Quant Momentum Fund Direct Growth",
+      "Quant Commodities Fund Direct Growth",
+      "Quant Consumption Fund Direct Growth",
+      "Quant PSU Fund Direct Growth",
+      "Quant Equity Savings Fund Direct Growth"
     ]
   },
   "news_context": [
@@ -175,5 +171,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-28T04:55:05.927016Z"
+  "last_scraped_at": "2026-04-29T04:49:49.766280Z"
 }
