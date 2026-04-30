@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 121.81,
-    "date": "2026-04-28",
+    "value": 122.041,
+    "date": "2026-04-29",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": -2.17,
-    "three_year": 9.22,
-    "five_year": 11.1,
+    "one_year": -2.01,
+    "three_year": 9.28,
+    "five_year": 11.12,
     "since_inception": 11.8,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -115,7 +115,7 @@
     "turnover_ratio": 2
   },
   "operations": {
-    "expense_ratio": 1.12,
+    "expense_ratio": 1.23,
     "exit_load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.",
     "min_investment": {
       "sip": 100,
@@ -167,5 +167,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-29T04:49:56.725489Z"
+  "last_scraped_at": "2026-04-30T04:53:36.059249Z"
 }
