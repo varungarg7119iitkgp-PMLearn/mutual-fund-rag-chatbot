@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 28.9199,
-    "date": "2026-04-29",
+    "value": 28.4635,
+    "date": "2026-04-30",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 19.91,
-    "three_year": 32.3,
+    "one_year": 19.5,
+    "three_year": 31.57,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 50
   },
   "operations": {
-    "expense_ratio": 0.53,
+    "expense_ratio": 0.56,
     "exit_load": "Exit Load: 1%- If redeemed on or before 15 days from the date of allotment.",
     "min_investment": {
       "sip": 500,
@@ -127,56 +127,33 @@
     "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
   },
   "fund_manager": {
-    "name": "Swapnil P Mayekar",
+    "name": "Dishant Mehta",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "Prior to joining Motilal Oswal AMC  he worked with Business Standard Limited from Aug 2005 to Feb 2010.",
+    "experience_summary": "Mr. Dishant Mehta has more than 11 years of experience and expertise in Financial markets across different segment -Equities, Derivatives, Commodities and Currencies",
     "other_funds_managed": [
-      "Motilal Oswal Flexi Cap Fund Direct Growth",
-      "Motilal Oswal Services Fund Direct Growth",
+      "Motilal Oswal Nasdaq 100 FOF Direct Growth",
+      "Motilal Oswal Nifty Bank Index Fund Direct Growth",
+      "Motilal Oswal Nifty Midcap 150 Index Fund Direct Growth",
+      "Motilal Oswal Nifty Smallcap 250 Index Fund Direct Growth",
+      "Motilal Oswal Nifty 500 Index Fund Direct Growth",
+      "Motilal Oswal Nifty Next 50 Index Fund Direct Growth",
       "Motilal Oswal Nifty 50 Index Fund Direct Growth",
-      "Motilal Oswal Large and Midcap Fund Direct Growth",
-      "Motilal Oswal Nifty MidSmall Healthcare Index Fund Direct Growth",
-      "Motilal Oswal Diversified Equity Flexicap Passive FoF Direct Growth",
+      "Motilal Oswal S&P 500 Index Fund Direct Growth",
+      "Motilal Oswal Nifty 200 Momentum 30 Index Fund Direct Growth",
+      "Motilal Oswal BSE Low Volatility Index Fund Direct Growth",
+      "Motilal Oswal BSE Financials ex Bank 30 Index Fund Direct Growth",
+      "Motilal Oswal BSE Enhanced Value Index Fund Direct Growth",
+      "Motilal Oswal BSE Quality Index Fund Direct Growth",
+      "Motilal Oswal Nifty Microcap 250 Index Fund Direct Growth",
+      "Motilal Oswal Nifty India Defence Index Fund Direct Growth",
+      "Motilal Oswal Nifty 500 Momentum 50 Index Fund Direct Growth",
       "Motilal Oswal Nifty MidSmall India Consumption Index Fund Direct Growth",
       "Motilal Oswal Nifty MidSmall Financial Services Index Fund Direct Growth",
       "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund Direct Growth",
-      "Motilal Oswal Multi Factor Passive FoF Direct Growth",
-      "Motilal Oswal Nifty Microcap 250 Index Fund Direct Growth",
-      "Motilal Oswal Nifty Next 50 Index Fund Direct Growth",
-      "Motilal Oswal BSE Financials ex Bank 30 Index Fund Direct Growth",
-      "Motilal Oswal S&P 500 Index Fund Direct Growth",
-      "Motilal Oswal Small Cap Fund Direct Growth",
-      "Motilal Oswal Nifty 500 Momentum 50 Index Fund Direct Growth",
-      "Motilal Oswal Large Cap Fund Direct Growth",
-      "Motilal Oswal Developed Market Ex US ETFs Overseas Equity Passive FoF Direct Growth",
-      "Motilal Oswal Nasdaq 100 FOF Direct Growth",
-      "Motilal Oswal Manufacturing Fund Direct Growth",
-      "Motilal Oswal BSE Low Volatility Index Fund Direct Growth",
-      "Motilal Oswal Financial Services Fund Direct Growth",
-      "Motilal Oswal BSE 1000 Index Fund Direct Growth",
-      "Motilal Oswal Consumption Fund Direct Growth",
-      "Motilal Oswal BSE Enhanced Value Index Fund Direct Growth",
-      "Motilal Oswal Nifty 500 Index Fund Direct Growth",
-      "Motilal Oswal Nifty Bank Index Fund Direct Growth",
-      "Motilal Oswal Nifty Midcap 150 Index Fund Direct Growth",
-      "Motilal Oswal Nifty 200 Momentum 30 Index Fund Direct Growth",
-      "Motilal Oswal Nifty Smallcap 250 Index Fund Direct Growth",
-      "Motilal Oswal Multi Cap Fund Direct Growth",
-      "Motilal Oswal Special Opportunities Fund Direct Growth",
-      "Motilal Oswal BSE Quality Index Fund Direct Growth",
-      "Motilal Oswal Gold and Silver Passive FoF Direct Growth",
-      "Motilal Oswal Innovation Opportunities Fund Direct Growth",
+      "Motilal Oswal Nifty MidSmall Healthcare Index Fund Direct Growth",
       "Motilal Oswal Nifty Capital Market Index Fund Direct Growth",
-      "Motilal Oswal Midcap Fund Direct Growth",
-      "Motilal Oswal Nifty India Defence Index Fund Direct Growth",
-      "Motilal Oswal Focused Fund Direct Growth",
-      "Motilal Oswal Business Cycle Fund Direct Growth",
-      "Motilal Oswal Balanced Advantage Fund Direct Growth",
-      "Motilal Oswal Infrastructure Fund Direct Growth",
-      "Motilal Oswal Asset Allocation Passive FoF Conservative Direct Growth",
-      "Motilal Oswal Asset Allocation Passive FoF Aggressive Direct Growth",
-      "Motilal Oswal Digital India Fund Direct Growth"
+      "Motilal Oswal BSE 1000 Index Fund Direct Growth"
     ]
   },
   "news_context": [
@@ -191,5 +168,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-30T04:53:38.679542Z"
+  "last_scraped_at": "2026-05-01T05:05:57.959589Z"
 }

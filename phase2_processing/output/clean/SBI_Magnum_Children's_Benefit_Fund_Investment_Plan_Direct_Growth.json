@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 49.3325,
-    "date": "2026-04-29",
+    "value": 49.5961,
+    "date": "2026-04-30",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 17.42,
-    "three_year": 25.12,
-    "five_year": 26.98,
+    "one_year": 19.08,
+    "three_year": 25.04,
+    "five_year": 26.99,
     "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 162
   },
   "operations": {
-    "expense_ratio": 0.88,
+    "expense_ratio": 1.69,
     "exit_load": "With respect to units not subject to lock-in period and the holding period is less than\r\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year.",
     "min_investment": {
       "sip": 500,
@@ -127,17 +127,15 @@
     "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
   },
   "fund_manager": {
-    "name": "Rama Iyer Srinivasan",
+    "name": "Lokesh Mallya",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "Prior to joining SBI Mutual Fund he has worked with Principal AMC, Oppenheimer & Co, Indosuez WI Carr and Motilal Oswal.",
+    "experience_summary": "Prior to SBI Mutual Fund, he has worked with Aditya Birla Sun Life AMC as fund manager (Sept 2009-Sept 2014) and as Credit Analyst (July 2006 - Aug 2009).",
     "other_funds_managed": [
-      "SBI Children's Fund Investment Plan Direct Growth",
-      "SBI Small Cap Fund Direct Growth",
-      "SBI Multicap Fund Direct Growth",
-      "SBI Focused Fund Direct Plan Growth",
-      "SBI Equity Hybrid Fund Direct Plan Growth",
-      "SBI Children's Fund Savings Plan Direct Growth"
+      "SBI Children's Fund Savings Plan Direct Growth",
+      "SBI Credit Risk Fund Direct Growth",
+      "SBI Medium Duration Fund Direct Growth",
+      "SBI Children's Fund Investment Plan Direct Growth"
     ]
   },
   "news_context": [
@@ -152,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-04-30T04:53:27.349363Z"
+  "last_scraped_at": "2026-05-01T05:05:38.837252Z"
 }

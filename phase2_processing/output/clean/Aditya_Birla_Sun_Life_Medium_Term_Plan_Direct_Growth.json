@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 46.5459,
-    "date": "2026-04-29",
+    "value": 46.491,
+    "date": "2026-04-30",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 8.87,
-    "three_year": 10.37,
-    "five_year": 12.61,
+    "one_year": 8.67,
+    "three_year": 10.32,
+    "five_year": 12.58,
     "since_inception": 4.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -115,7 +115,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.88,
+    "expense_ratio": 0.84,
     "exit_load": "Exit load of 1%, if redeemed within 1 Year.",
     "min_investment": {
       "sip": 1000,
@@ -126,17 +126,28 @@
     "taxation": "Returns are taxed as per your Income Tax slab."
   },
   "fund_manager": {
-    "name": "Sunaina da Cunha",
+    "name": "Mohit Sharma",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "Prior to joining Aditya Birla Sun Life Asset Management Company, she has worked with Aditya Birla Management Corporation Ltd.",
+    "experience_summary": "Prior to joining Aditya Birla Sun Life AMC, he ran his own healthcare-tech business (June 2012 - May 2015). he has also worked as an Interest Rates Trader in Standard Chartered Bank (May 2007 - June 2011) and ICICI Bank Ltd (June 2006 - April 2007). He started his career in the Equity Research in Irevna Ltd (June 2005 - June 2006).",
     "other_funds_managed": [
+      "Aditya Birla Sun Life Balanced Advantage Fund Direct Growth",
+      "Aditya Birla Sun Life Dynamic Bond Retail Fund Direct Growth",
+      "Aditya Birla Sun Life Money Manager Fund Direct Growth",
+      "Aditya Birla Sun Life Arbitrage Fund Direct Growth",
       "Aditya Birla Sun Life Medium Term Plan Direct Growth",
-      "Aditya Birla Sun Life Credit Risk Fund Segregated Portfolio 1 Direct Growth",
-      "Aditya Birla Sun Life Liquid Fund Direct Growth",
-      "Aditya Birla Sun Life Savings Direct Growth",
+      "Aditya Birla Sun Life Regular Savings Fund Direct Growth",
+      "Aditya Birla Sun Life Short Term Direct Fund Direct Growth",
+      "Aditya Birla Sun Life Low Duration Fund Direct Growth",
+      "Apex Hybrid Long Short Fund Direct Growth",
       "Aditya Birla Sun Life Credit Risk Fund Direct Growth",
-      "Aditya Birla Sun Life Medium Term Plan Segregated Portfolio 1 Direct Growth"
+      "Aditya Birla Sun Life Fixed Term Plan Series TI (1837 Days) Direct Growth",
+      "Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund Direct Growth",
+      "Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund Direct Growth",
+      "Aditya Birla Sun Life Nifty SDL Plus PSU Bond Sep 2026 60:40 Index Fund Direct Growth",
+      "Aditya Birla Sun Life CRISIL IBX 60:40 SDL+AAA PSU Apr 2027 Index Fund Direct Growth",
+      "Aditya Birla Sun Life Retirement Fund The 50s Plan Direct Growth",
+      "Aditya Birla Sun Life CRISIL IBX Financial Services 9 12 Months Debt Index Fund Direct Growth"
     ]
   },
   "news_context": [
@@ -151,5 +162,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-04-30T04:53:25.316352Z"
+  "last_scraped_at": "2026-05-01T05:05:36.513037Z"
 }

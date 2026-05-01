@@ -22,9 +22,9 @@
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 20.02,
-    "three_year": 21.92,
-    "five_year": 17.47,
+    "one_year": 20.39,
+    "three_year": 21.94,
+    "five_year": 17.7,
     "since_inception": 31.9,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -115,7 +115,7 @@
     "turnover_ratio": 139
   },
   "operations": {
-    "expense_ratio": 0.59,
+    "expense_ratio": 0.33,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months.",
     "min_investment": {
       "sip": 100,
@@ -126,15 +126,13 @@
     "taxation": null
   },
   "fund_manager": {
-    "name": "Vinay Sharma",
+    "name": "Vikram Dhawan",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "Prior to joining Nippon India Mutual Fund he has worked with ICICI Prudential AMC, Kotak Mahindra Mutual Fund, J.P. Morgan India Pvt. Ltd. and UTI Bank.",
+    "experience_summary": "Prior to joining Nippon India Mutual Fund he has worked with Nippon Life India AIF Management Limited, Reliance Capital Limited, Gold Matrix Pte, Vedanta Group, Zee Gold Refinery (Shirpur Gold Refinery), N.M. Rothschild & Sons., Bank of Nova Scotia, Birla Copper (Hindalco) and Synthetics & Chemicals Ltd.",
     "other_funds_managed": [
-      "Nippon India Banking & Financial Services Fund Direct Growth",
-      "Nippon India Multi Asset Allocation Fund Direct Growth",
-      "Nippon India Focused Fund Direct Growth",
-      "Nippon India Innovation Fund Direct Growth"
+      "Nippon India Multi Asset Omni FoF Direct Growth",
+      "Nippon India Multi Asset Allocation Fund Direct Growth"
     ]
   },
   "news_context": [
@@ -149,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-30T04:53:33.946306Z"
+  "last_scraped_at": "2026-05-01T05:05:52.527642Z"
 }

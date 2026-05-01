@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 122.041,
-    "date": "2026-04-29",
+    "value": 121.38,
+    "date": "2026-04-30",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": -2.01,
-    "three_year": 9.28,
-    "five_year": 11.12,
+    "one_year": -2.32,
+    "three_year": 9.08,
+    "five_year": 11.23,
     "since_inception": 11.8,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -126,33 +126,22 @@
     "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
   },
   "fund_manager": {
-    "name": "Anupam Joshi",
+    "name": "Srinivasan Ramamurthy",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "Prior to joining HDFC Mutual Fund he has worked with IDFC AMC, Principal Asset Management Company and ICAP India Pvt. Ltd.",
+    "experience_summary": "Prior to joining HDFC Asset Management Company Limited, he has worked with Mahindra Mutual Fund, IDBI Federal Life Insurance, IIFL Capital Limited, Maybank Kim Eng, Credit Suisse and KPMG Advisory.",
     "other_funds_managed": [
-      "HDFC Corporate Bond Fund Direct Plan Growth",
-      "HDFC CRISIL IBX Financial Services 3 6 Months Debt Index Fund Direct Growth",
-      "HDFC FMP 1861D March 2022 Direct Growth",
-      "HDFC NIFTY G Sec Jun 2036 Index Fund Direct Growth",
-      "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
-      "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
-      "HDFC Nifty G Sec Sep 2032 Index Direct Growth",
-      "HDFC Nifty G Sec Jun 2027 Index Direct Growth",
-      "HDFC Nifty G Sec July 2031 Index Direct Growth",
-      "HDFC Nifty G sec Dec 2026 Index Direct Growth",
-      "HDFC Low Duration Fund Direct Growth",
+      "HDFC Balanced Advantage Fund Direct Growth",
       "HDFC Hybrid Debt Fund Direct Growth",
-      "HDFC Nifty SDL Oct 2026 Index Fund Direct Growth",
-      "HDFC FMP 1876D March 2022 Direct Growth",
-      "HDFC Nifty G Sec Apr 2029 Index Fund Direct Growth",
-      "HDFC NIFTY SDL Plus G Sec Jun 2027 40:60 Index Fund Direct Growth",
-      "HDFC CRISIL IBX Financial Services 9 12 Months Debt Index Fund Direct Growth",
-      "HDFC Income Fund Direct Growth",
+      "HDFC Equity Savings Direct Plan Growth",
+      "HDFC Multi Asset Allocation Fund Direct Growth",
       "HDFC Hybrid Equity Fund Direct Plan Growth",
       "HDFC Retirement Savings Fund Equity Plan Direct Growth",
-      "HDFC FMP 1406D August 2022 Direct Growth",
-      "HDFC Long Duration Debt Fund Direct Growth"
+      "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+      "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+      "HDFC Housing Opportunities Fund Direct Growth",
+      "HDFC Multi Asset Active FoF Direct Growth",
+      "HDFC Diversified Equity All Cap Active FoF Direct Growth"
     ]
   },
   "news_context": [
@@ -167,5 +156,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-04-30T04:53:36.059249Z"
+  "last_scraped_at": "2026-05-01T05:05:55.177510Z"
 }

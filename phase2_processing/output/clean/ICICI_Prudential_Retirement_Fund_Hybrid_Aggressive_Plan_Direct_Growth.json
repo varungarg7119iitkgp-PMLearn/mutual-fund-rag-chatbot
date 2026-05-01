@@ -14,16 +14,16 @@
     ]
   },
   "nav": {
-    "value": 30.32,
-    "date": "2026-04-29",
+    "value": 30.13,
+    "date": "2026-04-30",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 15.73,
-    "three_year": 22.99,
+    "one_year": 15,
+    "three_year": 22.71,
     "five_year": 17.94,
     "since_inception": 13.83,
     "benchmark_one_year": null,
@@ -126,58 +126,14 @@
     "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
   },
   "fund_manager": {
-    "name": "Sharmila D'Silva",
+    "name": "Manasvi Shah",
     "tenure": null,
     "tenure_years": null,
-    "experience_summary": "She joined ICICI Prudential AMC Limited in September 2016.",
+    "experience_summary": "She joined ICICI Prudential Asset Management Company Limited in September 2015 and has experience of over 7 years.",
     "other_funds_managed": [
-      "ICICI Prudential ESG Exclusionary Strategy Fund Direct Growth",
-      "ICICI Prudential Infrastructure Direct Growth",
-      "ICICI Prudential US Bluechip Equity Direct Plan Growth",
-      "ICICI Prudential Dividend Yield Equity Fund Direct Growth",
-      "ICICI Prudential Retirement Fund Pure Equity Plan Direct Growth",
-      "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund Direct Growth",
-      "ICICI Prudential Regular Savings Fund Direct Growth",
-      "ICICI Prudential Equity Savings Fund Direct Growth",
-      "ICICI Prudential Focused Equity Fund Direct Growth",
       "ICICI Prudential Active Momentum Fund Direct Growth",
-      "ICICI Prudential Global Advantage Fund (FOF) Direct Growth",
-      "ICICI Prudential Innovation Fund Direct Growth",
-      "ICICI Prudential Commodities Fund Direct Growth",
-      "ICICI Prudential Flexicap Fund Direct Growth",
-      "ICICI Prudential Liquid Fund Direct Plan Growth",
-      "ICICI Prudential Strategic Metal and Energy Equity FoF Direct Growth",
-      "ICICI Prudential ELSS Tax Saver Direct Plan Growth",
-      "ICICI Prudential Large Cap Fund Direct Growth",
-      "ICICI Prudential Long Term Wealth Enhancement Fund Direct Growth",
-      "ICICI Prudential Housing Opportunities Fund Direct Growth",
-      "ICICI Prudential NASDAQ 100 Index Fund Direct Growth",
-      "ICICI Prudential Multi Asset Fund Direct Growth",
-      "ICICI Prudential India Opportunities Fund Direct Growth",
-      "ICICI Prudential Transportation and Logistics Fund Direct Growth",
-      "ICICI Prudential Children's Fund Direct Growth",
-      "ICICI Prudential Diversified Equity All Cap Active FoF Direct Growth",
-      "ICICI Prudential Value Direct Growth",
-      "ICICI Prudential Exports and Services Fund Direct Growth",
-      "ICICI Prudential Diversified Equity All Cap Omni FoF Direct Growth",
-      "ICICI Prudential Dynamic Asset Allocation Active FoF Direct Growth",
-      "ICICI Prudential Global Stable Equity Fund (FOF) Direct Growth",
-      "ICICI Prudential MNC Fund Direct Growth",
-      "ICICI Prudential Midcap Direct Plan Growth",
-      "ICICI Prudential Balanced Advantage Direct Growth",
-      "ICICI Prudential Equity & Debt Fund Direct Growth",
-      "ICICI Prudential Manufacturing Fund Direct Growth",
-      "ICICI Prudential Multi Sector Passive FoF Direct Growth",
-      "ICICI Prudential Equity Arbitrage Direct Growth",
-      "ICICI Prudential Banking and Financial Services Direct Plan Growth",
-      "ICICI Prudential Retirement Fund Hybrid Conservative Plan Direct Growth",
-      "ICICI Prudential Passive Multi Asset FoF Direct Growth",
       "ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth",
-      "ICICI Prudential Energy Opportunities Fund Direct Growth",
-      "ICICI Prudential Multicap Fund Direct Plan Growth",
-      "ICICI Prudential Technology Direct Plan Growth",
-      "ICICI Prudential Large & Mid Cap Fund Direct Plan Growth",
-      "ICICI Prudential Retirement Fund Pure Debt Plan Direct Growth"
+      "ICICI Prudential Retirement Fund Hybrid Conservative Plan Direct Growth"
     ]
   },
   "news_context": [
@@ -192,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-04-30T04:53:31.785555Z"
+  "last_scraped_at": "2026-05-01T05:05:50.242194Z"
 }
