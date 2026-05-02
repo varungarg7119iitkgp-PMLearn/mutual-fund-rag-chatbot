@@ -123,7 +123,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "Returns are taxed at 20%, if you redeem before one year. After 1 year, you are required to pay LTCG tax of 12.5% on returns of Rs 1.25 lakh+ in a financial year."
+    "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
   },
   "fund_manager": {
     "name": "Antariksha Banerjee",
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-01T05:06:07.490390Z"
+  "last_scraped_at": "2026-05-02T04:39:56.868388Z"
 }

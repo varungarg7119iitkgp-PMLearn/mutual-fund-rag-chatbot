@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 26.2714,
-    "date": "2026-04-29",
+    "value": 26.2128,
+    "date": "2026-04-30",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 20.39,
-    "three_year": 21.94,
-    "five_year": 17.7,
+    "one_year": 20.12,
+    "three_year": 21.83,
+    "five_year": 17.63,
     "since_inception": 31.9,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -123,7 +123,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": null
+    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
   },
   "fund_manager": {
     "name": "Vikram Dhawan",
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-01T05:05:52.527642Z"
+  "last_scraped_at": "2026-05-02T04:39:42.375058Z"
 }

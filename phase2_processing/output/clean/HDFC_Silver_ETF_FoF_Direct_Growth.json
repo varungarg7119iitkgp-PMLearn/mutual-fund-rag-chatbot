@@ -70,7 +70,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": null
+    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
   },
   "fund_manager": {
     "name": "Arun Agarwal",
@@ -124,5 +124,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-05-01T05:05:11.362798Z"
+  "last_scraped_at": "2026-05-02T04:38:56.579174Z"
 }
