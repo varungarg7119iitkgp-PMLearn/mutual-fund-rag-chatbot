@@ -36,10 +36,10 @@
   },
   "risk": {
     "riskometer": "Very High",
-    "standard_deviation": 23.41126998679801,
-    "sharpe_ratio": 0.9074391351,
-    "beta": 0.95864134843647,
-    "alpha": -1.75843813648694
+    "standard_deviation": 24.02336192209794,
+    "sharpe_ratio": 0.9714237781,
+    "beta": 0.96846931610365,
+    "alpha": -1.30978799024716
   },
   "portfolio": {
     "top_holdings": [
@@ -152,5 +152,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:51.937916Z"
+  "last_scraped_at": "2026-05-03T04:57:53.607232Z"
 }

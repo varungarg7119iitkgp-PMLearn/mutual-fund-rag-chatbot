@@ -35,8 +35,8 @@
   },
   "risk": {
     "riskometer": "Moderately High",
-    "standard_deviation": 6.870470876750799,
-    "sharpe_ratio": 0.7808348263,
+    "standard_deviation": 6.873821842177449,
+    "sharpe_ratio": 0.779809994,
     "beta": 0,
     "alpha": 0
   },
@@ -154,5 +154,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:30.163155Z"
+  "last_scraped_at": "2026-05-03T04:57:33.647798Z"
 }

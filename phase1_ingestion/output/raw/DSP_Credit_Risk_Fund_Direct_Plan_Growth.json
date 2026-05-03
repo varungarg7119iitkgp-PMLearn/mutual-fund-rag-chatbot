@@ -36,8 +36,8 @@
   },
   "risk": {
     "riskometer": "Moderately High",
-    "standard_deviation": 6.893705600837022,
-    "sharpe_ratio": 1.142913514,
+    "standard_deviation": 7.41852620253429,
+    "sharpe_ratio": 1.2984887954,
     "beta": 0,
     "alpha": 0
   },
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:09.727694Z"
+  "last_scraped_at": "2026-05-03T04:57:26.401609Z"
 }

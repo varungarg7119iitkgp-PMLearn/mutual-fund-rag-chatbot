@@ -36,8 +36,8 @@
   },
   "risk": {
     "riskometer": "High",
-    "standard_deviation": 11.770283982604658,
-    "sharpe_ratio": 1.3217524438,
+    "standard_deviation": 12.037949588339776,
+    "sharpe_ratio": 1.3708009222,
     "beta": 0,
     "alpha": 0
   },
@@ -171,5 +171,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:37.558117Z"
+  "last_scraped_at": "2026-05-03T04:57:40.449587Z"
 }

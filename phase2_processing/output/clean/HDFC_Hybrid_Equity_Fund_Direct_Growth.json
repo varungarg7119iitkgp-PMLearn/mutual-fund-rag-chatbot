@@ -35,8 +35,8 @@
   },
   "risk": {
     "riskometer": "Very High",
-    "standard_deviation": 10.527945852492868,
-    "sharpe_ratio": 0.2487639185,
+    "standard_deviation": 10.75364704577635,
+    "sharpe_ratio": 0.3135690596,
     "beta": 0,
     "alpha": 0
   },
@@ -156,5 +156,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:44.670643Z"
+  "last_scraped_at": "2026-05-03T04:57:46.932342Z"
 }

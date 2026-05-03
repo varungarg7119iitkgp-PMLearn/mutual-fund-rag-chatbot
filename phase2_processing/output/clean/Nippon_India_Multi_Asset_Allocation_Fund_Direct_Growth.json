@@ -35,8 +35,8 @@
   },
   "risk": {
     "riskometer": "Very High",
-    "standard_deviation": 9.089759411417926,
-    "sharpe_ratio": 1.4048731423,
+    "standard_deviation": 9.603226803883677,
+    "sharpe_ratio": 1.5066031209,
     "beta": 0,
     "alpha": 0
   },
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:42.375058Z"
+  "last_scraped_at": "2026-05-03T04:57:44.878656Z"
 }

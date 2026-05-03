@@ -36,8 +36,8 @@
   },
   "risk": {
     "riskometer": "Moderate",
-    "standard_deviation": 5.825077594428101,
-    "sharpe_ratio": 1.0876587381,
+    "standard_deviation": 5.752917997292405,
+    "sharpe_ratio": 0.9955026551,
     "beta": 0,
     "alpha": 0
   },
@@ -119,5 +119,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:24.268859Z"
+  "last_scraped_at": "2026-05-03T04:57:28.964653Z"
 }

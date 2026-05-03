@@ -35,8 +35,8 @@
   },
   "risk": {
     "riskometer": "Very High",
-    "standard_deviation": 13.38716784662826,
-    "sharpe_ratio": 1.0450842813,
+    "standard_deviation": 14.006907560336494,
+    "sharpe_ratio": 1.1211768402,
     "beta": 0,
     "alpha": 0
   },
@@ -148,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:39.956442Z"
+  "last_scraped_at": "2026-05-03T04:57:42.758794Z"
 }

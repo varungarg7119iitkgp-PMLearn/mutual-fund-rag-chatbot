@@ -35,8 +35,8 @@
   },
   "risk": {
     "riskometer": "High",
-    "standard_deviation": 2.92625460188953,
-    "sharpe_ratio": 2.1020751105,
+    "standard_deviation": 2.9265664611626483,
+    "sharpe_ratio": 2.1283207115,
     "beta": 0,
     "alpha": 0
   },
@@ -115,7 +115,7 @@
     "turnover_ratio": 59
   },
   "operations": {
-    "expense_ratio": 0.84,
+    "expense_ratio": 0.79,
     "exit_load": "Exit load of 1%, if redeemed within 1 Year.",
     "min_investment": {
       "sip": 100,
@@ -162,5 +162,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:27.192558Z"
+  "last_scraped_at": "2026-05-03T04:57:31.493041Z"
 }

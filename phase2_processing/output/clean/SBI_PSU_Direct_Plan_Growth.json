@@ -36,10 +36,10 @@
   },
   "risk": {
     "riskometer": "Very High",
-    "standard_deviation": 22.61712113316816,
-    "sharpe_ratio": 1.0415924689,
-    "beta": 0.93591618311379,
-    "alpha": 1.10037601404682
+    "standard_deviation": 22.925682862471007,
+    "sharpe_ratio": 1.0851314685,
+    "beta": 0.93343038947204,
+    "alpha": 1.12243536233269
   },
   "portfolio": {
     "top_holdings": [
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-02T04:39:49.743866Z"
+  "last_scraped_at": "2026-05-03T04:57:51.531420Z"
 }
