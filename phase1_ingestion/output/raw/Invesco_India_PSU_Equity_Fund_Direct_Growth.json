@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 80.6,
-    "date": "30-Apr-2026",
+    "value": 80.98,
+    "date": "04-May-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 13.78,
-    "three_year": 29.87,
-    "five_year": 26.51,
+    "one_year": 14.49,
+    "three_year": 29.47,
+    "five_year": 26.69,
     "since_inception": 11.34,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 23
   },
   "operations": {
-    "expense_ratio": 2.19,
+    "expense_ratio": 0.91,
     "exit_load": "Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year.",
     "min_investment": {
       "sip": 100,
@@ -152,5 +152,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-04T04:58:25.361581Z"
+  "last_scraped_at": "2026-05-05T04:40:02.111838Z"
 }

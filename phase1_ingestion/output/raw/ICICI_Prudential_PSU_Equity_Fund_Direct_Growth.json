@@ -14,16 +14,16 @@
     ]
   },
   "nav": {
-    "value": 23.63,
-    "date": "30-Apr-2026",
+    "value": 23.76,
+    "date": "04-May-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 13.93,
-    "three_year": 28.63,
+    "one_year": 14.59,
+    "three_year": 28.31,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -115,7 +115,7 @@
     "turnover_ratio": 62
   },
   "operations": {
-    "expense_ratio": 2.6,
+    "expense_ratio": 1.1,
     "exit_load": "Exit Load 1% if redeem before 1 month from the date of allotment.",
     "min_investment": {
       "sip": 100,
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-04T04:58:30.391782Z"
+  "last_scraped_at": "2026-05-05T04:40:06.724341Z"
 }
