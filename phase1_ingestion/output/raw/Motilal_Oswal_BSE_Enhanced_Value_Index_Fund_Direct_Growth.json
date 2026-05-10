@@ -46,61 +46,61 @@
       {
         "name": "Oil And Natural Gas Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 9.17736819,
+        "weight_pct": 8.75432717,
         "sector": null
       },
       {
         "name": "Hindalco Industries Ltd.",
         "percentage": null,
-        "weight_pct": 8.05296035,
+        "weight_pct": 8.56441029,
         "sector": null
       },
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 7.84374731,
-        "sector": null
-      },
-      {
-        "name": "Coal India Ltd.",
-        "percentage": null,
-        "weight_pct": 7.59627035,
+        "weight_pct": 7.75385466,
         "sector": null
       },
       {
         "name": "Tata Motors Passenger Vehicles Ltd.",
         "percentage": null,
-        "weight_pct": 7.37604107,
+        "weight_pct": 7.71335257,
+        "sector": null
+      },
+      {
+        "name": "Coal India Ltd.",
+        "percentage": null,
+        "weight_pct": 7.36492422,
         "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 7.11550382,
+        "weight_pct": 6.89850076,
         "sector": null
       },
       {
         "name": "Indian Oil Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 7.09604392,
+        "weight_pct": 6.75362479,
         "sector": null
       },
       {
         "name": "Power Finance Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 4.59679663,
+        "weight_pct": 4.9210301,
         "sector": null
       },
       {
         "name": "Hindustan Petroleum Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 4.22241641,
+        "weight_pct": 4.27878675,
         "sector": null
       },
       {
         "name": "GAIL (India) Ltd.",
         "percentage": null,
-        "weight_pct": 3.88838874,
+        "weight_pct": 4.18454672,
         "sector": null
       }
     ],
@@ -116,7 +116,7 @@
     "turnover_ratio": 50
   },
   "operations": {
-    "expense_ratio": 0.5,
+    "expense_ratio": 0.55,
     "exit_load": "Exit Load: 1%- If redeemed on or before 15 days from the date of allotment.",
     "min_investment": {
       "sip": 500,
@@ -168,5 +168,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-09T04:46:04.702489Z"
+  "last_scraped_at": "2026-05-10T05:02:18.313534Z"
 }

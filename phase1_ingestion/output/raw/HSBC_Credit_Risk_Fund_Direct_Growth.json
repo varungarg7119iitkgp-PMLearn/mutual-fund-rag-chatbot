@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
+        "name": "GOI",
+        "percentage": null,
+        "weight_pct": 6.29,
+        "sector": null
+      },
+      {
         "name": "Aditya Birla Renewables Ltd.",
         "percentage": null,
-        "weight_pct": 5.5,
+        "weight_pct": 5.55,
         "sector": null
       },
       {
         "name": "Power Grid Corporation Of India Ltd.",
         "percentage": null,
-        "weight_pct": 5.49,
-        "sector": null
-      },
-      {
-        "name": "National Bank For Agriculture & Rural Development",
-        "percentage": null,
-        "weight_pct": 5.47,
+        "weight_pct": 5.53,
         "sector": null
       },
       {
         "name": "JTPM Metal Traders Ltd.",
         "percentage": null,
-        "weight_pct": 5.46,
+        "weight_pct": 5.5,
+        "sector": null
+      },
+      {
+        "name": "Nuvoco Vistas Corporation Ltd.",
+        "percentage": null,
+        "weight_pct": 5.45,
         "sector": null
       },
       {
         "name": "Nirma Ltd.",
         "percentage": null,
-        "weight_pct": 5.31,
+        "weight_pct": 5.35,
         "sector": null
       },
       {
         "name": "REC Ltd.",
         "percentage": null,
-        "weight_pct": 5.3,
+        "weight_pct": 5.34,
         "sector": null
       },
       {
-        "name": "Bank Of Baroda",
+        "name": "National Bank For Agriculture & Rural Development",
         "percentage": null,
-        "weight_pct": 5.09,
+        "weight_pct": 5.34,
         "sector": null
       },
       {
         "name": "JSW Kalinga Steel Ltd.",
         "percentage": null,
-        "weight_pct": 4.22,
+        "weight_pct": 4.18,
         "sector": null
       },
       {
-        "name": "GOI",
+        "name": "Vedanta Ltd.",
         "percentage": null,
-        "weight_pct": 4.14,
-        "sector": null
-      },
-      {
-        "name": "Piramal Finance Ltd.",
-        "percentage": null,
-        "weight_pct": 3.66,
+        "weight_pct": 3.44,
         "sector": null
       }
     ],
@@ -115,7 +115,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 1.06,
+    "expense_ratio": 0.95,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year.",
     "min_investment": {
       "sip": 1000,
@@ -154,5 +154,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-09T04:45:31.542066Z"
+  "last_scraped_at": "2026-05-10T05:02:01.291950Z"
 }
