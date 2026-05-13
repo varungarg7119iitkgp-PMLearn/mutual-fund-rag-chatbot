@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 46.6317,
-    "date": "2026-05-11",
+    "value": 46.6009,
+    "date": "2026-05-12",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 8.94,
-    "three_year": 10.29,
-    "five_year": 12.6,
+    "one_year": 8.84,
+    "three_year": 10.23,
+    "five_year": 12.59,
     "since_inception": 4.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -137,6 +137,7 @@
       "Aditya Birla Sun Life Arbitrage Fund Direct Growth",
       "Aditya Birla Sun Life Medium Term Plan Direct Growth",
       "Aditya Birla Sun Life Regular Savings Fund Direct Growth",
+      "Aditya Birla Sun Life Regular Savings Fund Direct Growth",
       "Aditya Birla Sun Life Short Term Direct Fund Direct Growth",
       "Aditya Birla Sun Life Low Duration Fund Direct Growth",
       "Apex Hybrid Long Short Fund Direct Growth",
@@ -162,5 +163,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-05-12T04:59:42.804676Z"
+  "last_scraped_at": "2026-05-13T05:07:19.482917Z"
 }
