@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 175.9661,
-    "date": "2026-05-12",
+    "value": 177.9474,
+    "date": "2026-05-13",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 21.28,
-    "three_year": 24.2,
-    "five_year": 21.09,
+    "one_year": 22.02,
+    "three_year": 24.64,
+    "five_year": 21.35,
     "since_inception": 9.86,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -171,5 +171,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-13T05:07:24.512860Z"
+  "last_scraped_at": "2026-05-14T05:05:44.410682Z"
 }
