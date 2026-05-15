@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 46.6008,
-    "date": "2026-05-13",
+    "value": 46.6068,
+    "date": "2026-05-14",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 8.53,
+    "one_year": 8.38,
     "three_year": 10.22,
-    "five_year": 12.58,
+    "five_year": 12.59,
     "since_inception": 4.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -147,6 +147,7 @@
       "Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund Direct Growth",
       "Aditya Birla Sun Life Nifty SDL Plus PSU Bond Sep 2026 60:40 Index Fund Direct Growth",
       "Aditya Birla Sun Life CRISIL IBX 60:40 SDL+AAA PSU Apr 2027 Index Fund Direct Growth",
+      "Aditya Birla Sun Life Retirement Fund The 40s Plan Direct Growth",
       "Aditya Birla Sun Life Retirement Fund The 50s Plan Direct Growth",
       "Aditya Birla Sun Life CRISIL IBX Financial Services 9 12 Months Debt Index Fund Direct Growth"
     ]
@@ -163,5 +164,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-05-14T05:05:39.448242Z"
+  "last_scraped_at": "2026-05-15T05:11:04.758709Z"
 }

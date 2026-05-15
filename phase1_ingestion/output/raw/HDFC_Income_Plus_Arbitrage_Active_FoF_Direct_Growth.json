@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 44.7223,
-    "date": "13-May-2026",
+    "value": 44.7293,
+    "date": "14-May-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 5.05,
-    "three_year": 11.71,
-    "five_year": 12.12,
+    "one_year": 4.98,
+    "three_year": 11.7,
+    "five_year": 12.23,
     "since_inception": 10.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,19 +46,19 @@
       {
         "name": "HDFC Corporate Bond Fund Direct Plan-Growth",
         "percentage": null,
-        "weight_pct": 44.8,
+        "weight_pct": 43.65,
         "sector": null
       },
       {
         "name": "HDFC Arbitrage Fund Wholesale Direct-Growth",
         "percentage": null,
-        "weight_pct": 36.56,
+        "weight_pct": 37.09,
         "sector": null
       },
       {
         "name": "HDFC Money Market Fund Direct-Growth",
         "percentage": null,
-        "weight_pct": 18.52,
+        "weight_pct": 18.72,
         "sector": null
       }
     ],
@@ -119,5 +119,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-05-14T05:05:32.246599Z"
+  "last_scraped_at": "2026-05-15T05:10:57.493216Z"
 }

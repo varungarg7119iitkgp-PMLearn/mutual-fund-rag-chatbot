@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 40.21,
-    "date": "13-May-2026",
+    "value": 40.46,
+    "date": "14-May-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 15.15,
-    "three_year": 29.17,
-    "five_year": 25.99,
+    "one_year": 15.01,
+    "three_year": 29.41,
+    "five_year": 26.79,
     "since_inception": 16.04,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 18.77399941,
+        "weight_pct": 18.07510352,
         "sector": null
       },
       {
         "name": "NTPC Ltd.",
         "percentage": null,
-        "weight_pct": 9.16766099,
+        "weight_pct": 8.71285502,
         "sector": null
       },
       {
         "name": "Power Grid Corporation Of India Ltd.",
         "percentage": null,
-        "weight_pct": 6.84511213,
-        "sector": null
-      },
-      {
-        "name": "Bharat Electronics Ltd.",
-        "percentage": null,
-        "weight_pct": 5.36547687,
+        "weight_pct": 7.4430638,
         "sector": null
       },
       {
         "name": "Bharat Heavy Electricals Ltd.",
         "percentage": null,
-        "weight_pct": 4.50878752,
+        "weight_pct": 5.42043757,
+        "sector": null
+      },
+      {
+        "name": "Bharat Electronics Ltd.",
+        "percentage": null,
+        "weight_pct": 5.09744417,
         "sector": null
       },
       {
         "name": "GAIL (India) Ltd.",
         "percentage": null,
-        "weight_pct": 4.35963333,
-        "sector": null
-      },
-      {
-        "name": "Oil And Natural Gas Corporation Ltd.",
-        "percentage": null,
-        "weight_pct": 4.20158527,
+        "weight_pct": 4.56051938,
         "sector": null
       },
       {
         "name": "Bank of Maharashtra",
         "percentage": null,
-        "weight_pct": 3.81657291,
+        "weight_pct": 4.30407967,
         "sector": null
       },
       {
-        "name": "Bank Of Baroda",
+        "name": "Oil And Natural Gas Corporation Ltd.",
         "percentage": null,
-        "weight_pct": 3.78446011,
+        "weight_pct": 3.90212524,
         "sector": null
       },
       {
-        "name": "Bank of India",
+        "name": "NMDC Ltd.",
         "percentage": null,
-        "weight_pct": 3.64619829,
+        "weight_pct": 3.56453719,
+        "sector": null
+      },
+      {
+        "name": "PNB Housing Finance Ltd.",
+        "percentage": null,
+        "weight_pct": 3.38597976,
         "sector": null
       }
     ],
@@ -116,7 +116,7 @@
     "turnover_ratio": 11
   },
   "operations": {
-    "expense_ratio": 0.66,
+    "expense_ratio": 0.68,
     "exit_load": "Exit load of 1% if redeemed within 30 days.",
     "min_investment": {
       "sip": 100,
@@ -133,10 +133,7 @@
     "experience_summary": "Prior to joining Aditya Birla Sun Life Mutual Fund, he has worked with B&K Securities( January 2008- February 2011) and J.P.Morgan Chase India Private Ltd ( May 2005-July 2006).",
     "other_funds_managed": [
       "Aditya Birla Sun Life Banking & Financial Services Fund Direct Growth",
-      "Aditya Birla Sun Life Dividend Yield Fund Direct Growth",
-      "Aditya Birla Sun Life Business Cycle Fund Direct Growth",
       "Aditya Birla Sun Life Multi Asset Allocation Fund Direct Growth",
-      "Aditya Birla Sun Life Transportation and Logistics Fund Direct Growth",
       "Aditya Birla Sun Life PSU Equity Fund Direct Growth",
       "Aditya Birla Sun Life Special Opportunities Fund Direct Growth"
     ]
@@ -153,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-14T05:06:03.517972Z"
+  "last_scraped_at": "2026-05-15T05:11:25.478452Z"
 }
