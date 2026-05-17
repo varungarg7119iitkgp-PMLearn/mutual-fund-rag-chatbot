@@ -115,7 +115,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.97,
+    "expense_ratio": 0.95,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year.",
     "min_investment": {
       "sip": 1000,
@@ -154,5 +154,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-16T04:49:52.630470Z"
+  "last_scraped_at": "2026-05-17T05:07:31.865182Z"
 }

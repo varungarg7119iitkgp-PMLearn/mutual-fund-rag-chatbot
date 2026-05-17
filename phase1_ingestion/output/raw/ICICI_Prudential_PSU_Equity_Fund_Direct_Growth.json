@@ -115,7 +115,7 @@
     "turnover_ratio": 71
   },
   "operations": {
-    "expense_ratio": 1.99,
+    "expense_ratio": 0.81,
     "exit_load": "Exit Load 1% if redeem before 1 month from the date of allotment.",
     "min_investment": {
       "sip": 100,
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-16T04:50:18.437437Z"
+  "last_scraped_at": "2026-05-17T05:07:56.849010Z"
 }

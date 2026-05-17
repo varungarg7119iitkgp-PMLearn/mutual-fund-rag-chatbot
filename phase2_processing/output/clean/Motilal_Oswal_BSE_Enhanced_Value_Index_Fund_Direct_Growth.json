@@ -116,7 +116,7 @@
     "turnover_ratio": 50
   },
   "operations": {
-    "expense_ratio": 0.45,
+    "expense_ratio": 0.47,
     "exit_load": "Exit Load: 1%- If redeemed on or before 15 days from the date of allotment.",
     "min_investment": {
       "sip": 500,
@@ -168,5 +168,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-16T04:50:09.330450Z"
+  "last_scraped_at": "2026-05-17T05:07:47.829010Z"
 }

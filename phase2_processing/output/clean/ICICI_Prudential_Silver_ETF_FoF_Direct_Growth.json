@@ -62,7 +62,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.21,
+    "expense_ratio": 0.22,
     "exit_load": "Exit load of 1% If redeemed within 15 days.",
     "min_investment": {
       "sip": 100,
@@ -118,5 +118,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-05-16T04:49:38.863163Z"
+  "last_scraped_at": "2026-05-17T05:07:18.568710Z"
 }
