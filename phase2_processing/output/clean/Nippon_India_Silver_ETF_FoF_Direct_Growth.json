@@ -61,7 +61,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.22,
+    "expense_ratio": 0.21,
     "exit_load": "Exit load of 1% if redeemed within 15 days.",
     "min_investment": {
       "sip": 100,
@@ -102,5 +102,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-05-28T05:45:43.379946Z"
+  "last_scraped_at": "2026-05-29T05:46:51.004342Z"
 }

@@ -116,7 +116,7 @@
     "turnover_ratio": 11
   },
   "operations": {
-    "expense_ratio": 1.07,
+    "expense_ratio": 0.66,
     "exit_load": "Exit load of 1% if redeemed within 30 days.",
     "min_investment": {
       "sip": 100,
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-28T05:46:13.501512Z"
+  "last_scraped_at": "2026-05-29T05:47:23.387618Z"
 }

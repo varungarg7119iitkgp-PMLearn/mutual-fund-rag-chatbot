@@ -62,7 +62,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.22,
+    "expense_ratio": 0.23,
     "exit_load": "Exit load of 1%, if redeemed within 15 days.",
     "min_investment": {
       "sip": 100,
@@ -123,5 +123,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-05-28T05:45:36.732339Z"
+  "last_scraped_at": "2026-05-29T05:46:44.268429Z"
 }
