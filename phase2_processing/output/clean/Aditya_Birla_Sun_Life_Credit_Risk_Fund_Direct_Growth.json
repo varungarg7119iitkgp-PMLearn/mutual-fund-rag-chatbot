@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 27.23,
-    "date": "2026-05-27",
+    "value": 27.242,
+    "date": "2026-05-29",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.96,
-    "three_year": 12.62,
-    "five_year": 10.62,
+    "one_year": 11.86,
+    "three_year": 12.63,
+    "five_year": 10.58,
     "since_inception": 8.39,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "GMR Airports Ltd.",
+        "name": "Reverse Repo",
+        "percentage": null,
+        "weight_pct": 15.05516242,
+        "sector": null
+      },
+      {
+        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 3.99344891,
         "sector": null
       },
       {
-        "name": "Jubilant Bevco Ltd.",
+        "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 3.21806206,
         "sector": null
       },
       {
-        "name": "GOI",
+        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
         "percentage": null,
         "weight_pct": 2.9282168,
         "sector": null
       },
       {
-        "name": "IKF Finance Ltd.",
+        "name": "IKF FINANCE LIMITED 9.4 NCD 12SP27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.57454777,
         "sector": null
       },
       {
-        "name": "Hinduja Leyland Finance Ltd.",
+        "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.54360578,
         "sector": null
       },
       {
-        "name": "National Bank For Agriculture & Rural Development",
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.52774426,
         "sector": null
       },
       {
-        "name": "Kogta Financial India Ltd.",
+        "name": "KOGTA FINANCIAL (INDIA) LIMITED 9.5 NCD 30OT27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.36951087,
         "sector": null
       },
       {
-        "name": "Gaursons India Pvt. Ltd.",
+        "name": "GAURSONS  INDIA PRIVATE LIMITED SR 1 10.96 NCD 26DC28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.34239931,
         "sector": null
       },
       {
-        "name": "Vedanta Ltd.",
+        "name": "VEDANTA LIMITED SR II 9.45 NCD 05JU28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.23637159,
-        "sector": null
-      },
-      {
-        "name": "Vedanta Ltd.",
-        "percentage": null,
-        "weight_pct": 2.22415041,
         "sector": null
       }
     ],
@@ -164,5 +164,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-29T05:46:59.520191Z"
+  "last_scraped_at": "2026-05-30T05:08:44.751095Z"
 }
