@@ -115,7 +115,7 @@
     "turnover_ratio": 2
   },
   "operations": {
-    "expense_ratio": 1.03,
+    "expense_ratio": 1.02,
     "exit_load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year.",
     "min_investment": {
       "sip": 100,
@@ -156,5 +156,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-05-30T05:08:59.290011Z"
+  "last_scraped_at": "2026-05-31T05:52:46.247169Z"
 }
