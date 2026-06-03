@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 39.49,
-    "date": "2026-06-01",
+    "value": 39.48,
+    "date": "2026-06-02",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 9.76,
-    "three_year": 27.99,
-    "five_year": 24.97,
+    "one_year": 9.21,
+    "three_year": 27.78,
+    "five_year": 24.69,
     "since_inception": 16.04,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -36,10 +36,10 @@
   },
   "risk": {
     "riskometer": "Very High",
-    "standard_deviation": 23.489347370787158,
-    "sharpe_ratio": 0.9851531897,
-    "beta": 0.96808580670599,
-    "alpha": -1.49628754231597
+    "standard_deviation": 23.633499855558895,
+    "sharpe_ratio": 0.9316823409,
+    "beta": 0.96131417679555,
+    "alpha": -0.54047479630712
   },
   "portfolio": {
     "top_holdings": [
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-02T06:11:07.603079Z"
+  "last_scraped_at": "2026-06-03T06:24:39.180038Z"
 }

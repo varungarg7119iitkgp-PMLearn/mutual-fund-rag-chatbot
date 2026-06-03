@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 59.3686,
-    "date": "01-Jun-2026",
+    "value": 59.4027,
+    "date": "02-Jun-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 9.82,
-    "three_year": 16.56,
-    "five_year": 12.98,
+    "one_year": 9.89,
+    "three_year": 16.57,
+    "five_year": 12.99,
     "since_inception": 7.05,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -36,21 +36,27 @@
   },
   "risk": {
     "riskometer": "Moderately High",
-    "standard_deviation": 7.41852620253429,
-    "sharpe_ratio": 1.2984887954,
+    "standard_deviation": 7.411845797169801,
+    "sharpe_ratio": 1.325427472,
     "beta": 0,
     "alpha": 0
   },
   "portfolio": {
     "top_holdings": [
       {
-        "name": "GOI",
+        "name": "Reverse Repo",
+        "percentage": null,
+        "weight_pct": 14.83,
+        "sector": null
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
         "percentage": null,
         "weight_pct": 9.99,
         "sector": null
       },
       {
-        "name": "Aditya Birla Renewables Ltd.",
+        "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 6.53,
         "sector": null
@@ -62,45 +68,39 @@
         "sector": null
       },
       {
-        "name": "Tata Housing Devp. Co. Ltd",
+        "name": "TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 6.29,
         "sector": null
       },
       {
-        "name": "National Bank For Agriculture & Rural Development",
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 6.27,
         "sector": null
       },
       {
-        "name": "REC Ltd.",
+        "name": "REC LIMITED SR 180-B 8.30 BD 25JU29 FVRS10LAC",
         "percentage": null,
         "weight_pct": 4.49,
         "sector": null
       },
       {
-        "name": "Tata Projects Ltd.",
+        "name": "TATA PROJECTS LIMITED SR Q 8.25 NCD 28AP27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 4.45,
         "sector": null
       },
       {
-        "name": "Nuvama Wealth Finance Ltd.",
+        "name": "NUVAMA WEALTH FINANCE LIMITED SR F7H502A  9 NCD 11JU27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 4.4,
         "sector": null
       },
       {
-        "name": "Piramal Finance Pvt. Ltd.",
+        "name": "PIRAMAL FINANCE LIMITED 8.75 NCD 29OCT27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 4.34,
-        "sector": null
-      },
-      {
-        "name": "JTPM Metal Traders Ltd.",
-        "percentage": null,
-        "weight_pct": 4.32,
         "sector": null
       }
     ],
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-06-02T06:10:40.287206Z"
+  "last_scraped_at": "2026-06-03T06:24:11.532514Z"
 }

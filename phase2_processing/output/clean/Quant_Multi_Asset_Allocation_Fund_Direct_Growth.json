@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 180.3111,
-    "date": "2026-06-01",
+    "value": 180.3711,
+    "date": "2026-06-02",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 20.63,
-    "three_year": 25.49,
-    "five_year": 21.52,
+    "one_year": 20.86,
+    "three_year": 25.32,
+    "five_year": 21.35,
     "since_inception": 9.86,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -36,71 +36,71 @@
   },
   "risk": {
     "riskometer": "High",
-    "standard_deviation": 12.037949588339776,
-    "sharpe_ratio": 1.3708009222,
+    "standard_deviation": 11.980571941349707,
+    "sharpe_ratio": 1.5034944223,
     "beta": 0,
     "alpha": 0
   },
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Nippon India ETF Gold BeES",
+        "name": "Net Current Assets",
+        "percentage": null,
+        "weight_pct": 18.773908,
+        "sector": null
+      },
+      {
+        "name": "Nippon India ETF Gold BeES IDCW",
         "percentage": null,
         "weight_pct": 10.219078,
         "sector": null
       },
       {
-        "name": "ICICI Bank Ltd.",
+        "name": "ICICI Bank Ltd",
         "percentage": null,
         "weight_pct": 8.524715,
         "sector": null
       },
       {
-        "name": "Adani Green Energy Ltd.",
+        "name": "Repo",
+        "percentage": null,
+        "weight_pct": 8.049532,
+        "sector": null
+      },
+      {
+        "name": "Adani Green Energy Ltd",
         "percentage": null,
         "weight_pct": 7.425146,
         "sector": null
       },
       {
-        "name": "HDFC Bank Ltd.",
+        "name": "HDFC Bank Ltd",
         "percentage": null,
         "weight_pct": 6.718254,
         "sector": null
       },
       {
-        "name": "Kotak Mahindra Bank Ltd.",
+        "name": "Kotak Mahindra Bank Ltd",
         "percentage": null,
         "weight_pct": 6.259758,
         "sector": null
       },
       {
-        "name": "Reliance Industries Ltd.",
+        "name": "Reliance Industries Ltd",
         "percentage": null,
         "weight_pct": 5.323687,
         "sector": null
       },
       {
-        "name": "HDFC Life Insurance Co Ltd.",
+        "name": "HDFC Life Insurance Co Ltd",
         "percentage": null,
         "weight_pct": 5.045118,
         "sector": null
       },
       {
-        "name": "Aurobindo Pharma Ltd.",
+        "name": "Aurobindo Pharma Ltd",
         "percentage": null,
         "weight_pct": 4.79164,
-        "sector": null
-      },
-      {
-        "name": "ICICI Prudential Asset Management Company Ltd.",
-        "percentage": null,
-        "weight_pct": 4.728866,
-        "sector": null
-      },
-      {
-        "name": "Premier Energies Ltd.",
-        "percentage": null,
-        "weight_pct": 4.628409,
         "sector": null
       }
     ],
@@ -116,7 +116,7 @@
     "turnover_ratio": 0
   },
   "operations": {
-    "expense_ratio": 0.67,
+    "expense_ratio": 0.61,
     "exit_load": "Exit load of 1%, if redeemed within 15 days.",
     "min_investment": {
       "sip": 1000,
@@ -171,5 +171,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-02T06:10:53.544648Z"
+  "last_scraped_at": "2026-06-03T06:24:24.863304Z"
 }
