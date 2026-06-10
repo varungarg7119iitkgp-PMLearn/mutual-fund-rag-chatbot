@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 118.675,
-    "date": "2026-06-08",
+    "value": 119.44,
+    "date": "2026-06-09",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": -7.76,
-    "three_year": 7.05,
-    "five_year": 9.11,
+    "one_year": -7.46,
+    "three_year": 7.28,
+    "five_year": 9.38,
     "since_inception": 11.8,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -36,26 +36,26 @@
   "risk": {
     "riskometer": "Very High",
     "standard_deviation": 10.764682939729601,
-    "sharpe_ratio": 0.2064683619,
+    "sharpe_ratio": 0.2069382344,
     "beta": 0,
     "alpha": 0
   },
   "portfolio": {
     "top_holdings": [
       {
-        "name": "ICICI Bank Ltd.",
+        "name": "ICICI Bank Ltd",
         "percentage": null,
         "weight_pct": 6.63,
         "sector": null
       },
       {
-        "name": "HDFC Bank Ltd.",
+        "name": "HDFC Bank Ltd",
         "percentage": null,
         "weight_pct": 6.53,
         "sector": null
       },
       {
-        "name": "Reliance Industries Ltd.",
+        "name": "Reliance Industries Ltd",
         "percentage": null,
         "weight_pct": 4.75,
         "sector": null
@@ -67,37 +67,37 @@
         "sector": null
       },
       {
-        "name": "Axis Bank Ltd.",
+        "name": "Axis Bank Ltd",
         "percentage": null,
         "weight_pct": 3.13,
         "sector": null
       },
       {
-        "name": "Kotak Mahindra Bank Ltd.",
+        "name": "Kotak Mahindra Bank Ltd",
         "percentage": null,
         "weight_pct": 3.01,
         "sector": null
       },
       {
-        "name": "Infosys Ltd.",
+        "name": "Infosys Ltd",
         "percentage": null,
         "weight_pct": 2.69,
         "sector": null
       },
       {
-        "name": "Larsen & Toubro Ltd.",
+        "name": "Larsen & Toubro Ltd",
         "percentage": null,
         "weight_pct": 2.61,
         "sector": null
       },
       {
-        "name": "GOI",
+        "name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
         "percentage": null,
         "weight_pct": 2.54,
         "sector": null
       },
       {
-        "name": "Bharti Airtel Ltd.",
+        "name": "Bharti Airtel Ltd",
         "percentage": null,
         "weight_pct": 2.03,
         "sector": null
@@ -156,5 +156,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-09T05:41:47.368907Z"
+  "last_scraped_at": "2026-06-10T05:56:44.361529Z"
 }

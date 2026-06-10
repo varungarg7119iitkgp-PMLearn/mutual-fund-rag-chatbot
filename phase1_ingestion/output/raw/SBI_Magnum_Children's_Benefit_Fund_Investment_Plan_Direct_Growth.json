@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 50.0391,
-    "date": "08-Jun-2026",
+    "value": 50.3724,
+    "date": "09-Jun-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 16.66,
-    "three_year": 23.53,
-    "five_year": 25.25,
+    "one_year": 14.7,
+    "three_year": 22.89,
+    "five_year": 24.88,
     "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -37,14 +37,20 @@
   "risk": {
     "riskometer": "Very High",
     "standard_deviation": 16.01657455479713,
-    "sharpe_ratio": 1.0572592702,
+    "sharpe_ratio": 1.0575750698,
     "beta": 0,
     "alpha": 0
   },
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Alphabet Inc Class A",
+        "name": "Repo",
+        "percentage": null,
+        "weight_pct": 18.5,
+        "sector": null
+      },
+      {
+        "name": "Alphabet Inc Forgn. Eq (GOOGL)",
         "percentage": null,
         "weight_pct": 7.79,
         "sector": null
@@ -56,31 +62,31 @@
         "sector": null
       },
       {
-        "name": "Thangamayil Jewellery Ltd.",
+        "name": "Thangamayil Jewellery Ltd",
         "percentage": null,
         "weight_pct": 4.8,
         "sector": null
       },
       {
-        "name": "Hatsun Agro Product Ltd.",
+        "name": "Hatsun Agro Products Ltd",
         "percentage": null,
         "weight_pct": 4.36,
         "sector": null
       },
       {
-        "name": "Adani Power Ltd.",
+        "name": "Adani Power Ltd",
         "percentage": null,
         "weight_pct": 4.1,
         "sector": null
       },
       {
-        "name": "Muthoot Finance Ltd.",
+        "name": "Muthoot Finance Ltd",
         "percentage": null,
         "weight_pct": 3.92,
         "sector": null
       },
       {
-        "name": "Aether Industries Ltd.",
+        "name": "Aether Industries Ltd",
         "percentage": null,
         "weight_pct": 3.64,
         "sector": null
@@ -92,15 +98,9 @@
         "sector": null
       },
       {
-        "name": "Privi Speciality Chemicals Ltd.",
+        "name": "Privi Speciality Chemicals Ltd",
         "percentage": null,
         "weight_pct": 3.36,
-        "sector": null
-      },
-      {
-        "name": "Ather Energy Ltd.",
-        "percentage": null,
-        "weight_pct": 3.33,
         "sector": null
       }
     ],
@@ -116,7 +116,7 @@
     "turnover_ratio": 162
   },
   "operations": {
-    "expense_ratio": 1.19,
+    "expense_ratio": 1.83,
     "exit_load": "With respect to units not subject to lock-in period and the holding period is less than\r\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year.",
     "min_investment": {
       "sip": 500,
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-06-09T05:41:39.213791Z"
+  "last_scraped_at": "2026-06-10T05:56:36.206120Z"
 }

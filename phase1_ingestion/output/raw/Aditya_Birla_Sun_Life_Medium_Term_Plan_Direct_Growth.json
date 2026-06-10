@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 46.961,
-    "date": "08-Jun-2026",
+    "value": 47.0965,
+    "date": "09-Jun-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 8.04,
-    "three_year": 10.31,
-    "five_year": 12.57,
+    "one_year": 8.44,
+    "three_year": 10.43,
+    "five_year": 12.63,
     "since_inception": 4.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -36,68 +36,68 @@
   "risk": {
     "riskometer": "Moderately High",
     "standard_deviation": 1.921798794781412,
-    "sharpe_ratio": 1.9889659249,
+    "sharpe_ratio": 1.9915978487,
     "beta": 0,
     "alpha": 0
   },
   "portfolio": {
     "top_holdings": [
       {
-        "name": "GOI",
+        "name": "GOVERNMENT OF INDIA 34208 GOI 08AP34 7.1 FV RS 100",
         "percentage": null,
         "weight_pct": 6.87002615,
         "sector": null
       },
       {
-        "name": "GOI",
+        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
         "percentage": null,
         "weight_pct": 4.50677699,
         "sector": null
       },
       {
-        "name": "National Bank For Agriculture & Rural Development",
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26C 7.27 BD 23FB29 FVRS1LAC",
         "percentage": null,
         "weight_pct": 3.99107607,
         "sector": null
       },
       {
-        "name": "National Bank For Agriculture & Rural Development",
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 3.62837386,
         "sector": null
       },
       {
-        "name": "Hinduja Leyland Finance Ltd.",
+        "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
         "percentage": null,
         "weight_pct": 3.49239651,
         "sector": null
       },
       {
-        "name": "OXYZO Financial Services Ltd.",
+        "name": "OXYZO FINANCIAL SERVICES LIMITED 9.9 NCD 13MR29 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.87029175,
         "sector": null
       },
       {
-        "name": "Nuvama Wealth Finance Ltd.",
+        "name": "NUVAMA WEALTH FINANCE LIMITED SR NWFL200824/05 9.75 NCD 16AP27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.76910104,
         "sector": null
       },
       {
-        "name": "GMR Airports Ltd.",
+        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.68400844,
         "sector": null
       },
       {
-        "name": "Jubilant Bevco Ltd.",
+        "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.60084963,
         "sector": null
       },
       {
-        "name": "JTPM Metal Traders Ltd.",
+        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
         "weight_pct": 2.59081098,
         "sector": null
@@ -164,5 +164,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-06-09T05:41:37.241257Z"
+  "last_scraped_at": "2026-06-10T05:56:34.306979Z"
 }
