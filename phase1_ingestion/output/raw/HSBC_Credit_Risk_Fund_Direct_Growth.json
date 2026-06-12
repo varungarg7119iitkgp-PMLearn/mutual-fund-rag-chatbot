@@ -14,8 +14,8 @@
     ]
   },
   "nav": {
-    "value": 37.114,
-    "date": "10-Jun-2026",
+    "value": 37.0951,
+    "date": "11-Jun-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -23,8 +23,8 @@
   },
   "returns": {
     "one_year": 6.06,
-    "three_year": 11.77,
-    "five_year": 9.36,
+    "three_year": 11.74,
+    "five_year": 9.34,
     "since_inception": null,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -155,5 +155,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-11T06:14:18.492022Z"
+  "last_scraped_at": "2026-06-12T06:09:54.163944Z"
 }
