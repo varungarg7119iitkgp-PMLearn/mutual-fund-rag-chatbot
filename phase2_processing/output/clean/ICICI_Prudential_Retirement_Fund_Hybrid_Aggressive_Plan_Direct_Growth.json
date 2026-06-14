@@ -115,7 +115,7 @@
     "turnover_ratio": 63
   },
   "operations": {
-    "expense_ratio": 1.13,
+    "expense_ratio": 1.12,
     "exit_load": "Nil",
     "min_investment": {
       "sip": 100,
@@ -148,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-06-13T05:53:40.570361Z"
+  "last_scraped_at": "2026-06-14T06:13:32.304712Z"
 }
