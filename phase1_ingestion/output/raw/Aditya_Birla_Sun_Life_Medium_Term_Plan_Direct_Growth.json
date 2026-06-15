@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "GOVERNMENT OF INDIA 34208 GOI 08AP34 7.1 FV RS 100",
+        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
         "percentage": null,
-        "weight_pct": 6.87002615,
+        "weight_pct": 6.32148459,
         "sector": null
       },
       {
-        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
+        "name": "GOVERNMENT OF INDIA 34208 GOI 08AP34 7.1 FV RS 100",
         "percentage": null,
-        "weight_pct": 4.50677699,
+        "weight_pct": 6.17096147,
         "sector": null
       },
       {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26C 7.27 BD 23FB29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.99107607,
+        "weight_pct": 3.94125616,
         "sector": null
       },
       {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.62837386,
+        "weight_pct": 3.58582895,
         "sector": null
       },
       {
         "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.49239651,
+        "weight_pct": 3.44328602,
         "sector": null
       },
       {
         "name": "OXYZO FINANCIAL SERVICES LIMITED 9.9 NCD 13MR29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.87029175,
-        "sector": null
-      },
-      {
-        "name": "NUVAMA WEALTH FINANCE LIMITED SR NWFL200824/05 9.75 NCD 16AP27 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 2.76910104,
+        "weight_pct": 2.83521218,
         "sector": null
       },
       {
         "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.68400844,
-        "sector": null
-      },
-      {
-        "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 2.60084963,
+        "weight_pct": 2.65751888,
         "sector": null
       },
       {
         "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.59081098,
+        "weight_pct": 2.57781045,
+        "sector": null
+      },
+      {
+        "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 2.57644007,
+        "sector": null
+      },
+      {
+        "name": "KOGTA FINANCIAL (INDIA) LIMITED 9.5 NCD 30OT27 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 2.29222739,
         "sector": null
       }
     ],
@@ -164,5 +164,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:26.014448Z"
+  "last_scraped_at": "2026-06-15T06:44:38.490041Z"
 }

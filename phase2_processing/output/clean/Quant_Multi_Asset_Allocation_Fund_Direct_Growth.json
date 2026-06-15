@@ -46,61 +46,61 @@
       {
         "name": "Net Current Assets",
         "percentage": null,
-        "weight_pct": 18.773908,
+        "weight_pct": 14.667252,
         "sector": null
       },
       {
         "name": "Nippon India ETF Gold BeES IDCW",
         "percentage": null,
-        "weight_pct": 10.219078,
-        "sector": null
-      },
-      {
-        "name": "ICICI Bank Ltd",
-        "percentage": null,
-        "weight_pct": 8.524715,
-        "sector": null
-      },
-      {
-        "name": "Repo",
-        "percentage": null,
-        "weight_pct": 8.049532,
+        "weight_pct": 9.972879,
         "sector": null
       },
       {
         "name": "Adani Green Energy Ltd",
         "percentage": null,
-        "weight_pct": 7.425146,
+        "weight_pct": 8.358664,
         "sector": null
       },
       {
-        "name": "HDFC Bank Ltd",
+        "name": "Adani Enterprises Ltd",
         "percentage": null,
-        "weight_pct": 6.718254,
-        "sector": null
-      },
-      {
-        "name": "Kotak Mahindra Bank Ltd",
-        "percentage": null,
-        "weight_pct": 6.259758,
+        "weight_pct": 8.198006,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd",
         "percentage": null,
-        "weight_pct": 5.323687,
+        "weight_pct": 7.962072,
+        "sector": null
+      },
+      {
+        "name": "ICICI Bank Ltd",
+        "percentage": null,
+        "weight_pct": 7.937554,
+        "sector": null
+      },
+      {
+        "name": "HDFC Bank Ltd",
+        "percentage": null,
+        "weight_pct": 6.069061,
         "sector": null
       },
       {
         "name": "HDFC Life Insurance Co Ltd",
         "percentage": null,
-        "weight_pct": 5.045118,
+        "weight_pct": 5.862868,
         "sector": null
       },
       {
-        "name": "Aurobindo Pharma Ltd",
+        "name": "Others Fixed Deposits",
         "percentage": null,
-        "weight_pct": 4.79164,
+        "weight_pct": 5.673333,
+        "sector": null
+      },
+      {
+        "name": "ICICI Prudential Asset Management Company Ltd.",
+        "percentage": null,
+        "weight_pct": 4.761828,
         "sector": null
       }
     ],
@@ -171,5 +171,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:30.249725Z"
+  "last_scraped_at": "2026-06-15T06:44:42.261201Z"
 }

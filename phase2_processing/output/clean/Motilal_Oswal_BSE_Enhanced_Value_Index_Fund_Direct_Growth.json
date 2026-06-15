@@ -44,63 +44,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Oil & Natural Gas Corporation Ltd",
-        "percentage": null,
-        "weight_pct": 8.75432717,
-        "sector": null
-      },
-      {
         "name": "Hindalco Industries Ltd",
         "percentage": null,
-        "weight_pct": 8.56441029,
-        "sector": null
-      },
-      {
-        "name": "State Bank of India",
-        "percentage": null,
-        "weight_pct": 7.75385466,
+        "weight_pct": 9.27,
         "sector": null
       },
       {
         "name": "Tata Motors Ltd",
         "percentage": null,
-        "weight_pct": 7.71335257,
+        "weight_pct": 8.85,
+        "sector": null
+      },
+      {
+        "name": "Oil & Natural Gas Corporation Ltd",
+        "percentage": null,
+        "weight_pct": 7.75,
         "sector": null
       },
       {
         "name": "Coal India Ltd",
         "percentage": null,
-        "weight_pct": 7.36492422,
+        "weight_pct": 6.98,
+        "sector": null
+      },
+      {
+        "name": "State Bank of India",
+        "percentage": null,
+        "weight_pct": 6.98,
         "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd",
         "percentage": null,
-        "weight_pct": 6.89850076,
+        "weight_pct": 6.81,
         "sector": null
       },
       {
         "name": "Indian Oil Corporation Ltd",
         "percentage": null,
-        "weight_pct": 6.75362479,
+        "weight_pct": 6.64,
         "sector": null
       },
       {
         "name": "Power Finance Corporation Ltd",
         "percentage": null,
-        "weight_pct": 4.9210301,
+        "weight_pct": 4.69,
         "sector": null
       },
       {
         "name": "Hindustan Petroleum Corporation Ltd",
         "percentage": null,
-        "weight_pct": 4.27878675,
+        "weight_pct": 4.47,
         "sector": null
       },
       {
         "name": "GAIL (India) Ltd",
         "percentage": null,
-        "weight_pct": 4.18454672,
+        "weight_pct": 4.19,
         "sector": null
       }
     ],
@@ -169,5 +169,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:38.448016Z"
+  "last_scraped_at": "2026-06-15T06:44:50.229448Z"
 }

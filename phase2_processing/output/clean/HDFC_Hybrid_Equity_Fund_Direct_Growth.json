@@ -45,53 +45,53 @@
       {
         "name": "ICICI Bank Ltd",
         "percentage": null,
-        "weight_pct": 6.63,
+        "weight_pct": 6.71,
         "sector": null
       },
       {
         "name": "HDFC Bank Ltd",
         "percentage": null,
-        "weight_pct": 6.53,
+        "weight_pct": 6.42,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd",
         "percentage": null,
-        "weight_pct": 4.75,
-        "sector": null
-      },
-      {
-        "name": "State Bank of India",
-        "percentage": null,
-        "weight_pct": 3.59,
+        "weight_pct": 4.46,
         "sector": null
       },
       {
         "name": "Axis Bank Ltd",
         "percentage": null,
-        "weight_pct": 3.13,
+        "weight_pct": 3.23,
         "sector": null
       },
       {
         "name": "Kotak Mahindra Bank Ltd",
         "percentage": null,
-        "weight_pct": 3.01,
+        "weight_pct": 3.07,
         "sector": null
       },
       {
-        "name": "Infosys Ltd",
+        "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 2.69,
+        "weight_pct": 2.86,
         "sector": null
       },
       {
         "name": "Larsen & Toubro Ltd",
         "percentage": null,
-        "weight_pct": 2.61,
+        "weight_pct": 2.7,
         "sector": null
       },
       {
         "name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
+        "percentage": null,
+        "weight_pct": 2.58,
+        "sector": null
+      },
+      {
+        "name": "Infosys Ltd",
         "percentage": null,
         "weight_pct": 2.54,
         "sector": null
@@ -99,7 +99,7 @@
       {
         "name": "Bharti Airtel Ltd",
         "percentage": null,
-        "weight_pct": 2.03,
+        "weight_pct": 2,
         "sector": null
       }
     ],
@@ -156,5 +156,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:36.372516Z"
+  "last_scraped_at": "2026-06-15T06:44:48.405387Z"
 }

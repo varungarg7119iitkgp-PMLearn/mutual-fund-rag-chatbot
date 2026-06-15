@@ -46,31 +46,31 @@
       {
         "name": "HDFC Medium Term Opportunities Direct Plan-Growth",
         "percentage": null,
-        "weight_pct": 43.65,
+        "weight_pct": 44.39,
         "sector": null
       },
       {
-        "name": "HDFC Arbitrage Fund Wholesale Direct-Growth",
+        "name": "HDFC Arbitrage Fund Direct-Growth",
         "percentage": null,
-        "weight_pct": 37.09,
+        "weight_pct": 36.34,
         "sector": null
       },
       {
         "name": "HDFC Money Market Fund Direct-Growth",
         "percentage": null,
-        "weight_pct": 18.72,
+        "weight_pct": 18.47,
         "sector": null
       },
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 0.54,
+        "weight_pct": 2.37,
         "sector": null
       },
       {
-        "name": "Net Current Assets",
+        "name": "Net Payables",
         "percentage": null,
-        "weight_pct": 0.00138068,
+        "weight_pct": -1.57,
         "sector": null
       }
     ],
@@ -130,5 +130,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:19.989964Z"
+  "last_scraped_at": "2026-06-15T06:44:32.431204Z"
 }

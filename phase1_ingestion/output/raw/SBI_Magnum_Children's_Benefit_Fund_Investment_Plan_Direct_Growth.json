@@ -46,61 +46,61 @@
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 18.5,
+        "weight_pct": 15.62,
         "sector": null
       },
       {
         "name": "Alphabet Inc Forgn. Eq (GOOGL)",
         "percentage": null,
-        "weight_pct": 7.79,
+        "weight_pct": 7.38,
         "sector": null
       },
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 6.29,
+        "weight_pct": 5.44,
         "sector": null
       },
       {
         "name": "Thangamayil Jewellery Ltd",
         "percentage": null,
-        "weight_pct": 4.8,
+        "weight_pct": 4.61,
         "sector": null
       },
       {
-        "name": "Hatsun Agro Products Ltd",
+        "name": "Adani Enterprises Ltd",
         "percentage": null,
-        "weight_pct": 4.36,
+        "weight_pct": 4.6,
         "sector": null
       },
       {
-        "name": "Adani Power Ltd",
+        "name": "Renew Energy Global PLC Forgn. Eq (RNW)",
         "percentage": null,
-        "weight_pct": 4.1,
+        "weight_pct": 4.35,
+        "sector": null
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd",
+        "percentage": null,
+        "weight_pct": 4.21,
         "sector": null
       },
       {
         "name": "Muthoot Finance Ltd",
         "percentage": null,
-        "weight_pct": 3.92,
+        "weight_pct": 4.03,
         "sector": null
       },
       {
-        "name": "Aether Industries Ltd",
+        "name": "Hatsun Agro Products Ltd",
         "percentage": null,
-        "weight_pct": 3.64,
+        "weight_pct": 3.9,
         "sector": null
       },
       {
-        "name": "Aequs Ltd.",
+        "name": "EPAM Systems Inc (EPAM)",
         "percentage": null,
-        "weight_pct": 3.38,
-        "sector": null
-      },
-      {
-        "name": "Privi Speciality Chemicals Ltd",
-        "percentage": null,
-        "weight_pct": 3.36,
+        "weight_pct": 3.52,
         "sector": null
       }
     ],
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:28.105857Z"
+  "last_scraped_at": "2026-06-15T06:44:40.346598Z"
 }

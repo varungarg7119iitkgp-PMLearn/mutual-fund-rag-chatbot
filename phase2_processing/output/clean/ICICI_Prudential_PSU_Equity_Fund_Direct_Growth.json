@@ -45,61 +45,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 13.05449849,
+        "weight_pct": 14.218026,
         "sector": null
       },
       {
         "name": "NTPC Ltd",
         "percentage": null,
-        "weight_pct": 8.51053781,
+        "weight_pct": 8.61011011,
         "sector": null
       },
       {
         "name": "Power Grid Corporation of India Ltd",
         "percentage": null,
-        "weight_pct": 6.2008264,
+        "weight_pct": 6.89307719,
         "sector": null
       },
       {
         "name": "Oil & Natural Gas Corporation Ltd",
         "percentage": null,
-        "weight_pct": 5.82002718,
-        "sector": null
-      },
-      {
-        "name": "Repo",
-        "percentage": null,
-        "weight_pct": 5.04667702,
-        "sector": null
-      },
-      {
-        "name": "Life Insurance Corporation of India",
-        "percentage": null,
-        "weight_pct": 4.87761632,
+        "weight_pct": 5.355227,
         "sector": null
       },
       {
         "name": "Hindustan Aeronautics Ltd",
         "percentage": null,
-        "weight_pct": 4.644268,
+        "weight_pct": 4.78433049,
         "sector": null
       },
       {
-        "name": "Oil India Ltd",
+        "name": "Life Insurance Corporation of India",
         "percentage": null,
-        "weight_pct": 3.3653661,
+        "weight_pct": 4.7147155,
+        "sector": null
+      },
+      {
+        "name": "Repo",
+        "percentage": null,
+        "weight_pct": 3.60997264,
+        "sector": null
+      },
+      {
+        "name": "Bharat Electronics Ltd",
+        "percentage": null,
+        "weight_pct": 3.47897195,
         "sector": null
       },
       {
         "name": "GAIL (India) Ltd",
         "percentage": null,
-        "weight_pct": 3.26608154,
+        "weight_pct": 3.41854326,
         "sector": null
       },
       {
-        "name": "Coal India Ltd",
+        "name": "Indian Oil Corporation Ltd",
         "percentage": null,
-        "weight_pct": 3.18796122,
+        "weight_pct": 3.19835084,
         "sector": null
       }
     ],
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:45.852618Z"
+  "last_scraped_at": "2026-06-15T06:44:57.938314Z"
 }

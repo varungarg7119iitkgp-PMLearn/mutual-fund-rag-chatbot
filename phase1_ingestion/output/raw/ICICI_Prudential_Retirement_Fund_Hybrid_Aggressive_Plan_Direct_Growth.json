@@ -45,61 +45,61 @@
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 6.904082,
+        "weight_pct": 5.40232982,
         "sector": null
       },
       {
         "name": "VEDANTA LIMITED SR I 9.31 NCD 03DC27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.61041646,
+        "weight_pct": 2.52033505,
         "sector": null
       },
       {
         "name": "HDFC Bank Ltd",
         "percentage": null,
-        "weight_pct": 2.42817695,
-        "sector": null
-      },
-      {
-        "name": "Tech Mahindra Ltd",
-        "percentage": null,
-        "weight_pct": 2.29643223,
-        "sector": null
-      },
-      {
-        "name": "Multi Commodity Exchange Of India Ltd",
-        "percentage": null,
-        "weight_pct": 2.29358758,
+        "weight_pct": 2.36665987,
         "sector": null
       },
       {
         "name": "Mahindra & Mahindra Ltd",
         "percentage": null,
-        "weight_pct": 2.21252787,
-        "sector": null
-      },
-      {
-        "name": "Hindustan Unilever Ltd",
-        "percentage": null,
-        "weight_pct": 2.1235308,
+        "weight_pct": 2.2087651,
         "sector": null
       },
       {
         "name": "Titan Company Ltd",
         "percentage": null,
-        "weight_pct": 2.02763393,
+        "weight_pct": 2.19346385,
         "sector": null
       },
       {
-        "name": "Ultratech Cement Ltd",
+        "name": "Reliance Industries Ltd",
         "percentage": null,
-        "weight_pct": 2.01635906,
+        "weight_pct": 2.13972493,
+        "sector": null
+      },
+      {
+        "name": "Tech Mahindra Ltd",
+        "percentage": null,
+        "weight_pct": 1.90087785,
         "sector": null
       },
       {
         "name": "Larsen & Toubro Ltd",
         "percentage": null,
-        "weight_pct": 1.91569804,
+        "weight_pct": 1.88758154,
+        "sector": null
+      },
+      {
+        "name": "UPL Ltd",
+        "percentage": null,
+        "weight_pct": 1.85072936,
+        "sector": null
+      },
+      {
+        "name": "Hindustan Unilever Ltd",
+        "percentage": null,
+        "weight_pct": 1.82830598,
         "sector": null
       }
     ],
@@ -148,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:32.304712Z"
+  "last_scraped_at": "2026-06-15T06:44:44.243761Z"
 }

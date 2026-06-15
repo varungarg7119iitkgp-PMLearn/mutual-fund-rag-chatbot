@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Repo",
-        "percentage": null,
-        "weight_pct": 10.89,
-        "sector": null
-      },
-      {
         "name": "GOVERNMENT OF INDIA 36232 GOI 21JL30 6.01 FV RS 100",
         "percentage": null,
-        "weight_pct": 6.29,
+        "weight_pct": 6.36,
         "sector": null
       },
       {
         "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.55,
+        "weight_pct": 5.61,
         "sector": null
       },
       {
         "name": "Power Grid Corpn. Of India Ltd. 7.2 09/08/2027",
         "percentage": null,
-        "weight_pct": 5.53,
+        "weight_pct": 5.59,
         "sector": null
       },
       {
         "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.5,
+        "weight_pct": 5.58,
+        "sector": null
+      },
+      {
+        "name": "GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 5.56,
         "sector": null
       },
       {
         "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.45,
+        "weight_pct": 5.53,
         "sector": null
       },
       {
         "name": "NIRMA LIMITED SR VII TR C 8.50 NCD 07AP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.35,
+        "weight_pct": 5.43,
         "sector": null
       },
       {
         "name": "REC LIMITED SR 230-A 7.71 BD 26FB27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.34,
+        "weight_pct": 5.4,
         "sector": null
       },
       {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.34,
+        "weight_pct": 5.4,
         "sector": null
       },
       {
-        "name": "JSW Kalinga Steel Ltd.",
+        "name": "POWER FINANCE CORPORATION LIMITED SR 259A 6.96 BD 02MR28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 4.18,
+        "weight_pct": 5.33,
         "sector": null
       }
     ],
@@ -155,5 +155,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:24.111687Z"
+  "last_scraped_at": "2026-06-15T06:44:36.561533Z"
 }

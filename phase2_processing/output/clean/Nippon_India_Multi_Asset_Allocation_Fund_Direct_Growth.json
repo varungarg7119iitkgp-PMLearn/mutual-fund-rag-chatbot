@@ -45,61 +45,61 @@
       {
         "name": "Nippon India ETF Gold BeES IDCW",
         "percentage": null,
-        "weight_pct": 8.14671367,
-        "sector": null
-      },
-      {
-        "name": "Repo",
-        "percentage": null,
-        "weight_pct": 5.88268795,
+        "weight_pct": 8.62361808,
         "sector": null
       },
       {
         "name": "IShares MSCI World ETF",
         "percentage": null,
-        "weight_pct": 5.2304508,
+        "weight_pct": 5.19933722,
+        "sector": null
+      },
+      {
+        "name": "Repo",
+        "percentage": null,
+        "weight_pct": 4.32247401,
         "sector": null
       },
       {
         "name": "ICICI Bank Ltd",
         "percentage": null,
-        "weight_pct": 3.59564693,
+        "weight_pct": 3.80978811,
         "sector": null
       },
       {
         "name": "Nippon India Silver ETF - Growth",
         "percentage": null,
-        "weight_pct": 3.23551328,
-        "sector": null
-      },
-      {
-        "name": "GOLD MINI (100 GRAMS) COMMODITY JUNE      2020 FUTURE",
-        "percentage": null,
-        "weight_pct": 2.46082662,
+        "weight_pct": 3.6661726,
         "sector": null
       },
       {
         "name": "HDFC Bank Ltd",
         "percentage": null,
-        "weight_pct": 2.38934069,
+        "weight_pct": 2.67551097,
         "sector": null
       },
       {
         "name": "Infosys Ltd",
         "percentage": null,
-        "weight_pct": 1.95989717,
+        "weight_pct": 1.83277786,
         "sector": null
       },
       {
-        "name": "Reliance Industries Ltd",
+        "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 1.80874825,
+        "weight_pct": 1.79555366,
+        "sector": null
+      },
+      {
+        "name": "GOLD MINI (100 GRAMS) COMMODITY JUNE      2020 FUTURE",
+        "percentage": null,
+        "weight_pct": 1.70462511,
         "sector": null
       },
       {
         "name": "Zomato Ltd",
         "percentage": null,
-        "weight_pct": 1.67276328,
+        "weight_pct": 1.61531339,
         "sector": null
       }
     ],
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:34.282840Z"
+  "last_scraped_at": "2026-06-15T06:44:46.219594Z"
 }

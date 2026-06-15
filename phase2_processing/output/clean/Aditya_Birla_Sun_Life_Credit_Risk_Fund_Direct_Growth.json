@@ -45,61 +45,61 @@
       {
         "name": "Reverse Repo",
         "percentage": null,
-        "weight_pct": 15.05516242,
-        "sector": null
-      },
-      {
-        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.99344891,
-        "sector": null
-      },
-      {
-        "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.21806206,
+        "weight_pct": 9.14114808,
         "sector": null
       },
       {
         "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
         "percentage": null,
-        "weight_pct": 2.9282168,
+        "weight_pct": 3.89340692,
         "sector": null
       },
       {
-        "name": "IKF FINANCE LIMITED 9.4 NCD 12SP27 FVRS1LAC",
+        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.57454777,
+        "weight_pct": 3.88367302,
+        "sector": null
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25G 7.48 BD 15SP28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.5696345,
+        "sector": null
+      },
+      {
+        "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.13113114,
+        "sector": null
+      },
+      {
+        "name": "Net Receivables",
+        "percentage": null,
+        "weight_pct": 2.85561134,
         "sector": null
       },
       {
         "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.54360578,
+        "weight_pct": 2.46320978,
         "sector": null
       },
       {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.52774426,
+        "weight_pct": 2.45365057,
         "sector": null
       },
       {
         "name": "KOGTA FINANCIAL (INDIA) LIMITED 9.5 NCD 30OT27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.36951087,
+        "weight_pct": 2.31023412,
         "sector": null
       },
       {
         "name": "GAURSONS  INDIA PRIVATE LIMITED SR 1 10.96 NCD 26DC28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.34239931,
-        "sector": null
-      },
-      {
-        "name": "VEDANTA LIMITED SR II 9.45 NCD 05JU28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 2.23637159,
+        "weight_pct": 2.27272737,
         "sector": null
       }
     ],
@@ -164,5 +164,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-14T06:13:22.040175Z"
+  "last_scraped_at": "2026-06-15T06:44:34.443883Z"
 }
