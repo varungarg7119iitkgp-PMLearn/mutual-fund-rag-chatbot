@@ -14,8 +14,8 @@
     ]
   },
   "nav": {
-    "value": 26.4918,
-    "date": "15-Jun-2026",
+    "value": 26.545,
+    "date": "16-Jun-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -115,7 +115,7 @@
     "turnover_ratio": 139
   },
   "operations": {
-    "expense_ratio": 0.31,
+    "expense_ratio": 0.34,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months.",
     "min_investment": {
       "sip": 100,
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-16T06:57:50.076227Z"
+  "last_scraped_at": "2026-06-17T06:34:42.578406Z"
 }
