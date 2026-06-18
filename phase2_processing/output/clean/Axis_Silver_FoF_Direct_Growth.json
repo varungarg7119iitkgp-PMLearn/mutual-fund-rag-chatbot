@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 42.3657,
-    "date": "2026-06-16",
+    "value": 42.1065,
+    "date": "2026-06-17",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 125.93,
-    "three_year": 48.33,
+    "one_year": 123.47,
+    "three_year": 47.98,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -74,7 +74,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.08,
+    "expense_ratio": 0.14,
     "exit_load": "Exit load of 0.25%, if redeemed within 7 days.",
     "min_investment": {
       "sip": 100,
@@ -108,5 +108,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/axis-silver-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-06-17T06:34:15.168975Z"
+  "last_scraped_at": "2026-06-18T06:16:56.670341Z"
 }
