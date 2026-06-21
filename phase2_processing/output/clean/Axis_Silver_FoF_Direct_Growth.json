@@ -74,7 +74,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.08,
+    "expense_ratio": 0.09,
     "exit_load": "Exit load of 0.25%, if redeemed within 7 days.",
     "min_investment": {
       "sip": 100,
@@ -108,5 +108,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/axis-silver-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-06-20T05:51:11.655138Z"
+  "last_scraped_at": "2026-06-21T06:24:17.275179Z"
 }
