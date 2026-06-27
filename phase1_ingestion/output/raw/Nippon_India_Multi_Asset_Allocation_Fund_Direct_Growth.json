@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 26.4694,
-    "date": "24-Jun-2026",
+    "value": 26.3739,
+    "date": "25-Jun-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 15.6,
-    "three_year": 20.85,
-    "five_year": 16.73,
+    "one_year": 14.85,
+    "three_year": 20.69,
+    "five_year": 16.53,
     "since_inception": 31.9,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-06-26T05:45:13.755782Z"
+  "last_scraped_at": "2026-06-27T05:11:14.623039Z"
 }
