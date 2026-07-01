@@ -2,7 +2,7 @@
   "identity": {
     "fund_id": "INF200KA1R07",
     "name": "SBI Children's Fund Investment Plan Direct Growth",
-    "category": "Hybrid",
+    "category": "Equity",
     "amc_name": "SBI Mutual Fund",
     "benchmark_name": "CRISIL Hybrid 35+65 Aggressive Index",
     "plan_label": "Growth",
@@ -15,24 +15,24 @@
     ]
   },
   "nav": {
-    "value": 52.4171,
-    "date": "29-Jun-2026",
+    "value": 52.8471,
+    "date": "30-Jun-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 19.35,
-    "three_year": 23.74,
-    "five_year": 25.21,
+    "one_year": 17.91,
+    "three_year": 23.16,
+    "five_year": 24.58,
     "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
     "benchmark_five_year": null,
-    "category_avg_one_year": 4.718690601669351,
-    "category_avg_three_year": 14.31110204180801,
-    "category_avg_five_year": 13.941004134645727
+    "category_avg_one_year": 2.186654493631266,
+    "category_avg_three_year": 15.986357003393906,
+    "category_avg_five_year": 15.612299390110422
   },
   "risk": {
     "riskometer": "Very High",
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-06-30T05:42:10.955491Z"
+  "last_scraped_at": "2026-07-01T06:01:06.244650Z"
 }
