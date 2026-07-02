@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 78.32,
-    "date": "2026-06-30",
+    "value": 78.76,
+    "date": "2026-07-01",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 1.14,
-    "three_year": 25.2,
-    "five_year": 22.9,
+    "one_year": 1.34,
+    "three_year": 25.41,
+    "five_year": 23,
     "since_inception": 11.34,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -136,6 +136,7 @@
       "Invesco India Financial Services Fund Direct Growth",
       "Invesco India Largecap Fund Direct Growth",
       "Invesco India PSU Equity Fund Direct Growth",
+      "Summit Equity Long Short Fund Direct Growth",
       "Invesco India Focused Fund Direct Growth",
       "Invesco India Technology Fund Direct Growth"
     ]
@@ -152,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-07-01T06:01:20.046402Z"
+  "last_scraped_at": "2026-07-02T05:29:55.548863Z"
 }
