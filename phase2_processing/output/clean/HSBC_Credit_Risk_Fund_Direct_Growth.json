@@ -14,8 +14,8 @@
     ]
   },
   "nav": {
-    "value": 37.3709,
-    "date": "2026-07-01",
+    "value": 37.3961,
+    "date": "2026-07-02",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -23,8 +23,8 @@
   },
   "returns": {
     "one_year": 6.52,
-    "three_year": 11.93,
-    "five_year": 9.54,
+    "three_year": 11.94,
+    "five_year": 9.56,
     "since_inception": null,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -35,8 +35,8 @@
   },
   "risk": {
     "riskometer": "Moderately High",
-    "standard_deviation": 6.8820697990888595,
-    "sharpe_ratio": 0.7719865368,
+    "standard_deviation": 6.881916299184597,
+    "sharpe_ratio": 0.8354191273,
     "beta": 0,
     "alpha": 0
   },
@@ -115,7 +115,7 @@
     "turnover_ratio": null
   },
   "operations": {
-    "expense_ratio": 0.96,
+    "expense_ratio": 0.97,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year.",
     "min_investment": {
       "sip": 1000,
@@ -155,5 +155,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-07-02T05:29:36.569979Z"
+  "last_scraped_at": "2026-07-03T05:11:37.451352Z"
 }
