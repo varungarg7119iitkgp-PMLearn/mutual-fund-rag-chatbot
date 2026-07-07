@@ -15,8 +15,8 @@
     ]
   },
   "nav": {
-    "value": 60.3537,
-    "date": "2026-07-03",
+    "value": 60.4018,
+    "date": "2026-07-06",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -24,8 +24,8 @@
   },
   "returns": {
     "one_year": 11.1,
-    "three_year": 17.03,
-    "five_year": 13.29,
+    "three_year": 17,
+    "five_year": 13.3,
     "since_inception": 7.05,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -44,63 +44,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
+        "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
         "percentage": null,
-        "weight_pct": 9.45,
+        "weight_pct": 9.3,
+        "sector": null
+      },
+      {
+        "name": "KOTAK MAHINDRA BANK LIMITED CD 04FEB27",
+        "percentage": null,
+        "weight_pct": 8.73,
         "sector": null
       },
       {
         "name": "Reverse Repo",
         "percentage": null,
-        "weight_pct": 7.15,
+        "weight_pct": 8.26,
         "sector": null
       },
       {
-        "name": "Roadstar Infra Investment Trust",
+        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 6.22,
+        "weight_pct": 5.84,
         "sector": null
       },
       {
         "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 6.15,
+        "weight_pct": 5.82,
         "sector": null
       },
       {
         "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 6.06,
+        "weight_pct": 5.75,
         "sector": null
       },
       {
         "name": "TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.92,
+        "weight_pct": 5.64,
         "sector": null
       },
       {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.9,
+        "weight_pct": 5.61,
         "sector": null
       },
       {
         "name": "ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.89,
+        "weight_pct": 5.44,
         "sector": null
       },
       {
-        "name": "REC LIMITED SR 180-B 8.30 BD 25JU29 FVRS10LAC",
+        "name": "NUVAMA WEALTH FINANCE LIMITED SR F7H502A  9 NCD 11JU27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 4.24,
-        "sector": null
-      },
-      {
-        "name": "TATA PROJECTS LIMITED SR Q 8.25 NCD 28AP27 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 4.19,
+        "weight_pct": 3.94,
         "sector": null
       }
     ],
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-07-06T05:52:28.970351Z"
+  "last_scraped_at": "2026-07-07T05:33:07.434985Z"
 }
