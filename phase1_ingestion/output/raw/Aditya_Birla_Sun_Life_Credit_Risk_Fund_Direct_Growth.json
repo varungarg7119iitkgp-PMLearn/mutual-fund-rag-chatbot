@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 27.8131,
-    "date": "09-Jul-2026",
+    "value": 27.8449,
+    "date": "10-Jul-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 12.95,
-    "three_year": 13.15,
-    "five_year": 10.94,
+    "one_year": 13.11,
+    "three_year": 13.2,
+    "five_year": 10.95,
     "since_inception": 8.39,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Reverse Repo",
-        "percentage": null,
-        "weight_pct": 9.14114808,
-        "sector": null
-      },
-      {
-        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
-        "percentage": null,
-        "weight_pct": 3.89340692,
-        "sector": null
-      },
-      {
-        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.88367302,
-        "sector": null
-      },
-      {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25G 7.48 BD 15SP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.5696345,
+        "weight_pct": 5.1569344,
         "sector": null
       },
       {
         "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.13113114,
+        "weight_pct": 4.94018143,
         "sector": null
       },
       {
-        "name": "Net Receivables",
+        "name": "GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100",
         "percentage": null,
-        "weight_pct": 2.85561134,
+        "weight_pct": 4.33424479,
         "sector": null
       },
       {
-        "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
+        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.46320978,
+        "weight_pct": 3.94338027,
         "sector": null
       },
       {
-        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
+        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.45365057,
+        "weight_pct": 3.73595219,
         "sector": null
       },
       {
-        "name": "KOGTA FINANCIAL (INDIA) LIMITED 9.5 NCD 30OT27 FVRS1LAC",
+        "name": "Reverse Repo",
         "percentage": null,
-        "weight_pct": 2.31023412,
+        "weight_pct": 3.521312,
         "sector": null
       },
       {
-        "name": "GAURSONS  INDIA PRIVATE LIMITED SR 1 10.96 NCD 26DC28 FVRS1LAC",
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.27272737,
+        "weight_pct": 3.38188625,
+        "sector": null
+      },
+      {
+        "name": "TATA CAPITAL HOUSING FINANCE LIMITED SR C 7.79 NCD 18JU30 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.07005794,
+        "sector": null
+      },
+      {
+        "name": "GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100",
+        "percentage": null,
+        "weight_pct": 3.04237263,
+        "sector": null
+      },
+      {
+        "name": "Bharat Highways InvIT",
+        "percentage": null,
+        "weight_pct": 2.49082648,
         "sector": null
       }
     ],
@@ -164,5 +164,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-07-10T05:32:26.908063Z"
+  "last_scraped_at": "2026-07-11T04:39:37.177412Z"
 }

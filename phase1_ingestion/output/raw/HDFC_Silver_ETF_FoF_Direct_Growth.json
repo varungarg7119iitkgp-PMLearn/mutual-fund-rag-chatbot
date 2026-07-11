@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 36.8085,
-    "date": "09-Jul-2026",
+    "value": 36.0863,
+    "date": "10-Jul-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 103.6,
-    "three_year": 45,
+    "one_year": 99.67,
+    "three_year": 43.61,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -46,19 +46,19 @@
       {
         "name": "HDFC Silver ETF Regular - Growth",
         "percentage": null,
-        "weight_pct": 100.05,
+        "weight_pct": 100.09,
         "sector": null
       },
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 0.37,
+        "weight_pct": 0.3,
         "sector": null
       },
       {
         "name": "Net Payables",
         "percentage": null,
-        "weight_pct": -0.42,
+        "weight_pct": -0.39,
         "sector": null
       }
     ],
@@ -136,5 +136,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-07-10T05:32:10.622434Z"
+  "last_scraped_at": "2026-07-11T04:39:17.216384Z"
 }
