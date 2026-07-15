@@ -23,9 +23,9 @@
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 17.22,
-    "three_year": 23.39,
-    "five_year": 24.18,
+    "one_year": 17.1,
+    "three_year": 23.06,
+    "five_year": 23.8,
     "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 15.62,
-        "sector": null
-      },
-      {
-        "name": "Alphabet Inc Forgn. Eq (GOOGL)",
-        "percentage": null,
-        "weight_pct": 7.38,
-        "sector": null
-      },
-      {
-        "name": "State Bank of India",
-        "percentage": null,
-        "weight_pct": 5.44,
+        "weight_pct": 9.3,
         "sector": null
       },
       {
         "name": "Thangamayil Jewellery Ltd",
         "percentage": null,
-        "weight_pct": 4.61,
+        "weight_pct": 6.45,
+        "sector": null
+      },
+      {
+        "name": "Alphabet Inc Forgn. Eq (GOOGL)",
+        "percentage": null,
+        "weight_pct": 6.33,
+        "sector": null
+      },
+      {
+        "name": "State Bank of India",
+        "percentage": null,
+        "weight_pct": 5.32,
         "sector": null
       },
       {
         "name": "Adani Enterprises Ltd",
         "percentage": null,
-        "weight_pct": 4.6,
-        "sector": null
-      },
-      {
-        "name": "Renew Energy Global PLC Forgn. Eq (RNW)",
-        "percentage": null,
-        "weight_pct": 4.35,
+        "weight_pct": 4.37,
         "sector": null
       },
       {
         "name": "Kotak Mahindra Bank Ltd",
         "percentage": null,
-        "weight_pct": 4.21,
+        "weight_pct": 3.95,
         "sector": null
       },
       {
-        "name": "Muthoot Finance Ltd",
+        "name": "Renew Energy Global PLC Forgn. Eq (RNW)",
         "percentage": null,
-        "weight_pct": 4.03,
+        "weight_pct": 3.88,
         "sector": null
       },
       {
         "name": "Hatsun Agro Products Ltd",
         "percentage": null,
-        "weight_pct": 3.9,
+        "weight_pct": 3.67,
         "sector": null
       },
       {
-        "name": "EPAM Systems Inc (EPAM)",
+        "name": "Aequs Ltd.",
         "percentage": null,
-        "weight_pct": 3.52,
+        "weight_pct": 3.38,
+        "sector": null
+      },
+      {
+        "name": "Muthoot Finance Ltd",
+        "percentage": null,
+        "weight_pct": 3.32,
         "sector": null
       }
     ],
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-07-14T04:25:10.195227Z"
+  "last_scraped_at": "2026-07-15T04:25:10.214999Z"
 }
