@@ -15,8 +15,8 @@
     ]
   },
   "nav": {
-    "value": 53.199,
-    "date": "31-Jul-2026",
+    "value": 53.7215,
+    "date": "03-Aug-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -36,10 +36,10 @@
   },
   "risk": {
     "riskometer": "Very High",
-    "standard_deviation": 15.95,
-    "sharpe_ratio": 1.05,
-    "beta": 0.87,
-    "alpha": 10.44
+    "standard_deviation": 15.83,
+    "sharpe_ratio": 0.96,
+    "beta": 0.86,
+    "alpha": 9.45
   },
   "portfolio": {
     "top_holdings": [
@@ -116,7 +116,7 @@
     "turnover_ratio": 162
   },
   "operations": {
-    "expense_ratio": 1.12,
+    "expense_ratio": 1.08,
     "exit_load": "With respect to units not subject to lock-in period and the holding period is less than\r\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year.",
     "min_investment": {
       "sip": 500,
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-08-03T05:01:36.364134Z"
+  "last_scraped_at": "2026-08-04T04:41:02.927207Z"
 }
