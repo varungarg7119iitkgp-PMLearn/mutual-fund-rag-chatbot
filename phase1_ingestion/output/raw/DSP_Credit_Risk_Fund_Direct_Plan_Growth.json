@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 60.6181,
-    "date": "05-Aug-2026",
+    "value": 60.6551,
+    "date": "06-Aug-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.11,
-    "three_year": 16.91,
-    "five_year": 13.32,
+    "one_year": 11.32,
+    "three_year": 16.92,
+    "five_year": 13.33,
     "since_inception": 7.05,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -35,72 +35,72 @@
     "category_avg_five_year": 9.041288232241179
   },
   "risk": {
-    "riskometer": "High",
-    "standard_deviation": 7.41,
-    "sharpe_ratio": 1.38,
-    "beta": null,
-    "alpha": null
+    "riskometer": "Moderately High",
+    "standard_deviation": 7.405325179710482,
+    "sharpe_ratio": 1.3794605135,
+    "beta": 0,
+    "alpha": 0
   },
   "portfolio": {
     "top_holdings": [
       {
         "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
         "percentage": null,
-        "weight_pct": 9.3,
+        "weight_pct": 8.64,
         "sector": null
       },
       {
         "name": "KOTAK MAHINDRA BANK LIMITED CD 04FEB27",
         "percentage": null,
-        "weight_pct": 8.73,
-        "sector": null
-      },
-      {
-        "name": "Reverse Repo",
-        "percentage": null,
-        "weight_pct": 8.26,
-        "sector": null
-      },
-      {
-        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.84,
-        "sector": null
-      },
-      {
-        "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.82,
+        "weight_pct": 8.16,
         "sector": null
       },
       {
         "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.75,
+        "weight_pct": 7.14,
+        "sector": null
+      },
+      {
+        "name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR I 9 NCD 20JL29 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 6.79,
+        "sector": null
+      },
+      {
+        "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 5.45,
+        "sector": null
+      },
+      {
+        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 5.45,
         "sector": null
       },
       {
         "name": "TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.64,
-        "sector": null
-      },
-      {
-        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25C 7.44 BD 24FB28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.61,
+        "weight_pct": 5.27,
         "sector": null
       },
       {
         "name": "ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.44,
+        "weight_pct": 5.11,
         "sector": null
       },
       {
         "name": "NUVAMA WEALTH FINANCE LIMITED SR F7H502A  9 NCD 11JU27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.94,
+        "weight_pct": 3.68,
+        "sector": null
+      },
+      {
+        "name": "PIRAMAL FINANCE LIMITED 8.75 NCD 29OCT27 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.62,
         "sector": null
       }
     ],
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-08-06T04:40:58.777154Z"
+  "last_scraped_at": "2026-08-07T04:08:49.499311Z"
 }
