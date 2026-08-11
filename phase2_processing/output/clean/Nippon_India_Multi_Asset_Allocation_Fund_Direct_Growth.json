@@ -115,7 +115,7 @@
     "turnover_ratio": 139
   },
   "operations": {
-    "expense_ratio": 0.48,
+    "expense_ratio": 0.47,
     "exit_load": "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months.",
     "min_investment": {
       "sip": 100,
@@ -147,5 +147,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-08-10T03:25:27.377111Z"
+  "last_scraped_at": "2026-08-11T03:17:37.636025Z"
 }
