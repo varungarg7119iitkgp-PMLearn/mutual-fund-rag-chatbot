@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 32.09,
-    "date": "2026-08-12",
+    "value": 32.06,
+    "date": "2026-08-13",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 14.44,
-    "three_year": 19.85,
-    "five_year": 16.53,
+    "one_year": 13.69,
+    "three_year": 19.8,
+    "five_year": 16.37,
     "since_inception": 13.83,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -148,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-08-13T03:39:36.998662Z"
+  "last_scraped_at": "2026-08-14T03:37:06.466844Z"
 }
