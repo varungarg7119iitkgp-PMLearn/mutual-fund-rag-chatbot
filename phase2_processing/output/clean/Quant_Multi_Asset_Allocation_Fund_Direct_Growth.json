@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 183.9636,
-    "date": "2026-08-17",
+    "value": 183.4809,
+    "date": "2026-08-18",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 21.04,
-    "three_year": 23.43,
-    "five_year": 20.6,
+    "one_year": 20.63,
+    "three_year": 23.27,
+    "five_year": 20.7,
     "since_inception": 9.86,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -156,7 +156,8 @@
       "Quant Commodities Fund Direct Growth",
       "Quant Consumption Fund Direct Growth",
       "Quant PSU Fund Direct Growth",
-      "Quant Equity Savings Fund Direct Growth"
+      "Quant Equity Savings Fund Direct Growth",
+      "Quant Income Plus Arbitrage Active FoF Direct Growth"
     ]
   },
   "news_context": [
@@ -171,5 +172,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-08-18T02:40:43.249737Z"
+  "last_scraped_at": "2026-08-19T02:38:00.821218Z"
 }
