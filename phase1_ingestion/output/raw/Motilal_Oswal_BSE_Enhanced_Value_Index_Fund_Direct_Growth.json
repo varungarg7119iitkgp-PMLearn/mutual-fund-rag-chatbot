@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 27.4585,
-    "date": "24-Aug-2026",
+    "value": 27.58,
+    "date": "25-Aug-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.43,
-    "three_year": 23.82,
+    "one_year": 11.92,
+    "three_year": 24.4,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -170,5 +170,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-08-25T02:37:14.922246Z"
+  "last_scraped_at": "2026-08-26T02:46:01.403810Z"
 }

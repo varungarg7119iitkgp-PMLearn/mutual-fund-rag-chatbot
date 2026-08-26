@@ -1,7 +1,7 @@
 {
   "identity": {
     "fund_id": "INF209K01XA9",
-    "name": "Aditya Birla Sun Life Medium Term Plan Direct Growth",
+    "name": "Aditya Birla Sun Life Medium Term Fund Direct Growth",
     "category": "Debt",
     "amc_name": "Aditya Birla Sun Life Mutual Fund",
     "benchmark_name": "CRISIL Medium Duration Debt A-III Index",
@@ -14,16 +14,16 @@
     ]
   },
   "nav": {
-    "value": 47.9751,
-    "date": "24-Aug-2026",
+    "value": 48.007,
+    "date": "25-Aug-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 9.44,
-    "three_year": 10.68,
+    "one_year": 9.63,
+    "three_year": 10.71,
     "five_year": 12.81,
     "since_inception": 4.91,
     "benchmark_one_year": null,
@@ -132,14 +132,14 @@
     "experience_summary": "Prior to joining Aditya Birla Sun Life AMC, he ran his own healthcare-tech business (June 2012 - May 2015). he has also worked as an Interest Rates Trader in Standard Chartered Bank (May 2007 - June 2011) and ICICI Bank Ltd (June 2006 - April 2007). He started his career in the Equity Research in Irevna Ltd (June 2005 - June 2006).",
     "other_funds_managed": [
       "Aditya Birla Sun Life Balanced Advantage Fund Direct Growth",
-      "Aditya Birla Sun Life Dynamic Bond Retail Fund Direct Growth",
-      "Aditya Birla Sun Life Money Manager Fund Direct Growth",
+      "Aditya Birla Sun Life Dynamic Term Retail Fund Direct Growth",
+      "Aditya Birla Sun Life Money Market Fund Direct Growth",
       "Aditya Birla Sun Life Arbitrage Fund Direct Growth",
-      "Aditya Birla Sun Life Medium Term Plan Direct Growth",
-      "Aditya Birla Sun Life Regular Savings Fund Direct Growth",
-      "Aditya Birla Sun Life Regular Savings Fund Direct Growth",
+      "Aditya Birla Sun Life Medium Term Fund Direct Growth",
+      "Aditya Birla Sun Life Conservative Hybrid Fund Direct Growth",
+      "Aditya Birla Sun Life Conservative Hybrid Fund Direct Growth",
       "Aditya Birla Sun Life Short Term Direct Fund Direct Growth",
-      "Aditya Birla Sun Life Low Duration Fund Direct Growth",
+      "Aditya Birla Sun Life Ultra Short to Short Term Fund Direct Growth",
       "Apex Hybrid Long Short Fund Direct Growth",
       "Aditya Birla Sun Life Credit Risk Fund Direct Growth",
       "Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund Direct Growth",
@@ -163,5 +163,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-08-25T02:37:01.731116Z"
+  "last_scraped_at": "2026-08-26T02:45:42.783490Z"
 }
