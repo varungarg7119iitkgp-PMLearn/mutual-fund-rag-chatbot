@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100",
+        "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
         "percentage": null,
-        "weight_pct": 10.31117981,
+        "weight_pct": 12.13463505,
         "sector": null
       },
       {
         "name": "BAJAJ HOUSING FINANCE LIMITED 8.25 NCD 27MY31 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 4.78180485,
+        "weight_pct": 4.66268512,
         "sector": null
       },
       {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26C 7.27 BD 23FB29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.89800379,
+        "weight_pct": 3.79453591,
         "sector": null
       },
       {
         "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.53974741,
+        "weight_pct": 3.45161941,
         "sector": null
       },
       {
         "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.42395798,
-        "sector": null
-      },
-      {
-        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.13111004,
+        "weight_pct": 3.3395806,
         "sector": null
       },
       {
         "name": "OXYZO FINANCIAL SERVICES LIMITED 9.9 NCD 13MR29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.77895088,
+        "weight_pct": 2.7142041,
         "sector": null
       },
       {
         "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.61407062,
+        "weight_pct": 2.56776305,
         "sector": null
       },
       {
         "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.55931171,
+        "weight_pct": 2.51390303,
         "sector": null
       },
       {
         "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.5579416,
+        "weight_pct": 2.50944229,
+        "sector": null
+      },
+      {
+        "name": "Net Receivables",
+        "percentage": null,
+        "weight_pct": 2.37255542,
         "sector": null
       }
     ],
@@ -163,5 +163,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-08-26T02:45:42.783490Z"
+  "last_scraped_at": "2026-08-27T11:45:10.168417Z"
 }

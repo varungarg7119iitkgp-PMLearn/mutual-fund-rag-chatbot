@@ -45,61 +45,61 @@
       {
         "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 7.85,
+        "weight_pct": 8.04,
         "sector": null
       },
       {
         "name": "GOVERNMENT OF INDIA 36232 GOI 21JL30 6.01 FV RS 100",
         "percentage": null,
-        "weight_pct": 6.48,
-        "sector": null
-      },
-      {
-        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.7,
+        "weight_pct": 6.45,
         "sector": null
       },
       {
         "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.68,
+        "weight_pct": 5.85,
+        "sector": null
+      },
+      {
+        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 5.84,
         "sector": null
       },
       {
         "name": "Power Grid Corpn. Of India Ltd. 7.2 09/08/2027",
         "percentage": null,
-        "weight_pct": 5.67,
-        "sector": null
-      },
-      {
-        "name": "GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.67,
-        "sector": null
-      },
-      {
-        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.51,
+        "weight_pct": 5.82,
         "sector": null
       },
       {
         "name": "NIRMA LIMITED SR VII TR C 8.50 NCD 07AP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.5,
+        "weight_pct": 5.65,
         "sector": null
       },
       {
         "name": "POWER FINANCE CORPORATION LIMITED SR 259A 6.96 BD 02MR28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.42,
+        "weight_pct": 5.56,
+        "sector": null
+      },
+      {
+        "name": "GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 5.39,
         "sector": null
       },
       {
         "name": "JSW Kalinga Steel Ltd.",
         "percentage": null,
-        "weight_pct": 4.37,
+        "weight_pct": 4.49,
+        "sector": null
+      },
+      {
+        "name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED 8.80 NCD 26AG27 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.52,
         "sector": null
       }
     ],
@@ -131,15 +131,15 @@
     "tenure_years": null,
     "experience_summary": "Prior to joining HSBC Mutual Fund, he has worked with L&T MF, FIL Fund Management Pvt. Ltd., ING Investment Management, Zurich Asset Management Co., ICICI Ltd., and L&T Ltd.",
     "other_funds_managed": [
-      "HSBC Medium to Long Duration Fund Direct Growth",
+      "HSBC Medium to Long Term Fund Direct Growth",
       "RedHex Hybrid Long Short Fund Direct Growth",
       "HSBC Gilt Fund Direct Growth",
-      "HSBC Low Duration Fund Direct Growth",
-      "HSBC Dynamic Bond Fund Direct Growth",
+      "HSBC Ultra Short to Short Term Fund Direct Growth",
+      "HSBC Dynamic Term Fund Direct Growth",
       "HSBC Corporate Bond Direct Growth",
-      "HSBC Short Duration Fund Direct Growth",
+      "HSBC Short Term Fund Direct Growth",
       "HSBC Aggressive Hybrid Fund Direct Growth",
-      "HSBC Medium Duration Fund Direct Growth",
+      "HSBC Medium Term Fund Direct Growth",
       "HSBC Credit Risk Fund Direct Growth"
     ]
   },
@@ -155,5 +155,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-08-26T02:45:39.472784Z"
+  "last_scraped_at": "2026-08-27T11:45:06.802117Z"
 }

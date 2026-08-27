@@ -1,7 +1,7 @@
 {
   "identity": {
     "fund_id": "INF179K01XZ1",
-    "name": "HDFC Hybrid Equity Fund Direct Plan Growth",
+    "name": "HDFC Aggressive Hybrid Fund Direct Plan Growth",
     "category": "Hybrid",
     "amc_name": "HDFC Mutual Fund",
     "benchmark_name": "NIFTY 50 Hybrid Composite Debt 65:35 Index",
@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 125.505,
-    "date": "2026-08-25",
+    "value": 125.609,
+    "date": "2026-08-26",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": -1.94,
-    "three_year": 7.83,
-    "five_year": 9.61,
+    "one_year": -1.11,
+    "three_year": 7.85,
+    "five_year": 9.64,
     "since_inception": 11.8,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -45,61 +45,61 @@
       {
         "name": "ICICI Bank Ltd",
         "percentage": null,
-        "weight_pct": 7.19,
+        "weight_pct": 7.14,
         "sector": null
       },
       {
         "name": "HDFC Bank Ltd",
         "percentage": null,
-        "weight_pct": 6.74,
+        "weight_pct": 6.27,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd",
         "percentage": null,
-        "weight_pct": 4.28,
-        "sector": null
-      },
-      {
-        "name": "Axis Bank Ltd",
-        "percentage": null,
-        "weight_pct": 3.31,
+        "weight_pct": 4.3,
         "sector": null
       },
       {
         "name": "Kotak Mahindra Bank Ltd",
         "percentage": null,
-        "weight_pct": 3.07,
+        "weight_pct": 3.03,
+        "sector": null
+      },
+      {
+        "name": "Axis Bank Ltd",
+        "percentage": null,
+        "weight_pct": 3,
         "sector": null
       },
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 2.89,
+        "weight_pct": 2.87,
         "sector": null
       },
       {
         "name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
         "percentage": null,
-        "weight_pct": 2.61,
-        "sector": null
-      },
-      {
-        "name": "Larsen & Toubro Ltd",
-        "percentage": null,
-        "weight_pct": 2.24,
+        "weight_pct": 2.54,
         "sector": null
       },
       {
         "name": "Infosys Ltd",
         "percentage": null,
-        "weight_pct": 2.15,
+        "weight_pct": 2.16,
+        "sector": null
+      },
+      {
+        "name": "Larsen & Toubro Ltd",
+        "percentage": null,
+        "weight_pct": 2.11,
         "sector": null
       },
       {
         "name": "Bharti Airtel Ltd",
         "percentage": null,
-        "weight_pct": 1.99,
+        "weight_pct": 2.1,
         "sector": null
       }
     ],
@@ -132,13 +132,13 @@
     "experience_summary": "Prior to joining HDFC Asset Management Company Limited, he has worked with Mahindra Mutual Fund, IDBI Federal Life Insurance, IIFL Capital Limited, Maybank Kim Eng, Credit Suisse and KPMG Advisory.",
     "other_funds_managed": [
       "HDFC Balanced Advantage Fund Direct Growth",
-      "HDFC Hybrid Debt Fund Direct Growth",
+      "HDFC Conservative Hybrid Fund Direct Growth",
       "HDFC Equity Savings Direct Plan Growth",
       "HDFC Multi Asset Allocation Fund Direct Growth",
-      "HDFC Hybrid Equity Fund Direct Plan Growth",
-      "HDFC Retirement Savings Fund Equity Plan Direct Growth",
-      "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
-      "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+      "HDFC Aggressive Hybrid Fund Direct Plan Growth",
+      "HDFC Retirement Fund Equity Plan Direct Growth",
+      "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
+      "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
       "HDFC Housing Opportunities Fund Direct Growth",
       "HDFC Multi Asset Active FoF Direct Growth",
       "HDFC Diversified Equity All Cap Active FoF Direct Growth"
@@ -156,5 +156,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-08-26T02:45:58.410288Z"
+  "last_scraped_at": "2026-08-27T11:45:25.375440Z"
 }

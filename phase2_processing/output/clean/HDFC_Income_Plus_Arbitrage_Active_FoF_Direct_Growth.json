@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 45.7132,
-    "date": "2026-08-25",
+    "value": 45.6698,
+    "date": "2026-08-26",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 5.92,
-    "three_year": 9.32,
-    "five_year": 10.94,
+    "one_year": 5.91,
+    "three_year": 9.27,
+    "five_year": 10.92,
     "since_inception": 10.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,31 +46,31 @@
       {
         "name": "HDFC Medium Term Opportunities Direct Plan-Growth",
         "percentage": null,
-        "weight_pct": 44.82,
+        "weight_pct": 45.25,
         "sector": null
       },
       {
         "name": "HDFC Arbitrage Fund Direct-Growth",
         "percentage": null,
-        "weight_pct": 36.5,
+        "weight_pct": 37.06,
         "sector": null
       },
       {
         "name": "HDFC Money Market Fund Direct-Growth",
         "percentage": null,
-        "weight_pct": 17.85,
+        "weight_pct": 16.88,
         "sector": null
       },
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 2.03,
+        "weight_pct": 0.86,
         "sector": null
       },
       {
         "name": "Net Payables",
         "percentage": null,
-        "weight_pct": -1.2,
+        "weight_pct": -0.05,
         "sector": null
       }
     ],
@@ -94,7 +94,7 @@
     },
     "fund_size_cr": null,
     "launch_date": null,
-    "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+    "taxation": "Returns are taxed as per your Income Tax slab."
   },
   "fund_manager": {
     "name": "Anil Bamboli",
@@ -102,14 +102,14 @@
     "tenure_years": null,
     "experience_summary": "Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years.",
     "other_funds_managed": [
-      "HDFC Floating Rate Debt Fund Direct Plan Growth",
+      "HDFC Floating Interest Rates Fund Direct Plan Growth",
       "HDFC Gilt Fund Direct Growth",
       "HDFC Balanced Advantage Fund Direct Growth",
-      "HDFC Dynamic Debt Fund Direct Plan Growth",
-      "HDFC Medium Term Debt Fund Direct Growth",
+      "HDFC Dynamic Term Fund Direct Plan Growth",
+      "HDFC Medium Term Fund Direct Growth",
       "HDFC Equity Savings Direct Plan Growth",
       "HDFC Multi Asset Allocation Fund Direct Growth",
-      "HDFC Short Term Debt Fund Direct Plan Growth",
+      "HDFC Short Term Fund Direct Plan Growth",
       "HDFC Banking and PSU Debt Fund Direct Growth",
       "HDFC Arbitrage Fund Direct Growth",
       "HDFC Income Plus Arbitrage Active FoF Direct Growth",
@@ -130,5 +130,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-08-26T02:45:33.325490Z"
+  "last_scraped_at": "2026-08-27T11:45:00.972840Z"
 }
