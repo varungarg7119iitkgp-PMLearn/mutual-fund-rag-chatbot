@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 78.52,
-    "date": "2026-08-31",
+    "value": 77.66,
+    "date": "2026-09-01",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 10.59,
-    "three_year": 22.84,
-    "five_year": 22.17,
+    "one_year": 7.79,
+    "three_year": 21.45,
+    "five_year": 21.86,
     "since_inception": 11.34,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 23
   },
   "operations": {
-    "expense_ratio": 1.25,
+    "expense_ratio": 1.24,
     "exit_load": "Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year.",
     "min_investment": {
       "sip": 100,
@@ -134,7 +134,7 @@
     "other_funds_managed": [
       "Invesco India Aggressive Hybrid Fund Direct Growth",
       "Invesco India Financial Services Fund Direct Growth",
-      "Invesco India Largecap Fund Direct Growth",
+      "Invesco India Large Cap Fund Direct Growth",
       "Invesco India PSU Equity Fund Direct Growth",
       "Summit Equity Long Short Fund Direct Growth",
       "Invesco India Focused Fund Direct Growth",
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-09-01T06:30:32.961419Z"
+  "last_scraped_at": "2026-09-02T06:09:23.725286Z"
 }
