@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
+        "name": "ERIS LIFESCIENCES LIMITED STRPP II 8.73 NCD 07JU27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 6.90502371,
-        "sector": null
-      },
-      {
-        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 25G 7.48 BD 15SP28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 4.89771722,
+        "weight_pct": 4.63336785,
         "sector": null
       },
       {
         "name": "JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 4.7185124,
+        "weight_pct": 4.54199149,
         "sector": null
       },
       {
-        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
+        "name": "SK FINANCE LIMITED 9.1 NCD 10AG29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.77111357,
+        "weight_pct": 4.00692666,
         "sector": null
       },
       {
-        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
+        "name": "ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.57284811,
-        "sector": null
-      },
-      {
-        "name": "REC LIMITED SR 223B 7.46 BD 30JU28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.27133472,
-        "sector": null
-      },
-      {
-        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.2134524,
-        "sector": null
-      },
-      {
-        "name": "TATA CAPITAL HOUSING FINANCE LIMITED SR C 7.79 NCD 18JU30 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 2.9198352,
+        "weight_pct": 3.71124223,
         "sector": null
       },
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 2.53330954,
+        "weight_pct": 3.66207702,
         "sector": null
       },
       {
-        "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
+        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.27464455,
+        "weight_pct": 3.62304099,
+        "sector": null
+      },
+      {
+        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.43807866,
+        "sector": null
+      },
+      {
+        "name": "REC LIMITED SR 223B 7.46 BD 30JU28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.11933145,
+        "sector": null
+      },
+      {
+        "name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.06070947,
+        "sector": null
+      },
+      {
+        "name": "Net Receivables",
+        "percentage": null,
+        "weight_pct": 2.92299999,
         "sector": null
       }
     ],
@@ -163,5 +163,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:08:31.412950Z"
+  "last_scraped_at": "2026-09-13T06:30:36.160787Z"
 }

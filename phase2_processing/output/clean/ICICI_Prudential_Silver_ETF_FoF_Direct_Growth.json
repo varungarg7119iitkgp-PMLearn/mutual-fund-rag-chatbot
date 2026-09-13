@@ -46,19 +46,19 @@
       {
         "name": "ICICI Prudential Silver ETF - Growth",
         "percentage": null,
-        "weight_pct": 99.96600605,
+        "weight_pct": 99.95880223,
         "sector": null
       },
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 0.15425047,
+        "weight_pct": 0.36371218,
         "sector": null
       },
       {
         "name": "Net Payables",
         "percentage": null,
-        "weight_pct": -0.12025653,
+        "weight_pct": -0.32251442,
         "sector": null
       }
     ],
@@ -130,5 +130,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:08:15.575484Z"
+  "last_scraped_at": "2026-09-13T06:30:22.611217Z"
 }

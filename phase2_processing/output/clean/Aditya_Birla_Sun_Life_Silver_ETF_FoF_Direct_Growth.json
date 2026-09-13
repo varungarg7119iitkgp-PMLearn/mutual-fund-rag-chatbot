@@ -45,19 +45,19 @@
       {
         "name": "Aditya Birla Sun Life Silver ETF-Growth",
         "percentage": null,
-        "weight_pct": 99.95381608,
+        "weight_pct": 99.98845413,
         "sector": null
       },
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 0.17897641,
+        "weight_pct": 0.2138468,
         "sector": null
       },
       {
         "name": "Net Payables",
         "percentage": null,
-        "weight_pct": -0.13279249,
+        "weight_pct": -0.20199999,
         "sector": null
       }
     ],
@@ -115,5 +115,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:08:21.632207Z"
+  "last_scraped_at": "2026-09-13T06:30:28.057431Z"
 }

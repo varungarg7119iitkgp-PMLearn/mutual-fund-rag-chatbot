@@ -45,7 +45,7 @@
       {
         "name": "Nippon India Silver ETF - Growth",
         "percentage": null,
-        "weight_pct": 99.99,
+        "weight_pct": 100.02,
         "sector": null
       },
       {
@@ -57,13 +57,13 @@
       {
         "name": "Others Mrgn Money",
         "percentage": null,
-        "weight_pct": 0.00114017,
+        "weight_pct": 0.00104791,
         "sector": null
       },
       {
         "name": "Net Payables",
         "percentage": null,
-        "weight_pct": -0.17,
+        "weight_pct": -0.2,
         "sector": null
       }
     ],
@@ -120,5 +120,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:08:18.610310Z"
+  "last_scraped_at": "2026-09-13T06:30:25.045125Z"
 }

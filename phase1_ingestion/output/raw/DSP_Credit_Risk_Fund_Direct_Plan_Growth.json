@@ -46,61 +46,61 @@
       {
         "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
         "percentage": null,
-        "weight_pct": 8.64,
+        "weight_pct": 8.24,
         "sector": null
       },
       {
         "name": "KOTAK MAHINDRA BANK LIMITED CD 04FEB27",
         "percentage": null,
-        "weight_pct": 8.16,
+        "weight_pct": 7.85,
         "sector": null
       },
       {
         "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 7.14,
+        "weight_pct": 6.84,
         "sector": null
       },
       {
         "name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR I 9 NCD 20JL29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 6.79,
-        "sector": null
-      },
-      {
-        "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.45,
-        "sector": null
-      },
-      {
-        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.45,
-        "sector": null
-      },
-      {
-        "name": "TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 5.27,
+        "weight_pct": 6.49,
         "sector": null
       },
       {
         "name": "ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.11,
+        "weight_pct": 6.48,
         "sector": null
       },
       {
-        "name": "NUVAMA WEALTH FINANCE LIMITED SR F7H502A  9 NCD 11JU27 FVRS1LAC",
+        "name": "Reverse Repo",
         "percentage": null,
-        "weight_pct": 3.68,
+        "weight_pct": 5.76,
         "sector": null
       },
       {
-        "name": "PIRAMAL FINANCE LIMITED 8.75 NCD 29OCT27 FVRS1LAC",
+        "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 3.62,
+        "weight_pct": 5.24,
+        "sector": null
+      },
+      {
+        "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 5.22,
+        "sector": null
+      },
+      {
+        "name": "TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 5.04,
+        "sector": null
+      },
+      {
+        "name": "GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.48,
         "sector": null
       }
     ],
@@ -149,5 +149,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:08:24.661722Z"
+  "last_scraped_at": "2026-09-13T06:30:30.614596Z"
 }

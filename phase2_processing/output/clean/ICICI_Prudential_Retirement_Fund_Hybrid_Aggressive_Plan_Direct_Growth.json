@@ -45,61 +45,61 @@
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 9.24759035,
+        "weight_pct": 6.18869422,
         "sector": null
       },
       {
-        "name": "Mahindra & Mahindra Ltd",
+        "name": "Life Insurance Corporation of India",
         "percentage": null,
-        "weight_pct": 2.51711274,
+        "weight_pct": 4.44859349,
         "sector": null
       },
       {
         "name": "Titan Company Ltd",
         "percentage": null,
-        "weight_pct": 2.45696625,
+        "weight_pct": 2.47941256,
         "sector": null
       },
       {
-        "name": "HDFC Bank Ltd",
+        "name": "Mahindra & Mahindra Ltd",
         "percentage": null,
-        "weight_pct": 2.40749344,
+        "weight_pct": 2.34380466,
         "sector": null
       },
       {
         "name": "VEDANTA LIMITED SR I 9.31 NCD 03DC27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.38117444,
+        "weight_pct": 2.29462625,
         "sector": null
       },
       {
         "name": "Samvardhana Motherson International Ltd",
         "percentage": null,
-        "weight_pct": 2.08473814,
+        "weight_pct": 2.27584547,
+        "sector": null
+      },
+      {
+        "name": "HDFC Bank Ltd",
+        "percentage": null,
+        "weight_pct": 2.19982871,
+        "sector": null
+      },
+      {
+        "name": "Indegene Ltd.",
+        "percentage": null,
+        "weight_pct": 2.08970361,
+        "sector": null
+      },
+      {
+        "name": "Swiggy Ltd.",
+        "percentage": null,
+        "weight_pct": 2.00722717,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd",
         "percentage": null,
-        "weight_pct": 1.98300433,
-        "sector": null
-      },
-      {
-        "name": "Tech Mahindra Ltd",
-        "percentage": null,
-        "weight_pct": 1.87671515,
-        "sector": null
-      },
-      {
-        "name": "Kirloskar Oil Engines Ltd",
-        "percentage": null,
-        "weight_pct": 1.85706426,
-        "sector": null
-      },
-      {
-        "name": "Kotak Mahindra Bank Ltd",
-        "percentage": null,
-        "weight_pct": 1.76563499,
+        "weight_pct": 1.86698465,
         "sector": null
       }
     ],
@@ -148,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:08:48.422291Z"
+  "last_scraped_at": "2026-09-13T06:30:51.328540Z"
 }

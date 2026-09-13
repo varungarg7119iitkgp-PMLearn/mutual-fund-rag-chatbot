@@ -45,61 +45,61 @@
       {
         "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 8.04,
+        "weight_pct": 8.12,
         "sector": null
       },
       {
         "name": "GOVERNMENT OF INDIA 36232 GOI 21JL30 6.01 FV RS 100",
         "percentage": null,
-        "weight_pct": 6.45,
+        "weight_pct": 6.51,
         "sector": null
       },
       {
         "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.85,
+        "weight_pct": 5.92,
         "sector": null
       },
       {
         "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.84,
-        "sector": null
-      },
-      {
-        "name": "Power Grid Corpn. Of India Ltd. 7.2 09/08/2027",
-        "percentage": null,
-        "weight_pct": 5.82,
+        "weight_pct": 5.9,
         "sector": null
       },
       {
         "name": "NIRMA LIMITED SR VII TR C 8.50 NCD 07AP27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.65,
+        "weight_pct": 5.73,
         "sector": null
       },
       {
         "name": "POWER FINANCE CORPORATION LIMITED SR 259A 6.96 BD 02MR28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.56,
+        "weight_pct": 5.61,
+        "sector": null
+      },
+      {
+        "name": "Power Grid Corpn. Of India Ltd. 7.2 09/08/2027",
+        "percentage": null,
+        "weight_pct": 5.49,
         "sector": null
       },
       {
         "name": "GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 5.39,
+        "weight_pct": 5.45,
+        "sector": null
+      },
+      {
+        "name": "Repo",
+        "percentage": null,
+        "weight_pct": 5.44,
         "sector": null
       },
       {
         "name": "JSW Kalinga Steel Ltd.",
         "percentage": null,
-        "weight_pct": 4.49,
-        "sector": null
-      },
-      {
-        "name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED 8.80 NCD 26AG27 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.52,
+        "weight_pct": 4.53,
         "sector": null
       }
     ],
@@ -155,5 +155,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:08:35.487202Z"
+  "last_scraped_at": "2026-09-13T06:30:39.464270Z"
 }

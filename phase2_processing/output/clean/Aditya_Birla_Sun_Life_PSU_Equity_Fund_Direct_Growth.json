@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 17.5476852,
+        "weight_pct": 17.84778319,
         "sector": null
       },
       {
         "name": "NTPC Ltd",
         "percentage": null,
-        "weight_pct": 7.65279919,
-        "sector": null
-      },
-      {
-        "name": "Power Grid Corporation of India Ltd",
-        "percentage": null,
-        "weight_pct": 6.70966968,
+        "weight_pct": 7.11303401,
         "sector": null
       },
       {
         "name": "Bharat Heavy Electricals Ltd",
         "percentage": null,
-        "weight_pct": 6.3202511,
+        "weight_pct": 6.77639207,
         "sector": null
       },
       {
-        "name": "GAIL (India) Ltd",
+        "name": "Power Grid Corporation of India Ltd",
         "percentage": null,
-        "weight_pct": 5.11800866,
+        "weight_pct": 6.13284192,
         "sector": null
       },
       {
         "name": "Bharat Electronics Ltd",
         "percentage": null,
-        "weight_pct": 4.62796972,
+        "weight_pct": 4.87525139,
         "sector": null
       },
       {
         "name": "Bank of Maharashtra",
         "percentage": null,
-        "weight_pct": 4.32110238,
+        "weight_pct": 4.40696655,
         "sector": null
       },
       {
         "name": "Union Bank of India",
         "percentage": null,
-        "weight_pct": 3.93167377,
+        "weight_pct": 4.26954027,
         "sector": null
       },
       {
-        "name": "Bharat Petroleum Corporation Ltd",
+        "name": "GAIL (India) Ltd",
         "percentage": null,
-        "weight_pct": 3.51310442,
+        "weight_pct": 3.82663845,
         "sector": null
       },
       {
         "name": "PNB Housing Finance Ltd",
         "percentage": null,
-        "weight_pct": 3.44287597,
+        "weight_pct": 3.7021721,
+        "sector": null
+      },
+      {
+        "name": "Bharat Petroleum Corporation Ltd",
+        "percentage": null,
+        "weight_pct": 3.50986785,
         "sector": null
       }
     ],
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-09-12T06:09:05.778578Z"
+  "last_scraped_at": "2026-09-13T06:31:07.129042Z"
 }
