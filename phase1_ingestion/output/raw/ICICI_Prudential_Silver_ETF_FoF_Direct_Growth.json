@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 34.7266,
-    "date": "11-Sep-2026",
+    "value": 34.3509,
+    "date": "15-Sep-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 78.87,
-    "three_year": 44.86,
+    "one_year": 73.08,
+    "three_year": 44.2,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -130,5 +130,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-09-15T06:24:04.244662Z"
+  "last_scraped_at": "2026-09-16T06:22:17.505575Z"
 }
