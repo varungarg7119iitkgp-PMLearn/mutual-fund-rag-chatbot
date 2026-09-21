@@ -44,63 +44,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Repo",
-        "percentage": null,
-        "weight_pct": 11.365633,
-        "sector": null
-      },
-      {
         "name": "Net Current Assets",
         "percentage": null,
-        "weight_pct": 10.782469,
+        "weight_pct": 14.99505,
         "sector": null
       },
       {
-        "name": "ICICI Bank Ltd",
+        "name": "Others Fixed Deposits",
         "percentage": null,
-        "weight_pct": 9.360743,
+        "weight_pct": 9.429396,
+        "sector": null
+      },
+      {
+        "name": "Reliance Industries Ltd",
+        "percentage": null,
+        "weight_pct": 9.253406,
         "sector": null
       },
       {
         "name": "Nippon India ETF Gold BeES IDCW",
         "percentage": null,
-        "weight_pct": 8.507542,
+        "weight_pct": 9.006375,
         "sector": null
       },
       {
         "name": "Bharti Airtel Ltd",
         "percentage": null,
-        "weight_pct": 8.364074,
+        "weight_pct": 8.752468,
         "sector": null
       },
       {
         "name": "Adani Enterprises Ltd",
         "percentage": null,
-        "weight_pct": 7.419642,
+        "weight_pct": 6.863746,
         "sector": null
       },
       {
         "name": "Adani Green Energy Ltd",
         "percentage": null,
-        "weight_pct": 6.921381,
+        "weight_pct": 5.920445,
+        "sector": null
+      },
+      {
+        "name": "ICICI Bank Ltd",
+        "percentage": null,
+        "weight_pct": 5.79633,
         "sector": null
       },
       {
         "name": "Aurobindo Pharma Ltd",
         "percentage": null,
-        "weight_pct": 4.468118,
-        "sector": null
-      },
-      {
-        "name": "HDFC Life Insurance Co Ltd",
-        "percentage": null,
-        "weight_pct": 3.621826,
+        "weight_pct": 4.727441,
         "sector": null
       },
       {
         "name": "Indus Towers Ltd",
         "percentage": null,
-        "weight_pct": 3.455815,
+        "weight_pct": 3.345278,
         "sector": null
       }
     ],
@@ -172,5 +172,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-09-20T06:37:46.901771Z"
+  "last_scraped_at": "2026-09-21T06:44:42.162962Z"
 }
