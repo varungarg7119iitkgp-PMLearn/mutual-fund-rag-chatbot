@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 37.3682,
-    "date": "21-Sep-2026",
+    "value": 37.234,
+    "date": "22-Sep-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 4.98,
-    "three_year": 20.25,
-    "five_year": 23.59,
+    "one_year": 4.89,
+    "three_year": 19.61,
+    "five_year": 23.34,
     "since_inception": 3.93,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -153,5 +153,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-09-22T06:32:24.278094Z"
+  "last_scraped_at": "2026-09-23T06:17:45.384935Z"
 }
