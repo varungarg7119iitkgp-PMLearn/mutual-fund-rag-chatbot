@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 38.12,
-    "date": "07-Oct-2026",
+    "value": 37.35,
+    "date": "08-Oct-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 4.12,
-    "three_year": 17.78,
-    "five_year": 20.95,
+    "one_year": 3.01,
+    "three_year": 16.97,
+    "five_year": 20.56,
     "since_inception": 16.04,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 17.84778319,
+        "weight_pct": 16.98941127,
         "sector": null
       },
       {
         "name": "NTPC Ltd",
         "percentage": null,
-        "weight_pct": 7.11303401,
+        "weight_pct": 7.37390258,
         "sector": null
       },
       {
         "name": "Bharat Heavy Electricals Ltd",
         "percentage": null,
-        "weight_pct": 6.77639207,
+        "weight_pct": 6.6890429,
         "sector": null
       },
       {
         "name": "Power Grid Corporation of India Ltd",
         "percentage": null,
-        "weight_pct": 6.13284192,
+        "weight_pct": 6.37472469,
         "sector": null
       },
       {
         "name": "Bharat Electronics Ltd",
         "percentage": null,
-        "weight_pct": 4.87525139,
-        "sector": null
-      },
-      {
-        "name": "Bank of Maharashtra",
-        "percentage": null,
-        "weight_pct": 4.40696655,
+        "weight_pct": 4.8033825,
         "sector": null
       },
       {
         "name": "Union Bank of India",
         "percentage": null,
-        "weight_pct": 4.26954027,
+        "weight_pct": 4.65860685,
+        "sector": null
+      },
+      {
+        "name": "Bank of Maharashtra",
+        "percentage": null,
+        "weight_pct": 4.48194602,
         "sector": null
       },
       {
         "name": "GAIL (India) Ltd",
         "percentage": null,
-        "weight_pct": 3.82663845,
+        "weight_pct": 3.86656902,
         "sector": null
       },
       {
         "name": "PNB Housing Finance Ltd",
         "percentage": null,
-        "weight_pct": 3.7021721,
+        "weight_pct": 3.79597124,
         "sector": null
       },
       {
-        "name": "Bharat Petroleum Corporation Ltd",
+        "name": "Life Insurance Corporation of India",
         "percentage": null,
-        "weight_pct": 3.50986785,
+        "weight_pct": 3.48725842,
         "sector": null
       }
     ],
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-10-08T07:46:22.210922Z"
+  "last_scraped_at": "2026-10-09T07:43:16.699068Z"
 }
