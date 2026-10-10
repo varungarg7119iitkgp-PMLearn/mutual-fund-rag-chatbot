@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 52.7386,
-    "date": "08-Oct-2026",
+    "value": 53.0082,
+    "date": "09-Oct-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 14.44,
-    "three_year": 20.83,
-    "five_year": 18.89,
+    "one_year": 13.58,
+    "three_year": 20.76,
+    "five_year": 18.4,
     "since_inception": 117.29,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "Repo",
         "percentage": null,
-        "weight_pct": 6.88,
+        "weight_pct": 13.00522272,
         "sector": null
       },
       {
         "name": "Alphabet Inc Forgn. Eq (GOOGL)",
         "percentage": null,
-        "weight_pct": 5.42,
-        "sector": null
-      },
-      {
-        "name": "State Bank of India",
-        "percentage": null,
-        "weight_pct": 4.91,
+        "weight_pct": 5.40095166,
         "sector": null
       },
       {
         "name": "Thangamayil Jewellery Ltd",
         "percentage": null,
-        "weight_pct": 4.88,
+        "weight_pct": 4.45751134,
+        "sector": null
+      },
+      {
+        "name": "State Bank of India",
+        "percentage": null,
+        "weight_pct": 4.3452999,
         "sector": null
       },
       {
         "name": "Hatsun Agro Products Ltd",
         "percentage": null,
-        "weight_pct": 4.25,
+        "weight_pct": 3.82956758,
         "sector": null
       },
       {
         "name": "Renew Energy Global PLC Forgn. Eq (RNW)",
         "percentage": null,
-        "weight_pct": 3.81,
+        "weight_pct": 3.76597942,
         "sector": null
       },
       {
         "name": "Kotak Mahindra Bank Ltd",
         "percentage": null,
-        "weight_pct": 3.78,
-        "sector": null
-      },
-      {
-        "name": "Life Insurance Corporation of India",
-        "percentage": null,
-        "weight_pct": 3.77,
+        "weight_pct": 3.67203127,
         "sector": null
       },
       {
         "name": "Adani Enterprises Ltd",
         "percentage": null,
-        "weight_pct": 3.68,
+        "weight_pct": 3.65240685,
         "sector": null
       },
       {
-        "name": "EID-Parry (India) Ltd",
+        "name": "Aequs Ltd.",
         "percentage": null,
-        "weight_pct": 3.48,
+        "weight_pct": 3.51579068,
+        "sector": null
+      },
+      {
+        "name": "Sona BLW Precision Forgings Ltd",
+        "percentage": null,
+        "weight_pct": 3.44559563,
         "sector": null
       }
     ],
@@ -150,5 +150,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-10-09T07:42:52.766215Z"
+  "last_scraped_at": "2026-10-10T07:28:45.474626Z"
 }
