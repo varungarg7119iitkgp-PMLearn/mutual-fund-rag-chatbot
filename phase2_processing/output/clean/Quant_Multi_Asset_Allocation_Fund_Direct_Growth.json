@@ -46,61 +46,61 @@
       {
         "name": "Net Current Assets",
         "percentage": null,
-        "weight_pct": 14.99505,
+        "weight_pct": 15.543919,
         "sector": null
       },
       {
-        "name": "Others Fixed Deposits",
+        "name": "Repo",
         "percentage": null,
-        "weight_pct": 9.429396,
+        "weight_pct": 10.083524,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd",
         "percentage": null,
-        "weight_pct": 9.253406,
+        "weight_pct": 8.496483,
         "sector": null
       },
       {
         "name": "Nippon India ETF Gold BeES IDCW",
         "percentage": null,
-        "weight_pct": 9.006375,
+        "weight_pct": 8.496284,
         "sector": null
       },
       {
         "name": "Bharti Airtel Ltd",
         "percentage": null,
-        "weight_pct": 8.752468,
+        "weight_pct": 8.383895,
         "sector": null
       },
       {
         "name": "Adani Enterprises Ltd",
         "percentage": null,
-        "weight_pct": 6.863746,
+        "weight_pct": 6.885199,
         "sector": null
       },
       {
         "name": "Adani Green Energy Ltd",
         "percentage": null,
-        "weight_pct": 5.920445,
+        "weight_pct": 6.152087,
         "sector": null
       },
       {
         "name": "ICICI Bank Ltd",
         "percentage": null,
-        "weight_pct": 5.79633,
-        "sector": null
-      },
-      {
-        "name": "Aurobindo Pharma Ltd",
-        "percentage": null,
-        "weight_pct": 4.727441,
+        "weight_pct": 5.204743,
         "sector": null
       },
       {
         "name": "Indus Towers Ltd",
         "percentage": null,
-        "weight_pct": 3.345278,
+        "weight_pct": 4.589057,
+        "sector": null
+      },
+      {
+        "name": "Aurobindo Pharma Ltd",
+        "percentage": null,
+        "weight_pct": 4.54747,
         "sector": null
       }
     ],
@@ -172,5 +172,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-10-10T07:28:48.589978Z"
+  "last_scraped_at": "2026-10-11T07:34:01.181018Z"
 }
