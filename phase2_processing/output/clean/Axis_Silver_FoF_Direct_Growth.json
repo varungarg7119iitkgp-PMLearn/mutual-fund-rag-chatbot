@@ -15,16 +15,16 @@
     ]
   },
   "nav": {
-    "value": 37.6309,
-    "date": "2026-10-09",
+    "value": 37.4872,
+    "date": "2026-10-12",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 35.58,
-    "three_year": 44.4,
+    "one_year": 33.86,
+    "three_year": 44.08,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -108,5 +108,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/axis-silver-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-10-12T07:41:11.812024Z"
+  "last_scraped_at": "2026-10-13T08:01:30.784490Z"
 }
