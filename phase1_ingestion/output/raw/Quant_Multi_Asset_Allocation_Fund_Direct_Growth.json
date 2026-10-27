@@ -15,8 +15,8 @@
     ]
   },
   "nav": {
-    "value": 174.3125,
-    "date": "23-Oct-2026",
+    "value": 175.9867,
+    "date": "26-Oct-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
@@ -116,7 +116,7 @@
     "turnover_ratio": 0
   },
   "operations": {
-    "expense_ratio": 1.13,
+    "expense_ratio": 1.2,
     "exit_load": "Exit load of 1%, if redeemed within 15 days.",
     "min_investment": {
       "sip": 1000,
@@ -172,5 +172,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-10-26T06:43:02.844948Z"
+  "last_scraped_at": "2026-10-27T06:35:02.959026Z"
 }
