@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 48.0587,
-    "date": "03-Nov-2026",
+    "value": 48.1635,
+    "date": "04-Nov-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 7.7,
-    "three_year": 10.42,
-    "five_year": 12.58,
+    "one_year": 7.88,
+    "three_year": 10.49,
+    "five_year": 12.62,
     "since_inception": 4.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Repo",
-        "percentage": null,
-        "weight_pct": 12.04878887,
-        "sector": null
-      },
-      {
         "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
         "percentage": null,
-        "weight_pct": 7.15146143,
+        "weight_pct": 17.80808239,
         "sector": null
       },
       {
-        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26C 7.27 BD 23FB29 FVRS1LAC",
+        "name": "Repo",
         "percentage": null,
-        "weight_pct": 3.663209,
-        "sector": null
-      },
-      {
-        "name": "GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100",
-        "percentage": null,
-        "weight_pct": 3.46072162,
-        "sector": null
-      },
-      {
-        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.34134867,
-        "sector": null
-      },
-      {
-        "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.24595221,
-        "sector": null
-      },
-      {
-        "name": "CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD79 8.66 NCD 23FB33 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 3.05170336,
-        "sector": null
-      },
-      {
-        "name": "HDFC Bank Ltd (15-Jan-2027)",
-        "percentage": null,
-        "weight_pct": 2.91055364,
-        "sector": null
-      },
-      {
-        "name": "OXYZO FINANCIAL SERVICES LIMITED 9.9 NCD 13MR29 FVRS1LAC",
-        "percentage": null,
-        "weight_pct": 2.64423567,
+        "weight_pct": 6.24618497,
         "sector": null
       },
       {
         "name": "Net Receivables",
         "percentage": null,
-        "weight_pct": 2.61199999,
+        "weight_pct": 3.73482401,
+        "sector": null
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26C 7.27 BD 23FB29 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.65683005,
+        "sector": null
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.34050712,
+        "sector": null
+      },
+      {
+        "name": "HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.24428754,
+        "sector": null
+      },
+      {
+        "name": "CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD79 8.66 NCD 23FB33 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 3.02483877,
+        "sector": null
+      },
+      {
+        "name": "HDFC Bank Ltd (15-Jan-2027)",
+        "percentage": null,
+        "weight_pct": 2.94561873,
+        "sector": null
+      },
+      {
+        "name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 2.92743553,
+        "sector": null
+      },
+      {
+        "name": "OXYZO FINANCIAL SERVICES LIMITED 9.9 NCD 13MR29 FVRS1LAC",
+        "percentage": null,
+        "weight_pct": 2.65779883,
         "sector": null
       }
     ],
@@ -162,5 +162,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-11-04T07:45:21.428830Z"
+  "last_scraped_at": "2026-11-05T08:09:24.984636Z"
 }
