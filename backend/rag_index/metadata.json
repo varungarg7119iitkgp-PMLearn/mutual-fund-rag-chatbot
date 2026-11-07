@@ -1,30 +1,30 @@
 [
   {
-    "chunk_id": "cf6365a9-726a-4917-9207-dd8537e751c4",
-    "text": "Aditya Birla Sun Life Credit Risk Fund Direct Growth is a Debt mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-05 is ₹28.32.",
+    "chunk_id": "93aed37e-9cb0-441d-be2a-9f4dea8509d3",
+    "text": "Aditya Birla Sun Life Credit Risk Fund Direct Growth is a Debt mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-06 is ₹28.32.",
     "metadata": {
       "fund_id": "INF209KA1K88",
       "amc_name": "Aditya Birla Sun Life Mutual Fund",
       "benchmark_name": "CRISIL Credit Risk Debt B-II Index",
       "riskometer": "High",
       "nav": {
-        "value": 28.3222,
-        "date": "2026-11-05"
+        "value": 28.3223,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:20.348247Z",
+      "last_scraped_at": "2026-11-07T07:31:10.322954Z",
       "source_urls": [
         "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "de1864b1-6042-43d4-8407-168d9e2baa35",
-    "text": "1Y returns: 11.61%. 3Y annualised returns: 13.03%. 5Y annualised returns: 10.88%. Since inception returns: 8.39%. Compared with category 1Y average 10.26%. category 3Y average 8.66%. category 5Y average 9.04%.",
+    "chunk_id": "d811ad93-5789-4bcf-ab77-32bfb6382f93",
+    "text": "1Y returns: 11.54%. 3Y annualised returns: 13.02%. 5Y annualised returns: 10.87%. Since inception returns: 8.39%. Compared with category 1Y average 10.26%. category 3Y average 8.66%. category 5Y average 9.04%.",
     "metadata": {
       "returns": {
-        "one_year": 11.61,
-        "three_year": 13.03,
-        "five_year": 10.88,
+        "one_year": 11.54,
+        "three_year": 13.02,
+        "five_year": 10.87,
         "since_inception": 8.39,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -33,14 +33,14 @@
         "category_avg_three_year": 8.660538129768607,
         "category_avg_five_year": 9.041288232241179
       },
-      "last_scraped_at": "2026-11-06T08:13:20.348247Z",
+      "last_scraped_at": "2026-11-07T07:31:10.322954Z",
       "source_urls": [
         "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "f4cbe978-a3e1-4b70-915f-9f6d2909c13c",
+    "chunk_id": "39050632-80c1-4961-aa25-9c35a1b5c832",
     "text": "Risk level: High. Standard deviation: 3.06. Sharpe ratio: 2.18.",
     "metadata": {
       "risk": {
@@ -50,14 +50,14 @@
         "beta": null,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:20.348247Z",
+      "last_scraped_at": "2026-11-07T07:31:10.322954Z",
       "source_urls": [
         "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "ff570c01-6e19-4d75-89be-9f1a6fced510",
+    "chunk_id": "418d4956-285e-4060-9f2c-0732bdba4269",
     "text": "Expense ratio is 0.81%. Exit load policy: Exit load of 1%, if redeemed within 1 Year. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: Returns are taxed as per your Income Tax slab.",
     "metadata": {
       "operations": {
@@ -71,14 +71,14 @@
         "launch_date": null,
         "taxation": "Returns are taxed as per your Income Tax slab."
       },
-      "last_scraped_at": "2026-11-06T08:13:20.348247Z",
+      "last_scraped_at": "2026-11-07T07:31:10.322954Z",
       "source_urls": [
         "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "adea4735-87f7-41f2-ae42-ee4f8cf04483",
+    "chunk_id": "16c2b743-9644-45b7-b50e-ba1a5ded8127",
     "text": "Top holdings include: Repo (13.50%), GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 (9.00%), SK FINANCE LIMITED 9.1 NCD 10AG29 FVRS1LAC (5.32%), ERIS LIFESCIENCES LIMITED STRPP II 8.73 NCD 07JU27 FVRS1LAC (4.57%), JUBILANT BEVCO LIMITED NCD 31MY28 FVRS1LAC (4.25%), JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC (3.68%), ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC (3.44%), GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC (3.21%), SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA SR I 6.66 BD 25OT28 FVRS1LAC (2.82%), Net Receivables (2.66%).",
     "metadata": {
       "top_holdings": [
@@ -144,14 +144,14 @@
         }
       ],
       "turnover_ratio": 59,
-      "last_scraped_at": "2026-11-06T08:13:20.348247Z",
+      "last_scraped_at": "2026-11-07T07:31:10.322954Z",
       "source_urls": [
         "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "12ba6949-5f80-40f6-9983-20d0ca9ab8e5",
+    "chunk_id": "4db9a9bf-085e-461f-85eb-be445e33a6b1",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -159,38 +159,38 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:20.348247Z",
+      "last_scraped_at": "2026-11-07T07:31:10.322954Z",
       "source_urls": [
         "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "8d33124e-ab59-4c89-99e5-ea52263001bb",
-    "text": "Aditya Birla Sun Life Medium Term Fund Direct Growth is a Debt mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-05 is ₹48.28.",
+    "chunk_id": "e85e2a9f-bd10-48a7-8f5d-f155637d9713",
+    "text": "Aditya Birla Sun Life Medium Term Fund Direct Growth is a Debt mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-06 is ₹48.26.",
     "metadata": {
       "fund_id": "INF209K01XA9",
       "amc_name": "Aditya Birla Sun Life Mutual Fund",
       "benchmark_name": "CRISIL Medium Duration Debt A-III Index",
       "riskometer": "High",
       "nav": {
-        "value": 48.2847,
-        "date": "2026-11-05"
+        "value": 48.2595,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:26.963559Z",
+      "last_scraped_at": "2026-11-07T07:31:17.077951Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "4ff2db95-380d-47dc-9573-81e75c923e91",
-    "text": "1Y returns: 8.15%. 3Y annualised returns: 10.57%. 5Y annualised returns: 12.67%. Since inception returns: 4.91%. Compared with category 1Y average 7.95%. category 3Y average 7.55%. category 5Y average 6.56%.",
+    "chunk_id": "a5f0fd1d-a607-49b7-b339-45f360281ac0",
+    "text": "1Y returns: 8.04%. 3Y annualised returns: 10.54%. 5Y annualised returns: 12.65%. Since inception returns: 4.91%. Compared with category 1Y average 7.95%. category 3Y average 7.55%. category 5Y average 6.56%.",
     "metadata": {
       "returns": {
-        "one_year": 8.15,
-        "three_year": 10.57,
-        "five_year": 12.67,
+        "one_year": 8.04,
+        "three_year": 10.54,
+        "five_year": 12.65,
         "since_inception": 4.91,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -199,14 +199,14 @@
         "category_avg_three_year": 7.553749933495577,
         "category_avg_five_year": 6.562503821380625
       },
-      "last_scraped_at": "2026-11-06T08:13:26.963559Z",
+      "last_scraped_at": "2026-11-07T07:31:17.077951Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "cf98a9a6-9efa-4f8e-8110-5d9b56ee58e0",
+    "chunk_id": "e84e2f0d-dd79-426e-bf15-d0d485e351d1",
     "text": "Risk level: High. Standard deviation: 2.16. Sharpe ratio: 2.02.",
     "metadata": {
       "risk": {
@@ -216,14 +216,14 @@
         "beta": null,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:26.963559Z",
+      "last_scraped_at": "2026-11-07T07:31:17.077951Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c767b81d-f50f-47b7-999f-65d070618132",
+    "chunk_id": "672696b4-2605-4af4-9a4b-06fc74949dc5",
     "text": "Expense ratio is 0.83%. Exit load policy: Exit load of 1%, if redeemed within 1 Year. Minimum SIP investment is ₹1000. Minimum lump-sum investment is ₹1000. Taxation: Returns are taxed as per your Income Tax slab.",
     "metadata": {
       "operations": {
@@ -237,14 +237,14 @@
         "launch_date": null,
         "taxation": "Returns are taxed as per your Income Tax slab."
       },
-      "last_scraped_at": "2026-11-06T08:13:26.963559Z",
+      "last_scraped_at": "2026-11-07T07:31:17.077951Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "5e5bd528-131b-4b61-8ff2-31e324f5753d",
+    "chunk_id": "c2eaeb9f-531d-4dc2-8707-13210eee5dbf",
     "text": "Top holdings include: GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 (17.81%), Repo (6.25%), Net Receivables (3.73%), NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26C 7.27 BD 23FB29 FVRS1LAC (3.66%), NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26A 6.66 BD 12OT28 FVRS1LAC (3.34%), HINDUJA LEYLAND FINANCE LIMITED 9.25 NCD 09JL31 FVRS1LAC (3.24%), CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED SR SD79 8.66 NCD 23FB33 FVRS1LAC (3.02%), HDFC Bank Ltd (15-Jan-2027) (2.95%), NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 26F 7.44 BD 17JL29 FVRS1LAC (2.93%), OXYZO FINANCIAL SERVICES LIMITED 9.9 NCD 13MR29 FVRS1LAC (2.66%).",
     "metadata": {
       "top_holdings": [
@@ -310,14 +310,14 @@
         }
       ],
       "turnover_ratio": null,
-      "last_scraped_at": "2026-11-06T08:13:26.963559Z",
+      "last_scraped_at": "2026-11-07T07:31:17.077951Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "1622a9c9-4ac7-4b10-a08b-2cccc0c5b009",
+    "chunk_id": "0d47d3c6-ed8c-4728-945c-0b8925949b18",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -325,38 +325,38 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:26.963559Z",
+      "last_scraped_at": "2026-11-07T07:31:17.077951Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "29c3829d-5ac1-4873-a761-3b5f118e0a47",
-    "text": "Aditya Birla Sun Life PSU Equity Fund Direct Growth is a Equity mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹39.19.",
+    "chunk_id": "0492b999-9618-4c3e-bb7a-5db3c068a8d4",
+    "text": "Aditya Birla Sun Life PSU Equity Fund Direct Growth is a Equity mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹39.42.",
     "metadata": {
       "fund_id": "INF209KB1O82",
       "amc_name": "Aditya Birla Sun Life Mutual Fund",
       "benchmark_name": "BSE PSU Total Return Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 39.19,
-        "date": "2026-11-05"
+        "value": 39.42,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:53.965124Z",
+      "last_scraped_at": "2026-11-07T07:31:44.882731Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "eabfdf56-99bc-41ba-8acf-a01006f812f5",
-    "text": "1Y returns: 3.46%. 3Y annualised returns: 19.43%. 5Y annualised returns: 21.68%. Since inception returns: 16.04%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
+    "chunk_id": "26db626c-4c8a-4e81-a161-a291ee5ac052",
+    "text": "1Y returns: 5.37%. 3Y annualised returns: 19.46%. 5Y annualised returns: 21.81%. Since inception returns: 16.04%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
     "metadata": {
       "returns": {
-        "one_year": 3.46,
-        "three_year": 19.43,
-        "five_year": 21.68,
+        "one_year": 5.37,
+        "three_year": 19.46,
+        "five_year": 21.81,
         "since_inception": 16.04,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -365,14 +365,14 @@
         "category_avg_three_year": 28.28070290393152,
         "category_avg_five_year": 29.78700324101245
       },
-      "last_scraped_at": "2026-11-06T08:13:53.965124Z",
+      "last_scraped_at": "2026-11-07T07:31:44.882731Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "917a8a61-5a5a-4695-950b-fc81eaf0e5c8",
+    "chunk_id": "a4d22400-7369-49f5-aca4-e5a93afb419d",
     "text": "Risk level: Very High. Standard deviation: 22.86. Sharpe ratio: 0.61. Alpha: 0.08. Beta: 0.95.",
     "metadata": {
       "risk": {
@@ -382,18 +382,18 @@
         "beta": 0.95,
         "alpha": 0.08
       },
-      "last_scraped_at": "2026-11-06T08:13:53.965124Z",
+      "last_scraped_at": "2026-11-07T07:31:44.882731Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "917f4897-d325-40b5-b9ae-22fcfd79bf7f",
-    "text": "Expense ratio is 0.76%. Exit load policy: Exit load of 1% if redeemed within 30 days. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹500. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "chunk_id": "4dfb5c98-978d-422e-8d08-b731d09e656b",
+    "text": "Expense ratio is 0.75%. Exit load policy: Exit load of 1% if redeemed within 30 days. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹500. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
-        "expense_ratio": 0.76,
+        "expense_ratio": 0.75,
         "exit_load": "Exit load of 1% if redeemed within 30 days.",
         "min_investment": {
           "sip": 100,
@@ -403,14 +403,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:53.965124Z",
+      "last_scraped_at": "2026-11-07T07:31:44.882731Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "e34cb025-02da-440f-913d-ce16167e79ab",
+    "chunk_id": "8b9b7efd-ad42-41a3-af96-ccfe5ef6071a",
     "text": "Top holdings include: State Bank of India (16.99%), NTPC Ltd (7.37%), Bharat Heavy Electricals Ltd (6.69%), Power Grid Corporation of India Ltd (6.37%), Bharat Electronics Ltd (4.80%), Union Bank of India (4.66%), Bank of Maharashtra (4.48%), GAIL (India) Ltd (3.87%), PNB Housing Finance Ltd (3.80%), Life Insurance Corporation of India (3.49%).",
     "metadata": {
       "top_holdings": [
@@ -476,14 +476,14 @@
         }
       ],
       "turnover_ratio": 11,
-      "last_scraped_at": "2026-11-06T08:13:53.965124Z",
+      "last_scraped_at": "2026-11-07T07:31:44.882731Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "d830353d-b6ae-4750-a783-182147735ddd",
+    "chunk_id": "ef0f5920-c620-4f1b-b450-31cba7cd9305",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -491,37 +491,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:53.965124Z",
+      "last_scraped_at": "2026-11-07T07:31:44.882731Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "9a23ae5e-8f05-44c9-a318-6dddfc4394fe",
-    "text": "Aditya Birla Sun Life Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹28.91.",
+    "chunk_id": "624e039f-0a48-4671-9238-45ea4a15f2e3",
+    "text": "Aditya Birla Sun Life Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from Aditya Birla Sun Life Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹28.38.",
     "metadata": {
       "fund_id": "INF209KB16F2",
       "amc_name": "Aditya Birla Sun Life Mutual Fund",
       "benchmark_name": "Domestic Price of Silver",
       "riskometer": "Very High",
       "nav": {
-        "value": 28.9105,
-        "date": "2026-11-05"
+        "value": 28.3791,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:11.556805Z",
+      "last_scraped_at": "2026-11-07T07:31:01.664650Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "4ea84f03-d5d0-4bab-956f-fc1abc0222a9",
-    "text": "1Y returns: 26.12%. 3Y annualised returns: 35.79%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
+    "chunk_id": "06d68ad6-f7fd-494b-9d0d-28085daa4094",
+    "text": "1Y returns: 22.32%. 3Y annualised returns: 34.58%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
     "metadata": {
       "returns": {
-        "one_year": 26.12,
-        "three_year": 35.79,
+        "one_year": 22.32,
+        "three_year": 34.58,
         "five_year": null,
         "since_inception": null,
         "benchmark_one_year": null,
@@ -531,14 +531,14 @@
         "category_avg_three_year": 47.07059763331896,
         "category_avg_five_year": null
       },
-      "last_scraped_at": "2026-11-06T08:13:11.556805Z",
+      "last_scraped_at": "2026-11-07T07:31:01.664650Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "90767ddc-3575-419e-a157-470c01838b8a",
+    "chunk_id": "f8474c2a-1008-49f1-ac2e-5ebb0cab0603",
     "text": "Risk level: Very High. Standard deviation: 39.84. Sharpe ratio: 0.79. Alpha: 1.21. Beta: 0.86.",
     "metadata": {
       "risk": {
@@ -548,14 +548,14 @@
         "beta": 0.86,
         "alpha": 1.21
       },
-      "last_scraped_at": "2026-11-06T08:13:11.556805Z",
+      "last_scraped_at": "2026-11-07T07:31:01.664650Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "adac0abb-21cb-435b-8df3-2f1faae9988e",
+    "chunk_id": "6ab595d9-1434-4501-81de-791efd8cbf63",
     "text": "Expense ratio is 0.32%. Exit load policy: Exit load of 0.5% if redeemed within 30 days. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -569,14 +569,14 @@
         "launch_date": null,
         "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:11.556805Z",
+      "last_scraped_at": "2026-11-07T07:31:01.664650Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "9f4acb54-6eb9-44df-94b2-8437900833c1",
+    "chunk_id": "0518f154-b9d4-49ee-8023-fd9d691c2cb6",
     "text": "Top holdings include: Aditya Birla Sun Life Silver ETF-Growth (100.03%), Repo (0.21%), Net Payables (-0.24%).",
     "metadata": {
       "top_holdings": [
@@ -600,14 +600,14 @@
         }
       ],
       "turnover_ratio": 21,
-      "last_scraped_at": "2026-11-06T08:13:11.556805Z",
+      "last_scraped_at": "2026-11-07T07:31:01.664650Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c40a9429-9db7-437b-b2f1-0d849e938667",
+    "chunk_id": "daa51850-a3b3-4e30-a643-ef3eda0b5517",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -615,14 +615,14 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:11.556805Z",
+      "last_scraped_at": "2026-11-07T07:31:01.664650Z",
       "source_urls": [
         "https://groww.in/mutual-funds/aditya-birla-sun-life-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b186f4e8-ccf8-4685-bb90-1e88aa58eb3f",
+    "chunk_id": "3a6ecfe3-f286-4681-9e6f-c6216cefca32",
     "text": "Axis Silver FoF Direct Growth is a Commodity mutual fund scheme from Axis Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹32.02.",
     "metadata": {
       "fund_id": "INF846K015J4",
@@ -640,7 +640,7 @@
     }
   },
   {
-    "chunk_id": "ddc6ccce-08c3-4468-9e60-be4cb7322ecb",
+    "chunk_id": "5c6d471f-c4d4-4e24-81bd-fbb78b085343",
     "text": "1Y returns: 27.11%. 3Y annualised returns: 36.22%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
     "metadata": {
       "returns": {
@@ -662,7 +662,7 @@
     }
   },
   {
-    "chunk_id": "a83fd23c-6c52-4a47-acc8-4b70bd340a0b",
+    "chunk_id": "248936b0-c5f0-46d8-b524-24299d7915b4",
     "text": "Risk level: Very High. Standard deviation: 39.46. Sharpe ratio: 0.80. Alpha: 1.62. Beta: 0.85.",
     "metadata": {
       "risk": {
@@ -679,7 +679,7 @@
     }
   },
   {
-    "chunk_id": "18ffe1ab-276f-45fc-8956-89c3d7719e94",
+    "chunk_id": "4f91189d-bd80-4147-9bf9-129006c26460",
     "text": "Expense ratio is 0.14%. Exit load policy: Exit load of 0.25%, if redeemed within 7 days. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -700,7 +700,7 @@
     }
   },
   {
-    "chunk_id": "35ce3b98-46f2-4bd0-9bde-f17589c65cfe",
+    "chunk_id": "e7fff6ac-a26e-444e-991e-2ed8f14bbd69",
     "text": "Top holdings include: Axis Silver ETF Regular-Growth (100.04%), Others CBLO (0.22%), Net Payables (-0.26%).",
     "metadata": {
       "top_holdings": [
@@ -731,7 +731,7 @@
     }
   },
   {
-    "chunk_id": "c1aef80d-ddee-422b-a023-5d02e563881b",
+    "chunk_id": "8639ab64-35ce-4dfc-afb6-0f3f6bf524df",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -746,31 +746,31 @@
     }
   },
   {
-    "chunk_id": "c60e330d-a8a4-42d5-af53-8a9fc609959a",
-    "text": "DSP Credit Risk Fund Direct Plan Growth is a Debt mutual fund scheme from DSP Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-05 is ₹61.18.",
+    "chunk_id": "f42d58cb-5a1c-4ab8-9548-4350e91e1150",
+    "text": "DSP Credit Risk Fund Direct Plan Growth is a Debt mutual fund scheme from DSP Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-06 is ₹61.18.",
     "metadata": {
       "fund_id": "INF740K01OS4",
       "amc_name": "DSP Mutual Fund",
       "benchmark_name": "CRISIL Credit Risk Debt B-II Index",
       "riskometer": "High",
       "nav": {
-        "value": 61.1769,
-        "date": "2026-11-05"
+        "value": 61.179,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:14.593742Z",
+      "last_scraped_at": "2026-11-07T07:31:04.574506Z",
       "source_urls": [
         "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
       ]
     }
   },
   {
-    "chunk_id": "c267a98e-5e40-4a6a-8c84-6984a3284efd",
-    "text": "1Y returns: 10.71%. 3Y annualised returns: 13.78%. 5Y annualised returns: 13.42%. Since inception returns: 7.05%. Compared with category 1Y average 10.26%. category 3Y average 8.66%. category 5Y average 9.04%.",
+    "chunk_id": "17fb242c-4ccc-41fd-a884-b0a4df89021d",
+    "text": "1Y returns: 10.66%. 3Y annualised returns: 13.78%. 5Y annualised returns: 13.41%. Since inception returns: 7.05%. Compared with category 1Y average 10.26%. category 3Y average 8.66%. category 5Y average 9.04%.",
     "metadata": {
       "returns": {
-        "one_year": 10.71,
+        "one_year": 10.66,
         "three_year": 13.78,
-        "five_year": 13.42,
+        "five_year": 13.41,
         "since_inception": 7.05,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -779,14 +779,14 @@
         "category_avg_three_year": 8.660538129768607,
         "category_avg_five_year": 9.041288232241179
       },
-      "last_scraped_at": "2026-11-06T08:13:14.593742Z",
+      "last_scraped_at": "2026-11-07T07:31:04.574506Z",
       "source_urls": [
         "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
       ]
     }
   },
   {
-    "chunk_id": "7385719b-9ba4-47c2-97a0-743692eff884",
+    "chunk_id": "f8608716-7365-4711-9a82-db46911e476b",
     "text": "Risk level: High. Standard deviation: 6.24. Sharpe ratio: 1.20.",
     "metadata": {
       "risk": {
@@ -796,14 +796,14 @@
         "beta": null,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:14.593742Z",
+      "last_scraped_at": "2026-11-07T07:31:04.574506Z",
       "source_urls": [
         "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
       ]
     }
   },
   {
-    "chunk_id": "c529a76a-5c08-4769-8355-11b5c0b0428e",
+    "chunk_id": "001e8219-3a15-4e8f-8597-4600aaa34de4",
     "text": "Expense ratio is 0.42%. Exit load policy: Exit load of 3%, if redeemed within 12 months. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: Returns are taxed as per your Income Tax slab.",
     "metadata": {
       "operations": {
@@ -817,87 +817,87 @@
         "launch_date": null,
         "taxation": "Returns are taxed as per your Income Tax slab."
       },
-      "last_scraped_at": "2026-11-06T08:13:14.593742Z",
+      "last_scraped_at": "2026-11-07T07:31:04.574506Z",
       "source_urls": [
         "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
       ]
     }
   },
   {
-    "chunk_id": "29b53156-839f-4d45-9337-9f67349cb98d",
-    "text": "Top holdings include: GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 (10.85%), Reverse Repo (7.98%), KOTAK MAHINDRA BANK LIMITED CD 04FEB27 (7.50%), ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR I 9 NCD 20JL29 FVRS1LAC (6.18%), NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC (6.09%), ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC (6.08%), GMR AIRPORTS LIMITED 5 BD 13AG28 FVRS1LAC (5.05%), JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC (4.97%), TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC (4.80%), ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC (4.61%).",
+    "chunk_id": "14490867-7d50-4281-9b70-5126e20dd0b9",
+    "text": "Top holdings include: Reverse Repo (11.09%), GMR AIRPORTS LIMITED 5 BD 13AG28 FVRS1LAC (8.18%), GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 (7.44%), NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC (7.39%), KOTAK MAHINDRA BANK LIMITED CD 04FEB27 (7.30%), ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR I 9 NCD 20JL29 FVRS1LAC (5.98%), ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC (5.92%), JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC (4.81%), TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC (4.65%), ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC (4.49%).",
     "metadata": {
       "top_holdings": [
         {
-          "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
-          "percentage": null,
-          "weight_pct": 10.85,
-          "sector": null
-        },
-        {
           "name": "Reverse Repo",
           "percentage": null,
-          "weight_pct": 7.98,
-          "sector": null
-        },
-        {
-          "name": "KOTAK MAHINDRA BANK LIMITED CD 04FEB27",
-          "percentage": null,
-          "weight_pct": 7.5,
-          "sector": null
-        },
-        {
-          "name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR I 9 NCD 20JL29 FVRS1LAC",
-          "percentage": null,
-          "weight_pct": 6.18,
-          "sector": null
-        },
-        {
-          "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
-          "percentage": null,
-          "weight_pct": 6.09,
-          "sector": null
-        },
-        {
-          "name": "ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC",
-          "percentage": null,
-          "weight_pct": 6.08,
+          "weight_pct": 11.09,
           "sector": null
         },
         {
           "name": "GMR AIRPORTS LIMITED 5 BD 13AG28 FVRS1LAC",
           "percentage": null,
-          "weight_pct": 5.05,
+          "weight_pct": 8.18,
+          "sector": null
+        },
+        {
+          "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
+          "percentage": null,
+          "weight_pct": 7.44,
+          "sector": null
+        },
+        {
+          "name": "NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC",
+          "percentage": null,
+          "weight_pct": 7.39,
+          "sector": null
+        },
+        {
+          "name": "KOTAK MAHINDRA BANK LIMITED CD 04FEB27",
+          "percentage": null,
+          "weight_pct": 7.3,
+          "sector": null
+        },
+        {
+          "name": "ADITYA BIRLA DIGITAL FASHION VENTURES LIMITED SR I 9 NCD 20JL29 FVRS1LAC",
+          "percentage": null,
+          "weight_pct": 5.98,
+          "sector": null
+        },
+        {
+          "name": "ADANI AIRPORT HOLDINGS LIMITED 8.45 NCD 12FB29 FVRS1LAC",
+          "percentage": null,
+          "weight_pct": 5.92,
           "sector": null
         },
         {
           "name": "JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC",
           "percentage": null,
-          "weight_pct": 4.97,
+          "weight_pct": 4.81,
           "sector": null
         },
         {
           "name": "TATA HOUSING DEVELOPMENT COMPANY LIMITED SR I 7.51 NCD 08DC28 FVRS1LAC",
           "percentage": null,
-          "weight_pct": 4.8,
+          "weight_pct": 4.65,
           "sector": null
         },
         {
           "name": "ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC",
           "percentage": null,
-          "weight_pct": 4.61,
+          "weight_pct": 4.49,
           "sector": null
         }
       ],
       "turnover_ratio": null,
-      "last_scraped_at": "2026-11-06T08:13:14.593742Z",
+      "last_scraped_at": "2026-11-07T07:31:04.574506Z",
       "source_urls": [
         "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
       ]
     }
   },
   {
-    "chunk_id": "16775e51-d223-4bb4-ba11-a7956d897da9",
+    "chunk_id": "79f27798-7730-4baa-b1c2-c00ad6248aac",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -905,38 +905,38 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:14.593742Z",
+      "last_scraped_at": "2026-11-07T07:31:04.574506Z",
       "source_urls": [
         "https://groww.in/mutual-funds/dsp-credit-risk-fund-direct-plan-growth"
       ]
     }
   },
   {
-    "chunk_id": "2307c2d9-75bc-446a-806e-c9ad14db56fa",
-    "text": "HDFC Aggressive Hybrid Fund Direct Plan Growth is a Hybrid mutual fund scheme from HDFC Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹125.39.",
+    "chunk_id": "1965b482-6e4e-4199-bf1f-a9dc2a050e26",
+    "text": "HDFC Aggressive Hybrid Fund Direct Plan Growth is a Hybrid mutual fund scheme from HDFC Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹126.87.",
     "metadata": {
       "fund_id": "INF179K01XZ1",
       "amc_name": "HDFC Mutual Fund",
       "benchmark_name": "NIFTY 50 Hybrid Composite Debt 65:35 Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 125.386,
-        "date": "2026-11-05"
+        "value": 126.872,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:42.444377Z",
+      "last_scraped_at": "2026-11-07T07:31:32.828721Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "5e8371e0-3cdd-4c23-abc6-fa8607dfd98b",
-    "text": "1Y returns: -3.95%. 3Y annualised returns: 7.85%. 5Y annualised returns: 8.11%. Since inception returns: 11.80%. Compared with category 1Y average 4.72%. category 3Y average 14.31%. category 5Y average 13.94%.",
+    "chunk_id": "7cbf2f18-5045-41f7-a29a-a77f4d07db4d",
+    "text": "1Y returns: -2.63%. 3Y annualised returns: 8.10%. 5Y annualised returns: 8.36%. Since inception returns: 11.80%. Compared with category 1Y average 4.72%. category 3Y average 14.31%. category 5Y average 13.94%.",
     "metadata": {
       "returns": {
-        "one_year": -3.95,
-        "three_year": 7.85,
-        "five_year": 8.11,
+        "one_year": -2.63,
+        "three_year": 8.1,
+        "five_year": 8.36,
         "since_inception": 11.8,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -945,14 +945,14 @@
         "category_avg_three_year": 14.31110204180801,
         "category_avg_five_year": 13.941004134645727
       },
-      "last_scraped_at": "2026-11-06T08:13:42.444377Z",
+      "last_scraped_at": "2026-11-07T07:31:32.828721Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "49030977-398e-47e8-b640-a60a81cd1485",
+    "chunk_id": "98c2c7e1-3107-4fe8-8589-e9c4ecb0ca8f",
     "text": "Risk level: Very High. Standard deviation: 10.85. Sharpe ratio: 0.11. Beta: 1.06.",
     "metadata": {
       "risk": {
@@ -962,14 +962,14 @@
         "beta": 1.06,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:42.444377Z",
+      "last_scraped_at": "2026-11-07T07:31:32.828721Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "3a621781-ab90-4049-a85f-eb0aa60bf7b9",
+    "chunk_id": "7d9615fd-7595-4dfe-b1bf-6cfd5790b947",
     "text": "Expense ratio is 1.13%. Exit load policy: Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -983,14 +983,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:42.444377Z",
+      "last_scraped_at": "2026-11-07T07:31:32.828721Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "3bd03930-8f1b-4a71-86b8-18c5cbc2d9f0",
+    "chunk_id": "6595181e-79fa-474f-b290-9459885d2fc5",
     "text": "Top holdings include: HDFC Bank Ltd (7.01%), ICICI Bank Ltd (6.87%), Reliance Industries Ltd (4.15%), Kotak Mahindra Bank Ltd (3.45%), Axis Bank Ltd (3.19%), State Bank of India (2.86%), GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100 (2.18%), Larsen & Toubro Ltd (2.14%), Divi's Laboratories Ltd (2.09%), Maruti Suzuki India Ltd (2.03%).",
     "metadata": {
       "top_holdings": [
@@ -1056,14 +1056,14 @@
         }
       ],
       "turnover_ratio": 2,
-      "last_scraped_at": "2026-11-06T08:13:42.444377Z",
+      "last_scraped_at": "2026-11-07T07:31:32.828721Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "3a81987b-7647-4c60-86ee-33d2a2478ab2",
+    "chunk_id": "e49375c2-c158-4edb-a849-53bc06f61fc6",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -1071,37 +1071,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:42.444377Z",
+      "last_scraped_at": "2026-11-07T07:31:32.828721Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "e395cbde-b88d-45ae-8fe5-49813abd5a96",
-    "text": "HDFC Income Plus Arbitrage Active FoF Direct Growth is a Hybrid mutual fund scheme from HDFC Mutual Fund with a risk level rated as Moderate. Latest NAV as of 2026-11-05 is ₹46.01.",
+    "chunk_id": "ed85d6e5-49a2-46c2-b1c4-fd9eace9da2c",
+    "text": "HDFC Income Plus Arbitrage Active FoF Direct Growth is a Hybrid mutual fund scheme from HDFC Mutual Fund with a risk level rated as Moderate. Latest NAV as of 2026-11-06 is ₹46.03.",
     "metadata": {
       "fund_id": "INF179KA1SC5",
       "amc_name": "HDFC Mutual Fund",
       "benchmark_name": "NIFTY 50 Hybrid Composite Debt 65:35 Index",
       "riskometer": "Moderate",
       "nav": {
-        "value": 46.0081,
-        "date": "2026-11-05"
+        "value": 46.0344,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:17.479381Z",
+      "last_scraped_at": "2026-11-07T07:31:07.345797Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "4fdd9e5c-7582-463a-bbb8-0753e9b1cfe1",
-    "text": "1Y returns: 5.12%. 3Y annualised returns: 8.95%. 5Y annualised returns: 10.12%. Since inception returns: 10.91%. Compared with category 1Y average 7.37%.",
+    "chunk_id": "a0c91476-6e99-4058-b1c8-e55aa71492d8",
+    "text": "1Y returns: 5.14%. 3Y annualised returns: 8.84%. 5Y annualised returns: 10.12%. Since inception returns: 10.91%. Compared with category 1Y average 7.37%.",
     "metadata": {
       "returns": {
-        "one_year": 5.12,
-        "three_year": 8.95,
+        "one_year": 5.14,
+        "three_year": 8.84,
         "five_year": 10.12,
         "since_inception": 10.91,
         "benchmark_one_year": null,
@@ -1111,14 +1111,14 @@
         "category_avg_three_year": null,
         "category_avg_five_year": null
       },
-      "last_scraped_at": "2026-11-06T08:13:17.479381Z",
+      "last_scraped_at": "2026-11-07T07:31:07.345797Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b6b02553-b0c0-4fd8-a26f-a9dfe8e33c45",
+    "chunk_id": "4a690a0c-ced0-421e-96c4-fe884be57cd2",
     "text": "Risk level: Moderate. Standard deviation: 5.18. Sharpe ratio: 0.63.",
     "metadata": {
       "risk": {
@@ -1128,14 +1128,14 @@
         "beta": null,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:17.479381Z",
+      "last_scraped_at": "2026-11-07T07:31:07.345797Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "6ab3ad78-bc1a-49ba-b086-5602fde20c65",
+    "chunk_id": "e6f3d05a-06c1-4590-bc9d-e3fa8f99c136",
     "text": "Expense ratio is 0.02%. Exit load policy: Nil Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: Returns are taxed as per your Income Tax slab.",
     "metadata": {
       "operations": {
@@ -1149,14 +1149,14 @@
         "launch_date": null,
         "taxation": "Returns are taxed as per your Income Tax slab."
       },
-      "last_scraped_at": "2026-11-06T08:13:17.479381Z",
+      "last_scraped_at": "2026-11-07T07:31:07.345797Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "dada615d-69e9-4594-91a7-c8a13cc3dbc2",
+    "chunk_id": "6e78a4cb-cd8f-4504-a21d-8d8c946c1b62",
     "text": "Top holdings include: HDFC Medium Term Opportunities Direct Plan-Growth (44.63%), HDFC Arbitrage Fund Direct-Growth (36.72%), HDFC Money Market Fund Direct-Growth (16.94%), Repo (1.74%), Net Payables (-0.03%).",
     "metadata": {
       "top_holdings": [
@@ -1192,14 +1192,14 @@
         }
       ],
       "turnover_ratio": 39,
-      "last_scraped_at": "2026-11-06T08:13:17.479381Z",
+      "last_scraped_at": "2026-11-07T07:31:07.345797Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "87400c44-3351-4fda-9cc4-896b9f61dbed",
+    "chunk_id": "151047f8-d720-4329-9c17-73a552666593",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -1207,37 +1207,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:17.479381Z",
+      "last_scraped_at": "2026-11-07T07:31:07.345797Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "42325b2f-8fb5-4599-80f5-3f2d97f71060",
-    "text": "HDFC Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from HDFC Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹30.74.",
+    "chunk_id": "b5bbd0ee-f377-4615-8f46-a97f313f2917",
+    "text": "HDFC Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from HDFC Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹30.14.",
     "metadata": {
       "fund_id": "INF179KC1DU7",
       "amc_name": "HDFC Mutual Fund",
       "benchmark_name": "Domestic Price of Silver",
       "riskometer": "Very High",
       "nav": {
-        "value": 30.7371,
-        "date": "2026-11-05"
+        "value": 30.1432,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:00.121396Z",
+      "last_scraped_at": "2026-11-07T07:30:22.464825Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "be39e0aa-1b07-4f5e-8cbe-bcc5bd3bc0c8",
-    "text": "1Y returns: 26.51%. 3Y annualised returns: 35.97%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
+    "chunk_id": "4356d4fa-7901-4806-9222-19dac9dc694c",
+    "text": "1Y returns: 22.26%. 3Y annualised returns: 34.61%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
     "metadata": {
       "returns": {
-        "one_year": 26.51,
-        "three_year": 35.97,
+        "one_year": 22.26,
+        "three_year": 34.61,
         "five_year": null,
         "since_inception": null,
         "benchmark_one_year": null,
@@ -1247,14 +1247,14 @@
         "category_avg_three_year": 47.07059763331896,
         "category_avg_five_year": null
       },
-      "last_scraped_at": "2026-11-06T08:13:00.121396Z",
+      "last_scraped_at": "2026-11-07T07:30:22.464825Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "8631f0d5-9691-4544-b307-bf8a13ec700b",
+    "chunk_id": "18aa13b6-a07e-4e2e-a05a-cc6535881c6e",
     "text": "Risk level: Very High. Standard deviation: 41.56. Sharpe ratio: 0.77. Alpha: 0.13. Beta: 0.91.",
     "metadata": {
       "risk": {
@@ -1264,14 +1264,14 @@
         "beta": 0.91,
         "alpha": 0.13
       },
-      "last_scraped_at": "2026-11-06T08:13:00.121396Z",
+      "last_scraped_at": "2026-11-07T07:30:22.464825Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "2da1f882-ee3c-4c70-b7ad-79562f1ed495",
+    "chunk_id": "131ec5cd-7c95-483c-8ed6-00676fa18cf1",
     "text": "Expense ratio is 0.21%. Exit load policy: Exit load of 1%, if redeemed within 15 days. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -1285,14 +1285,14 @@
         "launch_date": null,
         "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:00.121396Z",
+      "last_scraped_at": "2026-11-07T07:30:22.464825Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "233b5c53-9c4e-4471-a0c0-c72e6fd4ad28",
+    "chunk_id": "58c7b0b6-1b71-4a22-903a-7853cd0f64cb",
     "text": "Top holdings include: HDFC Silver ETF Regular - Growth (100.32%), Repo (0.33%), Net Payables (-0.65%).",
     "metadata": {
       "top_holdings": [
@@ -1316,14 +1316,14 @@
         }
       ],
       "turnover_ratio": null,
-      "last_scraped_at": "2026-11-06T08:13:00.121396Z",
+      "last_scraped_at": "2026-11-07T07:30:22.464825Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c3e401e0-ca19-424a-9f70-c75d3e5ee0cb",
+    "chunk_id": "df657090-9b2b-40f3-800c-844d6bb68fda",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -1331,37 +1331,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:00.121396Z",
+      "last_scraped_at": "2026-11-07T07:30:22.464825Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b20e7186-2551-449d-b74b-2262bcd4d344",
-    "text": "HSBC Credit Risk Fund Direct Growth is a Debt mutual fund scheme from HSBC Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-05 is ₹37.97.",
+    "chunk_id": "a6433147-80ed-48e3-8675-ffaa7ed5f9fe",
+    "text": "HSBC Credit Risk Fund Direct Growth is a Debt mutual fund scheme from HSBC Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-06 is ₹37.98.",
     "metadata": {
       "fund_id": "INF917K01UH8",
       "amc_name": "HSBC Mutual Fund",
       "benchmark_name": "NIFTY Credit Risk Bond Index B-II",
       "riskometer": "High",
       "nav": {
-        "value": 37.9719,
-        "date": "2026-11-05"
+        "value": 37.9793,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:23.503360Z",
+      "last_scraped_at": "2026-11-07T07:31:13.741233Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "5e3d529c-2dcc-41a1-9e3e-7f387ec92de1",
-    "text": "1Y returns: 6.02%. 3Y annualised returns: 11.62%. 5Y annualised returns: 9.09%. Compared with category 1Y average 10.26%. category 3Y average 8.66%. category 5Y average 9.04%.",
+    "chunk_id": "e4ce8328-e4ef-4c82-b763-08bc81704e99",
+    "text": "1Y returns: 5.98%. 3Y annualised returns: 11.63%. 5Y annualised returns: 9.09%. Compared with category 1Y average 10.26%. category 3Y average 8.66%. category 5Y average 9.04%.",
     "metadata": {
       "returns": {
-        "one_year": 6.02,
-        "three_year": 11.62,
+        "one_year": 5.98,
+        "three_year": 11.63,
         "five_year": 9.09,
         "since_inception": null,
         "benchmark_one_year": null,
@@ -1371,14 +1371,14 @@
         "category_avg_three_year": 8.660538129768607,
         "category_avg_five_year": 9.041288232241179
       },
-      "last_scraped_at": "2026-11-06T08:13:23.503360Z",
+      "last_scraped_at": "2026-11-07T07:31:13.741233Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "3c55b3b9-7f16-43ae-80a3-3f8e1f24e853",
+    "chunk_id": "dc857465-5761-47e1-97ae-91b5f8bd40a3",
     "text": "Risk level: High. Standard deviation: 6.91. Sharpe ratio: 0.81.",
     "metadata": {
       "risk": {
@@ -1388,14 +1388,14 @@
         "beta": null,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:23.503360Z",
+      "last_scraped_at": "2026-11-07T07:31:13.741233Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "580cdac8-7928-49c0-b53d-e3c942fb1c7e",
+    "chunk_id": "2f0a82aa-6c30-4e65-84f6-2a54b68bf986",
     "text": "Expense ratio is 0.84%. Exit load policy: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 1 Year. Minimum SIP investment is ₹1000. Minimum lump-sum investment is ₹5000. Taxation: Returns are taxed as per your Income Tax slab.",
     "metadata": {
       "operations": {
@@ -1409,14 +1409,14 @@
         "launch_date": null,
         "taxation": "Returns are taxed as per your Income Tax slab."
       },
-      "last_scraped_at": "2026-11-06T08:13:23.503360Z",
+      "last_scraped_at": "2026-11-07T07:31:13.741233Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "3482cfa8-7bb0-4f49-8b52-dad01977d3f2",
+    "chunk_id": "112da9d3-4963-4bc4-a389-b4739c46a507",
     "text": "Top holdings include: NUVOCO VISTAS CORPORATION LIMITED 7.7 NCD 18SP28 FVRS1LAC (7.88%), GOVERNMENT OF INDIA 36232 GOI 21JL30 6.01 FV RS 100 (6.69%), JTPM METAL TRADERS LIMITED NCD 30AP30 FVRS1LAC (6.12%), NIRMA LIMITED SR VII TR C 8.50 NCD 07AP27 FVRS1LAC (5.97%), POWER FINANCE CORPORATION LIMITED SR 259A 6.96 BD 02MR28 FVRS1LAC (5.84%), Power Grid Corpn. Of India Ltd. 7.2 09/08/2027 (5.71%), ADITYA BIRLA RENEWABLES LIMITED 8.6 NCD 24SP27 FVRS1LAC (5.68%), GODREJ SEEDS & GENETICS LIMITED SR 2 STRPP 7.68 NCD 28AP28 FVRS1LAC (5.67%), JSW Kalinga Steel Ltd. (4.72%), GMR AIRPORTS LIMITED 5 BD 13FB27 FVRS1LAC (3.70%).",
     "metadata": {
       "top_holdings": [
@@ -1482,14 +1482,14 @@
         }
       ],
       "turnover_ratio": null,
-      "last_scraped_at": "2026-11-06T08:13:23.503360Z",
+      "last_scraped_at": "2026-11-07T07:31:13.741233Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "3e3872b7-bbe4-45e7-9e82-fd01d6c1accb",
+    "chunk_id": "57fa4bc3-d34b-4500-a74d-77756588f828",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -1497,37 +1497,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:23.503360Z",
+      "last_scraped_at": "2026-11-07T07:31:13.741233Z",
       "source_urls": [
         "https://groww.in/mutual-funds/hsbc-credit-risk-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "37e41711-56ad-461c-a579-60eefb39f257",
-    "text": "ICICI Prudential PSU Equity Fund Direct Growth is a Equity mutual fund scheme from ICICI Prudential Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹22.64.",
+    "chunk_id": "a0955de1-77f5-481c-b192-064918e42a92",
+    "text": "ICICI Prudential PSU Equity Fund Direct Growth is a Equity mutual fund scheme from ICICI Prudential Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹22.78.",
     "metadata": {
       "fund_id": "INF109KC12I5",
       "amc_name": "ICICI Prudential Mutual Fund",
       "benchmark_name": "BSE PSU Total Return Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 22.64,
-        "date": "2026-11-05"
+        "value": 22.78,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:56.893244Z",
+      "last_scraped_at": "2026-11-07T07:31:47.703652Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "f4e8c943-6587-4ffc-978b-b824c6fbf7fc",
-    "text": "1Y returns: 0.85%. 3Y annualised returns: 19.58%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
+    "chunk_id": "d777dde4-5b66-4a97-8e15-dafdc7411208",
+    "text": "1Y returns: 2.57%. 3Y annualised returns: 19.60%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
     "metadata": {
       "returns": {
-        "one_year": 0.85,
-        "three_year": 19.58,
+        "one_year": 2.57,
+        "three_year": 19.6,
         "five_year": null,
         "since_inception": null,
         "benchmark_one_year": null,
@@ -1537,14 +1537,14 @@
         "category_avg_three_year": 28.28070290393152,
         "category_avg_five_year": 29.78700324101245
       },
-      "last_scraped_at": "2026-11-06T08:13:56.893244Z",
+      "last_scraped_at": "2026-11-07T07:31:47.703652Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "9d2aed53-0af5-4f24-90bd-808a21392dbe",
+    "chunk_id": "689e1f21-c30b-4186-a54e-1cb81e636a1b",
     "text": "Risk level: Very High. Standard deviation: 20.00. Sharpe ratio: 0.68. Alpha: 1.33. Beta: 0.84.",
     "metadata": {
       "risk": {
@@ -1554,18 +1554,18 @@
         "beta": 0.84,
         "alpha": 1.33
       },
-      "last_scraped_at": "2026-11-06T08:13:56.893244Z",
+      "last_scraped_at": "2026-11-07T07:31:47.703652Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c4a1f9a1-b8b8-495f-ac45-ef5addccf84f",
-    "text": "Expense ratio is 1.29%. Exit load policy: Exit Load 1% if redeem before 1 month from the date of allotment. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "chunk_id": "384e24a8-1b85-42c3-8583-5ba0851866b4",
+    "text": "Expense ratio is 1.28%. Exit load policy: Exit Load 1% if redeem before 1 month from the date of allotment. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
-        "expense_ratio": 1.29,
+        "expense_ratio": 1.28,
         "exit_load": "Exit Load 1% if redeem before 1 month from the date of allotment.",
         "min_investment": {
           "sip": 100,
@@ -1575,14 +1575,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:56.893244Z",
+      "last_scraped_at": "2026-11-07T07:31:47.703652Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "268e7c40-22d5-45fc-8614-191ea3e22969",
+    "chunk_id": "8b55acf8-937c-43f3-8bc5-9a5397929ddf",
     "text": "Top holdings include: State Bank of India (17.55%), NTPC Ltd (9.41%), Power Grid Corporation of India Ltd (7.92%), Bharat Electronics Ltd (6.29%), Life Insurance Corporation of India (5.98%), Oil & Natural Gas Corporation Ltd (4.94%), Indian Oil Corporation Ltd (4.76%), Coal India Ltd (3.46%), Bharat Petroleum Corporation Ltd (3.30%), Indian Railway Catering & Tourism Corporation Ltd (2.70%).",
     "metadata": {
       "top_holdings": [
@@ -1648,14 +1648,14 @@
         }
       ],
       "turnover_ratio": 101,
-      "last_scraped_at": "2026-11-06T08:13:56.893244Z",
+      "last_scraped_at": "2026-11-07T07:31:47.703652Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "70bb7148-0bdb-4ea1-923c-97c1808e25ba",
+    "chunk_id": "3f395973-aa21-4bf3-be4d-2cfcb53a00d5",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -1663,38 +1663,38 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:56.893244Z",
+      "last_scraped_at": "2026-11-07T07:31:47.703652Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "1f8e1f94-cf93-4b3a-8a5e-1e6156f47ed2",
-    "text": "ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth is a Hybrid mutual fund scheme from ICICI Prudential Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹30.47.",
+    "chunk_id": "5aaaf94d-b711-4960-8429-65a88a7d8a76",
+    "text": "ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth is a Hybrid mutual fund scheme from ICICI Prudential Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹30.57.",
     "metadata": {
       "fund_id": "INF109KC1TW4",
       "amc_name": "ICICI Prudential Mutual Fund",
       "benchmark_name": "CRISIL Hybrid 35+65 Aggressive Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 30.47,
-        "date": "2026-11-05"
+        "value": 30.57,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:36.047272Z",
+      "last_scraped_at": "2026-11-07T07:31:26.262478Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "84d4e1b9-bc95-4d95-bde5-2549fafa41df",
-    "text": "1Y returns: 2.04%. 3Y annualised returns: 17.54%. 5Y annualised returns: 13.85%. Since inception returns: 13.83%. Compared with category 1Y average 4.72%. category 3Y average 14.31%. category 5Y average 13.94%.",
+    "chunk_id": "6587da5d-7068-45a6-9c3c-b27f8e82a260",
+    "text": "1Y returns: 3.07%. 3Y annualised returns: 17.33%. 5Y annualised returns: 13.92%. Since inception returns: 13.83%. Compared with category 1Y average 4.72%. category 3Y average 14.31%. category 5Y average 13.94%.",
     "metadata": {
       "returns": {
-        "one_year": 2.04,
-        "three_year": 17.54,
-        "five_year": 13.85,
+        "one_year": 3.07,
+        "three_year": 17.33,
+        "five_year": 13.92,
         "since_inception": 13.83,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -1703,14 +1703,14 @@
         "category_avg_three_year": 14.31110204180801,
         "category_avg_five_year": 13.941004134645727
       },
-      "last_scraped_at": "2026-11-06T08:13:36.047272Z",
+      "last_scraped_at": "2026-11-07T07:31:26.262478Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "ae04ed6c-6caf-464c-87ac-536502e0a9fa",
+    "chunk_id": "b8182440-3c34-4be5-a288-bd6cf997532f",
     "text": "Risk level: Very High. Standard deviation: 14.31. Sharpe ratio: 0.74.",
     "metadata": {
       "risk": {
@@ -1720,18 +1720,18 @@
         "beta": null,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:36.047272Z",
+      "last_scraped_at": "2026-11-07T07:31:26.262478Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "d65aa537-3970-4ef1-a2ac-b50256bb5efd",
-    "text": "Expense ratio is 1.22%. Exit load policy: Nil Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "chunk_id": "eaaf08a7-9c77-443b-8c83-904197748272",
+    "text": "Expense ratio is 1.21%. Exit load policy: Nil Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
-        "expense_ratio": 1.22,
+        "expense_ratio": 1.21,
         "exit_load": "Nil",
         "min_investment": {
           "sip": 100,
@@ -1741,14 +1741,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:36.047272Z",
+      "last_scraped_at": "2026-11-07T07:31:26.262478Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "bc874a0b-1d54-4484-8518-37664ac4708c",
+    "chunk_id": "f542166e-9225-42f1-bb5c-f49d18fd0a38",
     "text": "Top holdings include: Repo (5.74%), Life Insurance Corporation of India (4.38%), GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100 (2.82%), Mahindra & Mahindra Ltd (2.39%), VEDANTA LIMITED SR I 9.31 NCD 03DC27 FVRS1LAC (2.39%), Titan Company Ltd (2.32%), HDFC Bank Ltd (2.29%), Samvardhana Motherson International Ltd (2.27%), Indegene Ltd. (2.08%), Kirloskar Oil Engines Ltd (1.96%).",
     "metadata": {
       "top_holdings": [
@@ -1814,14 +1814,14 @@
         }
       ],
       "turnover_ratio": 63,
-      "last_scraped_at": "2026-11-06T08:13:36.047272Z",
+      "last_scraped_at": "2026-11-07T07:31:26.262478Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "d2e5ee5d-c57b-4eb4-a0fa-1624173a377e",
+    "chunk_id": "27045728-3518-4301-9660-d28c36e5f8af",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -1829,37 +1829,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:36.047272Z",
+      "last_scraped_at": "2026-11-07T07:31:26.262478Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "cb215029-1e6a-46c3-93b4-06f81648a17f",
-    "text": "ICICI Prudential Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from ICICI Prudential Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹28.46.",
+    "chunk_id": "c5bec283-f762-4b64-b0cc-418aa6b3148f",
+    "text": "ICICI Prudential Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from ICICI Prudential Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹27.98.",
     "metadata": {
       "fund_id": "INF109KC1Y98",
       "amc_name": "ICICI Prudential Mutual Fund",
       "benchmark_name": "Domestic Price of Silver",
       "riskometer": "Very High",
       "nav": {
-        "value": 28.4634,
-        "date": "2026-11-05"
+        "value": 27.9754,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:05.839723Z",
+      "last_scraped_at": "2026-11-07T07:30:55.502563Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "774dc21a-7f6e-4273-92d4-9cab4d81ee8c",
-    "text": "1Y returns: 26.57%. 3Y annualised returns: 35.91%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
+    "chunk_id": "f1f6e06c-b34e-4e04-b9ea-a7fd44c5a5ec",
+    "text": "1Y returns: 22.73%. 3Y annualised returns: 34.72%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
     "metadata": {
       "returns": {
-        "one_year": 26.57,
-        "three_year": 35.91,
+        "one_year": 22.73,
+        "three_year": 34.72,
         "five_year": null,
         "since_inception": null,
         "benchmark_one_year": null,
@@ -1869,14 +1869,14 @@
         "category_avg_three_year": 47.07059763331896,
         "category_avg_five_year": null
       },
-      "last_scraped_at": "2026-11-06T08:13:05.839723Z",
+      "last_scraped_at": "2026-11-07T07:30:55.502563Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "4e2994c7-ed9c-49e9-9937-d3b11252ceb4",
+    "chunk_id": "6e25abf2-25a9-4f85-8acf-0d357b7fdf25",
     "text": "Risk level: Very High. Standard deviation: 39.05. Sharpe ratio: 0.80. Alpha: 1.84. Beta: 0.84.",
     "metadata": {
       "risk": {
@@ -1886,14 +1886,14 @@
         "beta": 0.84,
         "alpha": 1.84
       },
-      "last_scraped_at": "2026-11-06T08:13:05.839723Z",
+      "last_scraped_at": "2026-11-07T07:30:55.502563Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "d67ddbe9-6f8f-4751-8c08-9e149d6d0d71",
+    "chunk_id": "9e7f8ddf-ebcd-480c-bfb4-f952edd48efd",
     "text": "Expense ratio is 0.20%. Exit load policy: Exit load of 1% If redeemed within 15 days. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -1907,14 +1907,14 @@
         "launch_date": null,
         "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:05.839723Z",
+      "last_scraped_at": "2026-11-07T07:30:55.502563Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "99e1b8c6-af37-435c-936e-730def2a67ac",
+    "chunk_id": "7dee8a0e-93bf-4ed7-a1c3-87be6de157d9",
     "text": "Top holdings include: ICICI Prudential Silver ETF - Growth (99.96%), Repo (0.37%), Net Payables (-0.34%).",
     "metadata": {
       "top_holdings": [
@@ -1938,14 +1938,14 @@
         }
       ],
       "turnover_ratio": null,
-      "last_scraped_at": "2026-11-06T08:13:05.839723Z",
+      "last_scraped_at": "2026-11-07T07:30:55.502563Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "d74ac89c-d5ca-4277-b8d2-901651e52d12",
+    "chunk_id": "afb41754-3df8-4cd4-9475-073a072e850f",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -1953,38 +1953,38 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:05.839723Z",
+      "last_scraped_at": "2026-11-07T07:30:55.502563Z",
       "source_urls": [
         "https://groww.in/mutual-funds/icici-prudential-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "e4d3d96d-0e5c-4dba-a3ea-9b3a85ac51b1",
-    "text": "Invesco India PSU Equity Fund Direct Growth is a Equity mutual fund scheme from Invesco Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹75.12.",
+    "chunk_id": "4680bade-82a5-4249-b5d3-c9113dee0fb2",
+    "text": "Invesco India PSU Equity Fund Direct Growth is a Equity mutual fund scheme from Invesco Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹74.98.",
     "metadata": {
       "fund_id": "INF205K01NG5",
       "amc_name": "Invesco Mutual Fund",
       "benchmark_name": "BSE PSU Total Return Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 75.12,
-        "date": "2026-11-05"
+        "value": 74.98,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:51.003584Z",
+      "last_scraped_at": "2026-11-07T07:31:41.576892Z",
       "source_urls": [
         "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "827d8dd7-270f-4f36-bc74-a746caef710a",
-    "text": "1Y returns: -5.41%. 3Y annualised returns: 18.42%. 5Y annualised returns: 19.12%. Since inception returns: 11.34%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
+    "chunk_id": "4883f5c6-94c2-4254-a98d-1e894e7365a9",
+    "text": "1Y returns: -4.07%. 3Y annualised returns: 18.25%. 5Y annualised returns: 19.07%. Since inception returns: 11.34%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
     "metadata": {
       "returns": {
-        "one_year": -5.41,
-        "three_year": 18.42,
-        "five_year": 19.12,
+        "one_year": -4.07,
+        "three_year": 18.25,
+        "five_year": 19.07,
         "since_inception": 11.34,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -1993,14 +1993,14 @@
         "category_avg_three_year": 28.28070290393152,
         "category_avg_five_year": 29.78700324101245
       },
-      "last_scraped_at": "2026-11-06T08:13:51.003584Z",
+      "last_scraped_at": "2026-11-07T07:31:41.576892Z",
       "source_urls": [
         "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "079f4084-3a93-4c20-94d0-6c24a836ea07",
+    "chunk_id": "031e9fd7-36d8-49eb-9b45-c706e0c42184",
     "text": "Risk level: Very High. Standard deviation: 23.82. Sharpe ratio: 0.55. Alpha: -1.01. Beta: 0.98.",
     "metadata": {
       "risk": {
@@ -2010,18 +2010,18 @@
         "beta": 0.98,
         "alpha": -1.01
       },
-      "last_scraped_at": "2026-11-06T08:13:51.003584Z",
+      "last_scraped_at": "2026-11-07T07:31:41.576892Z",
       "source_urls": [
         "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "bd24a0e9-ac1b-47bd-9bef-336227261d16",
-    "text": "Expense ratio is 1.19%. Exit load policy: Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹1000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "chunk_id": "ca6bacda-ff38-4023-be4c-5e96c3392c7e",
+    "text": "Expense ratio is 1.20%. Exit load policy: Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹1000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
-        "expense_ratio": 1.19,
+        "expense_ratio": 1.2,
         "exit_load": "Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year.",
         "min_investment": {
           "sip": 100,
@@ -2031,14 +2031,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:51.003584Z",
+      "last_scraped_at": "2026-11-07T07:31:41.576892Z",
       "source_urls": [
         "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "372cb67a-93d0-4c6c-8abd-4244e10e4c53",
+    "chunk_id": "575e2b77-9b4a-4228-990c-d6f2c7dd39d2",
     "text": "Top holdings include: Hindustan Aeronautics Ltd (8.96%), State Bank of India (7.46%), Indian Bank (5.93%), Dredging Corporation Of India Ltd (5.82%), Bharat Electronics Ltd (5.71%), Bharat Petroleum Corporation Ltd (4.54%), Container Corporation Of India Ltd (4.07%), SBI Life Insurance Company Ltd (3.94%), BEML Ltd (3.91%), Bharat Dynamics Ltd (3.85%).",
     "metadata": {
       "top_holdings": [
@@ -2104,14 +2104,14 @@
         }
       ],
       "turnover_ratio": 23,
-      "last_scraped_at": "2026-11-06T08:13:51.003584Z",
+      "last_scraped_at": "2026-11-07T07:31:41.576892Z",
       "source_urls": [
         "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "da5d8db8-a633-453c-a2a4-93cfc9e7a8eb",
+    "chunk_id": "63331c70-37c4-48a0-8103-825e743293b9",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -2119,37 +2119,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:51.003584Z",
+      "last_scraped_at": "2026-11-07T07:31:41.576892Z",
       "source_urls": [
         "https://groww.in/mutual-funds/invesco-india-psu-equity-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "5c53b09a-9085-4114-9689-4a2991e93d24",
-    "text": "Motilal Oswal BSE Enhanced Value Index Fund Direct Growth is a Equity mutual fund scheme from Motilal Oswal Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹26.97.",
+    "chunk_id": "9938f696-3cbf-4dde-99dd-eb0a396e9a7d",
+    "text": "Motilal Oswal BSE Enhanced Value Index Fund Direct Growth is a Equity mutual fund scheme from Motilal Oswal Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹27.07.",
     "metadata": {
       "fund_id": "INF247L01BF2",
       "amc_name": "Motilal Oswal Mutual Fund",
       "benchmark_name": "BSE Enhanced Value Total Return Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 26.9744,
-        "date": "2026-11-05"
+        "value": 27.0738,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:44.909239Z",
+      "last_scraped_at": "2026-11-07T07:31:35.733792Z",
       "source_urls": [
         "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "ba342a3e-2f72-442c-a72e-c4bec5231938",
-    "text": "1Y returns: -2.47%. 3Y annualised returns: 19.89%. Compared with category 1Y average 4.80%. category 3Y average 19.16%. category 5Y average 18.84%.",
+    "chunk_id": "116572ff-9627-4718-a7a1-5b45225b3c3e",
+    "text": "1Y returns: -0.92%. 3Y annualised returns: 19.78%. Compared with category 1Y average 4.80%. category 3Y average 19.16%. category 5Y average 18.84%.",
     "metadata": {
       "returns": {
-        "one_year": -2.47,
-        "three_year": 19.89,
+        "one_year": -0.92,
+        "three_year": 19.78,
         "five_year": null,
         "since_inception": null,
         "benchmark_one_year": null,
@@ -2159,14 +2159,14 @@
         "category_avg_three_year": 19.158903875509584,
         "category_avg_five_year": 18.837934652497328
       },
-      "last_scraped_at": "2026-11-06T08:13:44.909239Z",
+      "last_scraped_at": "2026-11-07T07:31:35.733792Z",
       "source_urls": [
         "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "15d91c32-5b91-467b-bb94-2517b842e354",
+    "chunk_id": "a85b1766-0a3e-4ee7-b6dc-6ff02837371c",
     "text": "Risk level: Very High. Standard deviation: 21.74. Sharpe ratio: 0.64. Alpha: 7.58. Beta: 1.22.",
     "metadata": {
       "risk": {
@@ -2176,14 +2176,14 @@
         "beta": 1.22,
         "alpha": 7.58
       },
-      "last_scraped_at": "2026-11-06T08:13:44.909239Z",
+      "last_scraped_at": "2026-11-07T07:31:35.733792Z",
       "source_urls": [
         "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "34850b4c-f0b7-4ec1-bf4f-33d6d681f20e",
+    "chunk_id": "988d30e4-c2e1-438e-ae5a-b9f94766e890",
     "text": "Expense ratio is 0.54%. Exit load policy: Exit Load: 1%- If redeemed on or before 15 days from the date of allotment. Minimum SIP investment is ₹500. Minimum lump-sum investment is ₹500. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -2197,14 +2197,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:44.909239Z",
+      "last_scraped_at": "2026-11-07T07:31:35.733792Z",
       "source_urls": [
         "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b21e0236-7214-41a2-a37b-406f43d637f9",
+    "chunk_id": "5c3a048e-1453-4396-ae0b-ec60b79fa275",
     "text": "Top holdings include: Indian Oil Corporation Ltd (7.21%), Bharat Petroleum Corporation Ltd (7.18%), Coal India Ltd (7.15%), Oil & Natural Gas Corporation Ltd (6.99%), State Bank of India (6.97%), Tata Motors Ltd (6.82%), Hindalco Industries Ltd (6.68%), Life Insurance Corporation of India (4.89%), GAIL (India) Ltd (4.66%), Steel Authority Of India Ltd (4.54%).",
     "metadata": {
       "top_holdings": [
@@ -2270,14 +2270,14 @@
         }
       ],
       "turnover_ratio": 34,
-      "last_scraped_at": "2026-11-06T08:13:44.909239Z",
+      "last_scraped_at": "2026-11-07T07:31:35.733792Z",
       "source_urls": [
         "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "59f13c62-5441-44d8-bef5-93f6838caa5d",
+    "chunk_id": "768fa90c-5568-470e-bc91-f6f6f82e0e05",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -2285,14 +2285,14 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:44.909239Z",
+      "last_scraped_at": "2026-11-07T07:31:35.733792Z",
       "source_urls": [
         "https://groww.in/mutual-funds/motilal-oswal-bse-enhanced-value-index-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "1fa6f773-1da8-4b3e-80db-45b09d837154",
+    "chunk_id": "aca1c446-9e6d-4f87-8718-ac4db774559e",
     "text": "Nippon India Multi Asset Allocation Fund Direct Growth is a Hybrid mutual fund scheme from Nippon India Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹26.69.",
     "metadata": {
       "fund_id": "INF204KB19V4",
@@ -2303,14 +2303,14 @@
         "value": 26.6923,
         "date": "2026-11-05"
       },
-      "last_scraped_at": "2026-11-06T08:13:39.138334Z",
+      "last_scraped_at": "2026-11-07T07:31:29.115866Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b7cb614b-cc54-439e-910e-3787c2346961",
+    "chunk_id": "d68ab42c-06a1-470f-ac6a-44804921fa8c",
     "text": "1Y returns: 7.26%. 3Y annualised returns: 18.44%. 5Y annualised returns: 14.48%. Since inception returns: 31.90%. Compared with category 1Y average 15.09%. category 3Y average 17.81%. category 5Y average 16.11%.",
     "metadata": {
       "returns": {
@@ -2325,14 +2325,14 @@
         "category_avg_three_year": 17.808079513027074,
         "category_avg_five_year": 16.11038377499498
       },
-      "last_scraped_at": "2026-11-06T08:13:39.138334Z",
+      "last_scraped_at": "2026-11-07T07:31:29.115866Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "0b874d5a-6da8-4571-b4c9-f688db33dacd",
+    "chunk_id": "9cec7fb5-cd18-4e8c-ac36-6a2cc617deb2",
     "text": "Risk level: Very High. Standard deviation: 10.11. Sharpe ratio: 1.11.",
     "metadata": {
       "risk": {
@@ -2342,14 +2342,14 @@
         "beta": null,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:39.138334Z",
+      "last_scraped_at": "2026-11-07T07:31:29.115866Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "819bef26-f85c-4f22-ae8e-697b50c13a6b",
+    "chunk_id": "ea655104-f83b-4f82-b3d9-7c33958c87c1",
     "text": "Expense ratio is 0.48%. Exit load policy: Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 12 months. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -2363,14 +2363,14 @@
         "launch_date": null,
         "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:39.138334Z",
+      "last_scraped_at": "2026-11-07T07:31:29.115866Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c97417ac-4818-4b13-9e31-7a43f96586ff",
+    "chunk_id": "fd1dc0ef-f377-4456-9a85-ed5375a1ee3a",
     "text": "Top holdings include: Nippon India ETF Gold BeES IDCW (7.94%), IShares MSCI World ETF (4.52%), Repo (3.60%), ICICI Bank Ltd (3.44%), GOLD MINI (100 GRAMS) COMMODITY JUNE      2020 FUTURE (3.39%), HDFC Bank Ltd (3.25%), Nippon India Silver ETF - Growth (2.70%), Axis Bank Ltd (2.42%), State Bank of India (1.69%), Zomato Ltd (1.65%).",
     "metadata": {
       "top_holdings": [
@@ -2436,14 +2436,14 @@
         }
       ],
       "turnover_ratio": 139,
-      "last_scraped_at": "2026-11-06T08:13:39.138334Z",
+      "last_scraped_at": "2026-11-07T07:31:29.115866Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c30d6ccf-e637-4644-9885-cc2f30e33044",
+    "chunk_id": "6960adb9-7a8a-4a0c-a4da-988650db9ae6",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -2451,37 +2451,37 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:39.138334Z",
+      "last_scraped_at": "2026-11-07T07:31:29.115866Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "4aa6cad6-f23e-47a5-aa52-1626b51da3a3",
-    "text": "Nippon India Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from Nippon India Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹28.33.",
+    "chunk_id": "580f429f-a0ba-463f-8d0e-a288a32f2b3f",
+    "text": "Nippon India Silver ETF FoF Direct Growth is a Commodity mutual fund scheme from Nippon India Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹27.82.",
     "metadata": {
       "fund_id": "INF204KC1378",
       "amc_name": "Nippon India Mutual Fund",
       "benchmark_name": "Domestic Price of Silver Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 28.3308,
-        "date": "2026-11-05"
+        "value": 27.8227,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:08.707434Z",
+      "last_scraped_at": "2026-11-07T07:30:58.500073Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "00deb7b6-c91c-4a6a-b6c5-2f2194ade60b",
-    "text": "1Y returns: 26.06%. 3Y annualised returns: 35.71%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
+    "chunk_id": "04ffe0cc-9c4b-48a7-a4ae-01292674e244",
+    "text": "1Y returns: 22.16%. 3Y annualised returns: 34.36%. Compared with category 1Y average 154.77%. category 3Y average 47.07%.",
     "metadata": {
       "returns": {
-        "one_year": 26.06,
-        "three_year": 35.71,
+        "one_year": 22.16,
+        "three_year": 34.36,
         "five_year": null,
         "since_inception": null,
         "benchmark_one_year": null,
@@ -2491,14 +2491,14 @@
         "category_avg_three_year": 47.07059763331896,
         "category_avg_five_year": null
       },
-      "last_scraped_at": "2026-11-06T08:13:08.707434Z",
+      "last_scraped_at": "2026-11-07T07:30:58.500073Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "8706b6fc-bea1-460a-a29c-ffbd38021a82",
+    "chunk_id": "0d5733e2-17f9-4dc0-8bad-b0162658868c",
     "text": "Risk level: Very High. Standard deviation: 44.84. Sharpe ratio: 0.73. Alpha: -1.48. Beta: 0.98.",
     "metadata": {
       "risk": {
@@ -2508,14 +2508,14 @@
         "beta": 0.98,
         "alpha": -1.48
       },
-      "last_scraped_at": "2026-11-06T08:13:08.707434Z",
+      "last_scraped_at": "2026-11-07T07:30:58.500073Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "bccb5254-c07b-404b-9d2c-11874962ab67",
+    "chunk_id": "b07f20f5-f64d-4cd9-927a-bbd9ba412b2c",
     "text": "Expense ratio is 0.22%. Exit load policy: Exit load of 1% if redeemed within 15 days. Minimum SIP investment is ₹100. Minimum lump-sum investment is ₹100. Taxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -2529,14 +2529,14 @@
         "launch_date": null,
         "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:08.707434Z",
+      "last_scraped_at": "2026-11-07T07:30:58.500073Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b117f6a8-7ed3-4964-a2ab-01bbf0a81225",
+    "chunk_id": "225d4ea7-22aa-441a-a08b-05ae7637b5c4",
     "text": "Top holdings include: Nippon India Silver ETF - Growth (100.01%), Repo (0.12%), Others Mrgn Money (0.00%), Net Payables (-0.13%).",
     "metadata": {
       "top_holdings": [
@@ -2566,14 +2566,14 @@
         }
       ],
       "turnover_ratio": null,
-      "last_scraped_at": "2026-11-06T08:13:08.707434Z",
+      "last_scraped_at": "2026-11-07T07:30:58.500073Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c2587f53-59f9-429b-8c39-1d346e248f5a",
+    "chunk_id": "10368fbe-935e-4005-afab-75edb02eb7f7",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -2581,14 +2581,14 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:08.707434Z",
+      "last_scraped_at": "2026-11-07T07:30:58.500073Z",
       "source_urls": [
         "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "d6d02379-5599-47d5-bccc-e1fcac0a6f32",
+    "chunk_id": "42459a5f-fd62-4af9-aa25-e76634dce187",
     "text": "Quant Multi Asset Allocation Fund Direct Growth is a Hybrid mutual fund scheme from Quant Mutual Fund with a risk level rated as High. Latest NAV as of 2026-11-05 is ₹180.99.",
     "metadata": {
       "fund_id": "INF966L01580",
@@ -2599,14 +2599,14 @@
         "value": 180.9895,
         "date": "2026-11-05"
       },
-      "last_scraped_at": "2026-11-06T08:13:32.901877Z",
+      "last_scraped_at": "2026-11-07T07:31:23.095811Z",
       "source_urls": [
         "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b75e6ff4-3940-4a79-8113-7c697c75c811",
+    "chunk_id": "104109ac-a7d8-4440-8d13-b7f4307c485c",
     "text": "1Y returns: 11.66%. 3Y annualised returns: 21.81%. 5Y annualised returns: 18.43%. Since inception returns: 9.86%. Compared with category 1Y average 15.09%. category 3Y average 17.81%. category 5Y average 16.11%.",
     "metadata": {
       "returns": {
@@ -2621,14 +2621,14 @@
         "category_avg_three_year": 17.808079513027074,
         "category_avg_five_year": 16.11038377499498
       },
-      "last_scraped_at": "2026-11-06T08:13:32.901877Z",
+      "last_scraped_at": "2026-11-07T07:31:23.095811Z",
       "source_urls": [
         "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "1db9082f-eb47-4606-93ca-c18ad7bb36b3",
+    "chunk_id": "0ce5fcb4-073f-40b1-ac71-1618bb4bc8c0",
     "text": "Risk level: High. Standard deviation: 12.07. Sharpe ratio: 1.20. Beta: 0.75.",
     "metadata": {
       "risk": {
@@ -2638,14 +2638,14 @@
         "beta": 0.75,
         "alpha": null
       },
-      "last_scraped_at": "2026-11-06T08:13:32.901877Z",
+      "last_scraped_at": "2026-11-07T07:31:23.095811Z",
       "source_urls": [
         "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "5533cb48-75df-44fd-b3db-c707d585e05f",
+    "chunk_id": "9621f88b-13e1-4279-b245-2f76dded6123",
     "text": "Expense ratio is 1.18%. Exit load policy: Exit load of 1%, if redeemed within 15 days. Minimum SIP investment is ₹1000. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -2659,14 +2659,14 @@
         "launch_date": null,
         "taxation": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:32.901877Z",
+      "last_scraped_at": "2026-11-07T07:31:23.095811Z",
       "source_urls": [
         "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "f073ac79-a98d-490a-8e95-91f43a3aea83",
+    "chunk_id": "f00b88be-76c9-4119-b4d0-8d6a862dcd5f",
     "text": "Top holdings include: Net Current Assets (15.54%), Repo (10.08%), Reliance Industries Ltd (8.50%), Nippon India ETF Gold BeES IDCW (8.50%), Bharti Airtel Ltd (8.38%), Adani Enterprises Ltd (6.89%), Adani Green Energy Ltd (6.15%), ICICI Bank Ltd (5.20%), Indus Towers Ltd (4.59%), Aurobindo Pharma Ltd (4.55%).",
     "metadata": {
       "top_holdings": [
@@ -2732,14 +2732,14 @@
         }
       ],
       "turnover_ratio": 0,
-      "last_scraped_at": "2026-11-06T08:13:32.901877Z",
+      "last_scraped_at": "2026-11-07T07:31:23.095811Z",
       "source_urls": [
         "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "961ed119-a3a6-4c4d-8e67-c951df198d75",
+    "chunk_id": "8625e562-8af0-4192-81db-754680711b99",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -2747,14 +2747,14 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:32.901877Z",
+      "last_scraped_at": "2026-11-07T07:31:23.095811Z",
       "source_urls": [
         "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "4b441a97-71eb-4e04-879a-545bbf18afb9",
+    "chunk_id": "5a3156da-6f0f-4990-9da5-7725895351b3",
     "text": "SBI Children's Fund Investment Plan Direct Growth is a Equity mutual fund scheme from SBI Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹53.78.",
     "metadata": {
       "fund_id": "INF200KA1R07",
@@ -2765,14 +2765,14 @@
         "value": 53.7803,
         "date": "2026-11-05"
       },
-      "last_scraped_at": "2026-11-06T08:13:29.933878Z",
+      "last_scraped_at": "2026-11-07T07:31:19.951106Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c6fe4f68-9873-49f8-9853-eaeff1c05e9e",
+    "chunk_id": "6190d816-e00d-4e72-8f2f-cc824a183cd1",
     "text": "1Y returns: 11.55%. 3Y annualised returns: 21.73%. 5Y annualised returns: 18.34%. Since inception returns: 117.29%. Compared with category 1Y average 2.19%. category 3Y average 15.99%. category 5Y average 15.61%.",
     "metadata": {
       "returns": {
@@ -2787,14 +2787,14 @@
         "category_avg_three_year": 15.986357003393906,
         "category_avg_five_year": 15.612299390110422
       },
-      "last_scraped_at": "2026-11-06T08:13:29.933878Z",
+      "last_scraped_at": "2026-11-07T07:31:19.951106Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "448f8e16-b29f-4624-af8a-0976c4d6e1a6",
+    "chunk_id": "c84de92f-83aa-4829-a1cd-d774d7cdfdd9",
     "text": "Risk level: Very High. Standard deviation: 16.20. Sharpe ratio: 0.87. Alpha: 9.64. Beta: 0.85.",
     "metadata": {
       "risk": {
@@ -2804,18 +2804,18 @@
         "beta": 0.85,
         "alpha": 9.64
       },
-      "last_scraped_at": "2026-11-06T08:13:29.933878Z",
+      "last_scraped_at": "2026-11-07T07:31:19.951106Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "4cbe895f-0c68-4de1-947d-6b9b184374ac",
-    "text": "Expense ratio is 1.03%. Exit load policy: With respect to units not subject to lock-in period and the holding period is less than\r\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year. Minimum SIP investment is ₹500. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "chunk_id": "8cc5bb93-7763-4b40-911d-d0a3bfa57b59",
+    "text": "Expense ratio is 1.02%. Exit load policy: With respect to units not subject to lock-in period and the holding period is less than\r\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year. Minimum SIP investment is ₹500. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
-        "expense_ratio": 1.03,
+        "expense_ratio": 1.02,
         "exit_load": "With respect to units not subject to lock-in period and the holding period is less than\r\n3 years: Exit load of 3% if redeemed within 1 year, 2% if redeemed after 1 year but within 2 year, 1% if redeemed after 2 year but within 3 year.",
         "min_investment": {
           "sip": 500,
@@ -2825,14 +2825,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:29.933878Z",
+      "last_scraped_at": "2026-11-07T07:31:19.951106Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "587306b2-4953-4568-83d1-a34e069f0fe2",
+    "chunk_id": "c68493e9-a62a-4375-ab74-aedab2f670d2",
     "text": "Top holdings include: Repo (13.01%), Alphabet Inc Forgn. Eq (GOOGL) (5.40%), Thangamayil Jewellery Ltd (4.46%), State Bank of India (4.35%), Hatsun Agro Products Ltd (3.83%), Renew Energy Global PLC Forgn. Eq (RNW) (3.77%), Kotak Mahindra Bank Ltd (3.67%), Adani Enterprises Ltd (3.65%), Aequs Ltd. (3.52%), Sona BLW Precision Forgings Ltd (3.45%).",
     "metadata": {
       "top_holdings": [
@@ -2898,14 +2898,14 @@
         }
       ],
       "turnover_ratio": 162,
-      "last_scraped_at": "2026-11-06T08:13:29.933878Z",
+      "last_scraped_at": "2026-11-07T07:31:19.951106Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "5c48081b-c0d9-4223-9b23-ee8df5b50ae3",
+    "chunk_id": "1846bd77-8aad-415a-8467-a405235f904c",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -2913,38 +2913,38 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:29.933878Z",
+      "last_scraped_at": "2026-11-07T07:31:19.951106Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-children's-fund-investment-plan-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "c70a1390-eb31-4fc8-8f3d-7b123409d34d",
-    "text": "SBI PSU Direct Plan Growth is a Equity mutual fund scheme from SBI Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-05 is ₹37.32.",
+    "chunk_id": "81d12d24-1cc7-4a19-af5c-6628c77bf543",
+    "text": "SBI PSU Direct Plan Growth is a Equity mutual fund scheme from SBI Mutual Fund with a risk level rated as Very High. Latest NAV as of 2026-11-06 is ₹37.46.",
     "metadata": {
       "fund_id": "INF200K01UY4",
       "amc_name": "SBI Mutual Fund",
       "benchmark_name": "BSE PSU Total Return Index",
       "riskometer": "Very High",
       "nav": {
-        "value": 37.3196,
-        "date": "2026-11-05"
+        "value": 37.4646,
+        "date": "2026-11-06"
       },
-      "last_scraped_at": "2026-11-06T08:13:47.788809Z",
+      "last_scraped_at": "2026-11-07T07:31:38.555143Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "b0ce38d7-5162-4095-8ed9-d82fa2b7b9d2",
-    "text": "1Y returns: 0.27%. 3Y annualised returns: 20.70%. 5Y annualised returns: 21.60%. Since inception returns: 3.93%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
+    "chunk_id": "f780a325-7bc4-4114-861c-e344245acc62",
+    "text": "1Y returns: 1.75%. 3Y annualised returns: 20.63%. 5Y annualised returns: 21.68%. Since inception returns: 3.93%. Compared with category 1Y average 5.81%. category 3Y average 28.28%. category 5Y average 29.79%.",
     "metadata": {
       "returns": {
-        "one_year": 0.27,
-        "three_year": 20.7,
-        "five_year": 21.6,
+        "one_year": 1.75,
+        "three_year": 20.63,
+        "five_year": 21.68,
         "since_inception": 3.93,
         "benchmark_one_year": null,
         "benchmark_three_year": null,
@@ -2953,14 +2953,14 @@
         "category_avg_three_year": 28.28070290393152,
         "category_avg_five_year": 29.78700324101245
       },
-      "last_scraped_at": "2026-11-06T08:13:47.788809Z",
+      "last_scraped_at": "2026-11-07T07:31:38.555143Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "937e988e-94af-4f78-90df-29771bca54ca",
+    "chunk_id": "726f066e-cc9b-492d-aea7-5f035412f491",
     "text": "Risk level: Very High. Standard deviation: 22.09. Sharpe ratio: 0.66. Alpha: 1.11. Beta: 0.92.",
     "metadata": {
       "risk": {
@@ -2970,14 +2970,14 @@
         "beta": 0.92,
         "alpha": 1.11
       },
-      "last_scraped_at": "2026-11-06T08:13:47.788809Z",
+      "last_scraped_at": "2026-11-07T07:31:38.555143Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "931d70a1-4fea-4845-8ef7-cf4b0f178697",
+    "chunk_id": "2f7050cb-9976-46c0-9ed3-365600bd9452",
     "text": "Expense ratio is 0.98%. Exit load policy: Exit load of 0.50% if redeemed within 30 days. Minimum SIP investment is ₹500. Minimum lump-sum investment is ₹5000. Taxation: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
     "metadata": {
       "operations": {
@@ -2991,14 +2991,14 @@
         "launch_date": null,
         "taxation": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%."
       },
-      "last_scraped_at": "2026-11-06T08:13:47.788809Z",
+      "last_scraped_at": "2026-11-07T07:31:38.555143Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "f8226a8f-ed4b-4dae-93e9-dfc7817a8e2d",
+    "chunk_id": "16867d9f-3a18-42f2-9e8a-f80b414350db",
     "text": "Top holdings include: State Bank of India (15.66%), NTPC Ltd (8.61%), Bharat Electronics Ltd (7.87%), Power Grid Corporation of India Ltd (7.41%), GAIL (India) Ltd (6.87%), Bank Of Baroda (5.21%), Bharat Petroleum Corporation Ltd (4.63%), Bharat Heavy Electricals Ltd (4.25%), Container Corporation Of India Ltd (3.66%), Oil & Natural Gas Corporation Ltd (3.66%).",
     "metadata": {
       "top_holdings": [
@@ -3064,14 +3064,14 @@
         }
       ],
       "turnover_ratio": 47,
-      "last_scraped_at": "2026-11-06T08:13:47.788809Z",
+      "last_scraped_at": "2026-11-07T07:31:38.555143Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
       ]
     }
   },
   {
-    "chunk_id": "e3352710-6535-476d-bd69-ec3de80b87d9",
+    "chunk_id": "325c7730-7aed-429c-b018-b766e1b88469",
     "text": "Latest mutual fund & market news Generic news stream from Groww; not specific to this single fund.",
     "metadata": {
       "headline": "Latest mutual fund & market news",
@@ -3079,7 +3079,7 @@
       "summary": "Generic news stream from Groww; not specific to this single fund.",
       "publisher": "Groww News",
       "url": "https://groww.in/blog/category/news",
-      "last_scraped_at": "2026-11-06T08:13:47.788809Z",
+      "last_scraped_at": "2026-11-07T07:31:38.555143Z",
       "source_urls": [
         "https://groww.in/mutual-funds/sbi-psu-fund-direct-growth"
       ]

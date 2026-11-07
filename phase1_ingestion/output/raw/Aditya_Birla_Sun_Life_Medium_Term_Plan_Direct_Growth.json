@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 48.2847,
-    "date": "05-Nov-2026",
+    "value": 48.2595,
+    "date": "06-Nov-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 8.15,
-    "three_year": 10.57,
-    "five_year": 12.67,
+    "one_year": 8.04,
+    "three_year": 10.54,
+    "five_year": 12.65,
     "since_inception": 4.91,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -162,5 +162,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/aditya-birla-sun-life-medium-term-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-11-06T08:13:26.963559Z"
+  "last_scraped_at": "2026-11-07T07:31:17.077951Z"
 }
