@@ -45,61 +45,61 @@
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 17.55173871,
+        "weight_pct": 17.10075316,
         "sector": null
       },
       {
         "name": "NTPC Ltd",
         "percentage": null,
-        "weight_pct": 9.4097133,
+        "weight_pct": 9.49375665,
         "sector": null
       },
       {
         "name": "Power Grid Corporation of India Ltd",
         "percentage": null,
-        "weight_pct": 7.92162164,
-        "sector": null
-      },
-      {
-        "name": "Bharat Electronics Ltd",
-        "percentage": null,
-        "weight_pct": 6.28652003,
-        "sector": null
-      },
-      {
-        "name": "Life Insurance Corporation of India",
-        "percentage": null,
-        "weight_pct": 5.98235564,
-        "sector": null
-      },
-      {
-        "name": "Oil & Natural Gas Corporation Ltd",
-        "percentage": null,
-        "weight_pct": 4.93814908,
-        "sector": null
-      },
-      {
-        "name": "Indian Oil Corporation Ltd",
-        "percentage": null,
-        "weight_pct": 4.75786172,
+        "weight_pct": 8.29754297,
         "sector": null
       },
       {
         "name": "Coal India Ltd",
         "percentage": null,
-        "weight_pct": 3.45610993,
+        "weight_pct": 5.2564978,
+        "sector": null
+      },
+      {
+        "name": "Life Insurance Corporation of India",
+        "percentage": null,
+        "weight_pct": 4.96153015,
+        "sector": null
+      },
+      {
+        "name": "Indian Oil Corporation Ltd",
+        "percentage": null,
+        "weight_pct": 4.72547388,
+        "sector": null
+      },
+      {
+        "name": "Repo",
+        "percentage": null,
+        "weight_pct": 4.72236957,
+        "sector": null
+      },
+      {
+        "name": "Bharat Electronics Ltd",
+        "percentage": null,
+        "weight_pct": 4.20863352,
+        "sector": null
+      },
+      {
+        "name": "Oil & Natural Gas Corporation Ltd",
+        "percentage": null,
+        "weight_pct": 4.11650784,
         "sector": null
       },
       {
         "name": "Bharat Petroleum Corporation Ltd",
         "percentage": null,
-        "weight_pct": 3.29937722,
-        "sector": null
-      },
-      {
-        "name": "Indian Railway Catering & Tourism Corporation Ltd",
-        "percentage": null,
-        "weight_pct": 2.69626887,
+        "weight_pct": 3.19221719,
         "sector": null
       }
     ],
@@ -112,7 +112,7 @@
     "total_stocks": null,
     "total_bonds": null,
     "sector_allocation": {},
-    "turnover_ratio": 101
+    "turnover_ratio": 104
   },
   "operations": {
     "expense_ratio": 1.28,
@@ -148,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-psu-equity-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-11-10T08:39:56.200466Z"
+  "last_scraped_at": "2026-11-11T08:00:16.679934Z"
 }

@@ -43,63 +43,63 @@
   "portfolio": {
     "top_holdings": [
       {
-        "name": "Repo",
+        "name": "Life Insurance Corporation of India",
         "percentage": null,
-        "weight_pct": 5.7380257,
+        "weight_pct": 4.42111949,
         "sector": null
       },
       {
-        "name": "Life Insurance Corporation of India",
+        "name": "Repo",
         "percentage": null,
-        "weight_pct": 4.3802815,
+        "weight_pct": 3.61281637,
+        "sector": null
+      },
+      {
+        "name": "Bharti Airtel Ltd",
+        "percentage": null,
+        "weight_pct": 2.98523247,
         "sector": null
       },
       {
         "name": "GOVERNMENT OF INDIA 37426 GOI 11MY36 6.94 FV RS 100",
         "percentage": null,
-        "weight_pct": 2.81838748,
+        "weight_pct": 2.88484203,
         "sector": null
       },
       {
         "name": "Mahindra & Mahindra Ltd",
         "percentage": null,
-        "weight_pct": 2.38714513,
+        "weight_pct": 2.54600993,
         "sector": null
       },
       {
         "name": "VEDANTA LIMITED SR I 9.31 NCD 03DC27 FVRS1LAC",
         "percentage": null,
-        "weight_pct": 2.3860252,
+        "weight_pct": 2.47234649,
+        "sector": null
+      },
+      {
+        "name": "Polycab India Ltd",
+        "percentage": null,
+        "weight_pct": 2.39219831,
         "sector": null
       },
       {
         "name": "Titan Company Ltd",
         "percentage": null,
-        "weight_pct": 2.32135344,
+        "weight_pct": 2.33678246,
         "sector": null
       },
       {
         "name": "HDFC Bank Ltd",
         "percentage": null,
-        "weight_pct": 2.29004285,
+        "weight_pct": 2.32999399,
         "sector": null
       },
       {
         "name": "Samvardhana Motherson International Ltd",
         "percentage": null,
-        "weight_pct": 2.26714747,
-        "sector": null
-      },
-      {
-        "name": "Indegene Ltd.",
-        "percentage": null,
-        "weight_pct": 2.08336136,
-        "sector": null
-      },
-      {
-        "name": "Kirloskar Oil Engines Ltd",
-        "percentage": null,
-        "weight_pct": 1.96222011,
+        "weight_pct": 2.26192878,
         "sector": null
       }
     ],
@@ -148,5 +148,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/icici-prudential-retirement-fund-hybrid-aggressive-plan-direct-growth"
   ],
-  "last_scraped_at": "2026-11-10T08:39:31.629781Z"
+  "last_scraped_at": "2026-11-11T07:59:51.196998Z"
 }

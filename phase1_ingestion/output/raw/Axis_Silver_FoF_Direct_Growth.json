@@ -46,19 +46,19 @@
       {
         "name": "Axis Silver ETF Regular-Growth",
         "percentage": null,
-        "weight_pct": 100.03591666,
+        "weight_pct": 99.85551695,
         "sector": null
       },
       {
         "name": "Others CBLO",
         "percentage": null,
-        "weight_pct": 0.21920855,
+        "weight_pct": 0.47322242,
         "sector": null
       },
       {
         "name": "Net Payables",
         "percentage": null,
-        "weight_pct": -0.25512522,
+        "weight_pct": -0.32873938,
         "sector": null
       }
     ],
@@ -130,5 +130,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/axis-silver-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-11-10T08:38:53.966612Z"
+  "last_scraped_at": "2026-11-11T07:59:04.050968Z"
 }
