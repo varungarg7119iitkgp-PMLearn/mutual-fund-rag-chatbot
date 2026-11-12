@@ -15,17 +15,17 @@
     ]
   },
   "nav": {
-    "value": 181.1955,
-    "date": "09-Nov-2026",
+    "value": 181.354,
+    "date": "11-Nov-2026",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.57,
-    "three_year": 21.4,
-    "five_year": 17.8,
+    "one_year": 10.94,
+    "three_year": 21.29,
+    "five_year": 17.9,
     "since_inception": 9.86,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -46,61 +46,61 @@
       {
         "name": "Net Current Assets",
         "percentage": null,
-        "weight_pct": 15.543919,
-        "sector": null
-      },
-      {
-        "name": "Repo",
-        "percentage": null,
-        "weight_pct": 10.083524,
-        "sector": null
-      },
-      {
-        "name": "Reliance Industries Ltd",
-        "percentage": null,
-        "weight_pct": 8.496483,
-        "sector": null
-      },
-      {
-        "name": "Nippon India ETF Gold BeES IDCW",
-        "percentage": null,
-        "weight_pct": 8.496284,
+        "weight_pct": 15.744899,
         "sector": null
       },
       {
         "name": "Bharti Airtel Ltd",
         "percentage": null,
-        "weight_pct": 8.383895,
+        "weight_pct": 9.309161,
         "sector": null
       },
       {
-        "name": "Adani Enterprises Ltd",
+        "name": "Nippon India ETF Gold BeES IDCW",
         "percentage": null,
-        "weight_pct": 6.885199,
+        "weight_pct": 7.958882,
+        "sector": null
+      },
+      {
+        "name": "Quant Silver ETF-Growth",
+        "percentage": null,
+        "weight_pct": 7.427504,
+        "sector": null
+      },
+      {
+        "name": "Jio Platforms Ltd",
+        "percentage": null,
+        "weight_pct": 6.307373,
         "sector": null
       },
       {
         "name": "Adani Green Energy Ltd",
         "percentage": null,
-        "weight_pct": 6.152087,
+        "weight_pct": 6.179535,
+        "sector": null
+      },
+      {
+        "name": "Adani Enterprises Ltd",
+        "percentage": null,
+        "weight_pct": 6.046216,
+        "sector": null
+      },
+      {
+        "name": "GOLD MINI (100 GRAMS) COMMODITY JUNE      2020 FUTURE",
+        "percentage": null,
+        "weight_pct": 5.758574,
         "sector": null
       },
       {
         "name": "ICICI Bank Ltd",
         "percentage": null,
-        "weight_pct": 5.204743,
+        "weight_pct": 5.441629,
         "sector": null
       },
       {
         "name": "Indus Towers Ltd",
         "percentage": null,
-        "weight_pct": 4.589057,
-        "sector": null
-      },
-      {
-        "name": "Aurobindo Pharma Ltd",
-        "percentage": null,
-        "weight_pct": 4.54747,
+        "weight_pct": 4.598048,
         "sector": null
       }
     ],
@@ -172,5 +172,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-11-11T07:59:47.117975Z"
+  "last_scraped_at": "2026-11-12T08:38:55.664781Z"
 }
