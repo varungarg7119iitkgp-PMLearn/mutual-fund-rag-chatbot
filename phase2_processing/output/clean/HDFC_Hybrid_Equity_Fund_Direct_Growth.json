@@ -45,61 +45,61 @@
       {
         "name": "HDFC Bank Ltd",
         "percentage": null,
-        "weight_pct": 7.01,
+        "weight_pct": 8.06841424,
         "sector": null
       },
       {
         "name": "ICICI Bank Ltd",
         "percentage": null,
-        "weight_pct": 6.87,
+        "weight_pct": 6.38681999,
         "sector": null
       },
       {
         "name": "Reliance Industries Ltd",
         "percentage": null,
-        "weight_pct": 4.15,
-        "sector": null
-      },
-      {
-        "name": "Kotak Mahindra Bank Ltd",
-        "percentage": null,
-        "weight_pct": 3.45,
+        "weight_pct": 4.11790629,
         "sector": null
       },
       {
         "name": "Axis Bank Ltd",
         "percentage": null,
-        "weight_pct": 3.19,
+        "weight_pct": 3.19749123,
+        "sector": null
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd",
+        "percentage": null,
+        "weight_pct": 3.03284969,
         "sector": null
       },
       {
         "name": "State Bank of India",
         "percentage": null,
-        "weight_pct": 2.86,
-        "sector": null
-      },
-      {
-        "name": "GOVERNMENT OF INDIA 34238 GOI 22AP64 7.34 FV RS 100",
-        "percentage": null,
-        "weight_pct": 2.18,
-        "sector": null
-      },
-      {
-        "name": "Larsen & Toubro Ltd",
-        "percentage": null,
-        "weight_pct": 2.14,
-        "sector": null
-      },
-      {
-        "name": "Divi's Laboratories Ltd",
-        "percentage": null,
-        "weight_pct": 2.09,
+        "weight_pct": 2.89470288,
         "sector": null
       },
       {
         "name": "Maruti Suzuki India Ltd",
         "percentage": null,
-        "weight_pct": 2.03,
+        "weight_pct": 2.37038597,
+        "sector": null
+      },
+      {
+        "name": "Infosys Ltd",
+        "percentage": null,
+        "weight_pct": 2.26430245,
+        "sector": null
+      },
+      {
+        "name": "Larsen & Toubro Ltd",
+        "percentage": null,
+        "weight_pct": 2.23189999,
+        "sector": null
+      },
+      {
+        "name": "Repo",
+        "percentage": null,
+        "weight_pct": 2.03160524,
         "sector": null
       }
     ],
@@ -165,5 +165,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/hdfc-premier-multi-cap-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-11-15T08:07:40.722560Z"
+  "last_scraped_at": "2026-11-16T08:16:19.428030Z"
 }
