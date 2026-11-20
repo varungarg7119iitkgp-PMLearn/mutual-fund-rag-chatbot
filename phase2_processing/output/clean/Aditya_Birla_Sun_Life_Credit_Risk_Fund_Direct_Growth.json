@@ -14,17 +14,17 @@
     ]
   },
   "nav": {
-    "value": 28.3444,
-    "date": "2026-11-18",
+    "value": 28.3508,
+    "date": "2026-11-19",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 11.26,
-    "three_year": 12.92,
-    "five_year": 10.85,
+    "one_year": 11.21,
+    "three_year": 12.91,
+    "five_year": 10.84,
     "since_inception": 8.39,
     "benchmark_one_year": null,
     "benchmark_three_year": null,
@@ -162,5 +162,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/birla-sun-life-corporate-bond-fund-direct-growth"
   ],
-  "last_scraped_at": "2026-11-19T09:06:15.949287Z"
+  "last_scraped_at": "2026-11-20T08:58:04.941659Z"
 }
