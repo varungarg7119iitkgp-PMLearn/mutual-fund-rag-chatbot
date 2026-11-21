@@ -14,16 +14,16 @@
     ]
   },
   "nav": {
-    "value": 24.3381,
-    "date": "2026-11-19",
+    "value": 23.3773,
+    "date": "2026-11-20",
     "high_52w": null,
     "high_52w_date": null,
     "low_52w": null,
     "low_52w_date": null
   },
   "returns": {
-    "one_year": 0.82,
-    "three_year": 27.56,
+    "one_year": -1.61,
+    "three_year": 26.32,
     "five_year": null,
     "since_inception": null,
     "benchmark_one_year": null,
@@ -120,5 +120,5 @@
   "source_urls": [
     "https://groww.in/mutual-funds/nippon-india-silver-etf-fof-direct-growth"
   ],
-  "last_scraped_at": "2026-11-20T08:57:52.014175Z"
+  "last_scraped_at": "2026-11-21T08:32:05.371133Z"
 }
